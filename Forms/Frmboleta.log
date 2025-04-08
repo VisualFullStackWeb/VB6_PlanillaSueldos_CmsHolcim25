@@ -1,0 +1,6 @@
+Línea 811: la clase MSComctlLib.ProgressBar del control BarraImporta no era una clase de control cargada.
+Línea 1365: la clase MSComctlLib.ProgressBar del control Barra no era una clase de control cargada.
+Línea 1377: la clase MSComctlLib.ProgressBar del control ProgressBar1 no era una clase de control cargada.
+Línea 1413: la clase MSComctlLib.ListView del control LstIngresos no era una clase de control cargada.
+Línea 1459: la clase MSComctlLib.ListView del control LstDeducciones no era una clase de control cargada.
+Línea 1499: la clase MSComctlLib.ListView del control LstAportaciones no era una clase de control cargada.

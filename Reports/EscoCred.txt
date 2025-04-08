@@ -1,0 +1,113 @@
+100011220150206OC00011910215470064       00000000045600.00Planilla de Haberes                     001912654539018
+2A19104917079044      125823482       ARACA CARITA URIEL EDMUNDO                                                 Referencia para el beneficiario         Ref. para la empresa000100000000000600.00S
+2A19104917166032      109938020       GUERRA GUTIERREZ PEDRO ROBERTO                                             Referencia para el beneficiario         Ref. para la empresa000100000000000600.00S
+2A19312326843055      106148445       SUAREZ MUCHA TEOBALDO ALGEMI                                               Referencia para el beneficiario         Ref. para la empresa000100000000000600.00S
+2A19111248486005      108622312       ROQUE DE LA CRUZ MANUEL JOSE                                               Referencia para el beneficiario         Ref. para la empresa000100000000000600.00S
+2A19314863997036      107326812       VERGARA ORMEÑO CESAR AUGUSTO                                               Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19314871812031      106933919       LIZARRAGA SEGURA WALTER EZEQUIEL                                           Referencia para el beneficiario         Ref. para la empresa000100000000000600.00S
+2A19314869321014      108660568       DAMIAN ROJAS DE ROSALE TERESA VILMA                                        Referencia para el beneficiario         Ref. para la empresa000100000000000900.00S
+2A19314871796014      106001072       SANCHEZ LLERENA LIZANDRO BENJAM                                            Referencia para el beneficiario         Ref. para la empresa000100000000000900.00S
+2A19105108303001      106121188       PANDO SAMANIEGO JOSE ABELARDO                                              Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19110655590020      106829531       AGUILAR CAMAN TOMAS                                                        Referencia para el beneficiario         Ref. para la empresa000100000000000600.00S
+2A19110733904026      110254748       SONO ZURITA TOMAS ANTONIO                                                  Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19119202007066      107350907       MONTES PORTALES ALBERTO ANICETO                                            Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19110655475004      109356207       GUZMAN GONZALES EDUARDO MARTIN                                             Referencia para el beneficiario         Ref. para la empresa000100000000000600.00S
+2A19104662551046      109620426       GONZALES VEGA CESAR ORLANDO                                                Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19104853398020      108546072       MORENO CHAVEZ ZENOBIO DENNER                                               Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19314871825044      110413240       NAVARRO MIRANDA LUIS ANGEL                                                 Referencia para el beneficiario         Ref. para la empresa000100000000000900.00S
+2A19312184652028      107171661       ROJAS ESPINOZA YRMA DONATILA                                               Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19104960401005      108534370       AGAMA MORENO JAVIER JORGE                                                  Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19110655427056      109172946       TRUJILLO JIMENEZ ENRIQUE FERNAND                                           Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19110872360080      115683884       PALACIOS CARO LUIS MANUEL                                                  Referencia para el beneficiario         Ref. para la empresa000100000000000900.00S
+2A19105106924008      107331954       CAZORLA FRANCO ELBA                                                        Referencia para el beneficiario         Ref. para la empresa000100000000000600.00S
+2A19105106921005      125645104       MENDEZ VASQUEZ DORIS HERMELIND                                             Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19314872843072      125697179       ROMERO DIAZ LILIANA                                                        Referencia para el beneficiario         Ref. para la empresa000100000000000600.00S
+2A19314863991030      106144061       RUIZ GUILLEN HIPOLITO                                                      Referencia para el beneficiario         Ref. para la empresa000100000000000600.00S
+2A19105106912096      108797590       MONTORO ARRIOLA MIGUEL OMAR                                                Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19105219004020      109622481       ESPINOSA CANCHARI VICTOR RAUL                                              Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19105108352050      107915242       QUEIJA ESTEVES LUIS ALEJANDRO                                              Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19311556642074      110316780       CCANTO VILLAFANE CARMEN ADRIANA                                            Referencia para el beneficiario         Ref. para la empresa000100000000000900.00S
+2A19311565161079      108081631       ECOS VASQUEZ YRIS TERESA                                                   Referencia para el beneficiario         Ref. para la empresa000100000000000600.00S
+2A19111707337091      106797657       VERA TORRES HENRY MOISES                                                   Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19313274966055      109428395       CUBAS CAMACHO SERGIO CESAR                                                 Referencia para el beneficiario         Ref. para la empresa000100000000000600.00S
+2A19314863978017      106696207       SAMPERTEGUI QUIROZ ANGEL MANUEL                                            Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19314864680026      109157556       MENDOZA SILVA JOAQUIN ENRIQUE                                              Referencia para el beneficiario         Ref. para la empresa000100000000000600.00S
+2A19314829753046      108007212       VARGAS MACHUCA SALDARRIAGA MANUEL FERNANDO                                 Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19315237310021      106710676       CALDERON ROMERO JESUS EDWIN                                                Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19314928622014      109934271       BRAVO VICENTE KATHERINE MAYTE                                              Referencia para el beneficiario         Ref. para la empresa000100000000000600.00S
+2A19110664687009      125724190       BELLIDO ZAMBRANO YURI JAVIER                                               Referencia para el beneficiario         Ref. para la empresa000100000000000600.00S
+2A19313273865043      107246317       SANDOVAL SORIA MARTHA YOLANDA                                              Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19314871786004      125600347       MARTINEZ RAMOS NINA EDITH                                                  Referencia para el beneficiario         Ref. para la empresa000100000000000900.00S
+2A19311539816078      115841695       MUÑOZ OLORTEGUI CARLOS ANTONIO                                             Referencia para el beneficiario         Ref. para la empresa000100000000000600.00S
+2A19314871791009      109677896       DIAZ RAMOS CLAUDIA ISABEL                                                  Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19312280603049      118085333       PIMENTEL ATOCHE MARIA ELENA                                                Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19312376957075      108584926       RODRIGUEZ GOMEZ ROSARIO LILIANA                                            Referencia para el beneficiario         Ref. para la empresa000100000000000600.00S
+2A19312339739081      106877111       SAUCEDO GARRIDO GREGORIO                                                   Referencia para el beneficiario         Ref. para la empresa000100000000000600.00S
+2A19312059921037      109895575       GONZALES CUBILLAS MARIA JULIA                                              Referencia para el beneficiario         Ref. para la empresa000100000000000600.00S
+2A19314871803022      109623309       HUAMANI QUILCA REYNALDO                                                    Referencia para el beneficiario         Ref. para la empresa000100000000000600.00S
+2A19312615103027      122189094       LOPEZ CARDENAS JUAN ANTONIO                                                Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19313310300047      110413151       ARCE MIO EVERALDO                                                          Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19313561415098      110353372       VALDERA CAJUSOL LUIS OMAR                                                  Referencia para el beneficiario         Ref. para la empresa000100000000000600.00S
+2A19314871760078      106239759       ALTAMIRANO MONTES NESTOR CESAR                                             Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19212211592040      109746071       LIZANO CUBA HENRY                                                          Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19314866270032      110663970       ROJAS RAMOS MAGALY MISELY                                                  Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A23514872815061      115856540       RODRIGUEZ CADILLO JOSE ALBERTO                                             Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19314271496051      110483439       SAIRE CCORA GABY ERIKA                                                     Referencia para el beneficiario         Ref. para la empresa000100000000000900.00S
+2A19315053704061      109079411       PALOMINO BONELLI GLADYS MIRTHA                                             Referencia para el beneficiario         Ref. para la empresa000100000000000600.00S
+2A19315170851091      125756398       COLLANQUE HUANCA ANA CECILIA                                               Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19315220978024      124718977       ZEVALLOS MERMA VICTOR ANTONIO                                              Referencia para el beneficiario         Ref. para la empresa000100000000000600.00S
+2A19314965741008      110191981       HUALLPA HUAMANI VIDAL                                                      Referencia para el beneficiario         Ref. para la empresa000100000000000600.00S
+2A19315874502049      129729062       CARLIN VILLARREAL VICTOR MARTIN                                            Referencia para el beneficiario         Ref. para la empresa000100000000000600.00S
+2A19316073630089      108171137       HERRERA ROMAN PABLO CESAR                                                  Referencia para el beneficiario         Ref. para la empresa000100000000000600.00S
+2A19316965176039      123974659       ROMERO PACHECO MARCO ANTONIO                                               Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19314965678044      108156832       GARCIA BELAMADO MARCOS WILLIAM                                             Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19315405130036      143313681       PAREJA CELI JORGE MIGUEL                                                   Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19317087855058      143090009       VENTURA HAYTA JOHANA KAREN                                                 Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19317412647031      144923140       VICENTE QUISPE JHON ERICK                                                  Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19314965451015      121877972       CASAS RODRIGUEZ BENJAMIN HEBERT                                            Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19117970816038      143391272       PRINCIPE MENA RUSSBEL SANTOS                                               Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19118113670035      106058433       FLORES MALDONADO ISABEL SUSANA                                             Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19118655942084      141017063       CACERES ARIZA CARLOS AUGUSTO                                               Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19119253824006      107975164       ELESCANO SAENZ ALBERTO CARLOS                                              Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19314965727094      106820722       GUZMAN VARELA JESUS GERARDO                                                Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19120611060051      109433260       SANDOVAL ALOR FREDDY RODY                                                  Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19120611051042      144378047       ALARCON VIGIL SERGIO ALFONSO                                               Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19120869751054      108454796       PEÑALOZA CALLUPE LUIS ENRIQUE                                              Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19120883291031      110808711       ESPINOZA MEDINA ARMANDO SEBASTI                                            Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19112009312017      110248242       ALARCON SANCHEZ MARCO ANTONIO                                              Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19314966269041      109948635       SANTA CRUZ SANCHEZ JESUS FILEMON                                           Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19121896172043      108169113       ROSALES FLORES GINO SAUL                                                   Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19121896168039      141514227       CORAHUA BARRIENTOS CHRISTIAN                                               Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19121969597009      110646063       VALDEZ VEGA ROBINSON JOE                                                   Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19314965300063      108324585       ARTEAGA CABANA JOSE ELIAS                                                  Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19122843607049      142213940       QUISPE RIOS FRANCKLIN MANUE                                                Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19123594684012      144437673       NAVARRO SEGUNDO LUIS                                                       Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19314965654020      109614683       FERNANDEZ AVILA DANIEL RUFINO                                              Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19124876362036      140619966       PALOMINO QUIROZ JUAN ARMANDO                                               Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19120996618003      145700474       ASENCIOS QUINCHO LEYDY YESABELA                                            Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19125174454040      141586558       QUISPE BALANDA ERIKA CARMEN                                                Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19125549929007      141939928       ARAOZ TARCO RODMAN                                                         Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19314966210082      109468331       ROBLES VEGA OSCAR MARTIN                                                   Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19126227618042      145321303       OTOYA PAREDES CINDY PAULETTE                                               Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19126656332086      142676781       GUZMAN AURORA VICTOR JHONNY                                                Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19126777734014      142906584       HUERTA CABRERA MIJAIL VALENTIN                                             Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19126838425018      109428443       CHAVEZ PINCHI CARLOS ENRIQUE                                               Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19127561198092      146057461       GALDOS REYES GUILLERMO RAUL                                                Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19127744453098      120108101       PARICAHUA RAMOS FERMIN                                                     Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19127744442087      146363098       BALBIN VILLANUEVA WILSON                                                   Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19314871821040      140587007       QUINTANILLA CABALLERO SARA MARIA                                           Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19128073416085      144846023       CASTILLO ALCANTARA SILVIA CRISTINA                                         Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19128322896084      141153331       AVALOS ASILLO OSCAR TITO                                                   Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19128363528027      121278262       VILLEGAS GOMEZ EDEN VICENTE                                                Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19128453877088      147056504       RAMOS CHAVEZ LINDA GIULIANA                                                Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19128549802082      146554480       MURRUGARRA ZUÑIGA CARLOS ALFREDO                                           Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19128489515086      172578508       DIAZ PAZ ELIA LUCIA                                                        Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19128526077017      110409255       GARCIA DE LA CRUZ FELIX MARTIN                                             Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19128751932054      106589473       BARRANTES REY JOSE GILBERTO                                                Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19128946925016      143712487       MORENO ABAN KELY KATHERINE                                                 Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19129084473054      115293090       VELASQUEZ OBREGON MOISES FRANCISC                                          Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19129313860058      140660828       JIMENEZ CORONADO VIOLETA ANDREA                                            Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19129632848068      144483941       ORTIZ ALVAREZ JHONATAN AMERIC                                              Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19129761917041      145671314       SONCCO LOZANO ALBERT                                                       Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19130804852010      143890984       TSUCHIDA KIAN CYNTHIA                                                      Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S
+2A19130926804094      170301134       MOSCOSO RAMOS JILMER                                                       Referencia para el beneficiario         Ref. para la empresa000100000000000300.00S

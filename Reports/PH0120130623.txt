@@ -1,0 +1,358 @@
+#1HC01000000006678      S/00000001193468107062013                    0000204492749350003591               1
+ 2A14900065691057      GOMERO CABANILLAS CRISTIAN MILNER       S/000000000046007                                        0DNI40058510    0
+ 2A14900065442006      CARRASCO CARPIO NICANOR                 S/000000000032859                                        0DNI10428962    0
+ 2A14900066249021      ROSAS MANRIQUE SANTOS RUBEN             S/000000000031843                                        0DNI25637897    0
+ 2A14900065904073      MAYHUIRE POCCORE BERNABE                S/000000000061585                                        0DNI06777745    0
+ 2A14900065745012      HUAMANI PENA FAUSTINO CRISTOBAL         S/000000000033130                                        0DNI06191418    0
+ 2A14900065540005      COAQUIRA MAMANI JUVENCIO                S/000000000051460                                        0DNI09933582    0
+ 2A14900066243015      ROSALES CCASANI JUAN                    S/000000000038710                                        0DNI10532884    0
+ 2A14800025373060      ALCANTARA ESTRADA EDGAR                 S/000000000034578                                        0DNI42163132    0
+ 2A14800077300012      MUNOZ ESPINOZA TEOFINES AURELI          S/000000000050306                                        0DNI23269543    0
+ 2A14900065733000      HERRERA ALEJO ESTEBAN                   S/000000000032459                                        0DNI10331153    0
+ 2A14900066188059      RIOS LEZAMA TOMAS                       S/000000000046181                                        0DNI10506286    0
+ 2A14900066206078      RIVERA MOLINA JORGE WILFREDO            S/000000000044548                                        0DNI16155469    0
+ 2A16400041277049      TORRES IMAN PABLO                       S/000000000049309                                        0DNI02878558    0
+ 2A26000091651002      ESTRADA COTERA FELIX ANTONIO            S/000000000049327                                        0DNI20067795    0
+ 2A14900065809077      LOPEZ DURAND ALEJANDRO                  S/000000000044310                                        0DNI10646326    0
+ 2A14900065511076      CHAUCA ISIDRO JUAN PAULINO              S/000000000037732                                        0DNI07168296    0
+ 2A14900065990059      NEYRA CORONADO RENE ELISEO              S/000000000030395                                        0DNI08070262    0
+ 2A14900065274036      ARENAS CAUTI CLAUDIO CIRILO             S/000000000032494                                        0DNI08441011    0
+ 2A14900065869037      MARTINEZ AVILA DARIO FERRER             S/000000000028035                                        0DNI25441432    0
+ 2A14900066020090      OSORIO MENDOZA EUFRACIO                 S/000000000036484                                        0DNI09431766    0
+ 2A14900066241013      ROSALES BENITES MARCOS                  S/000000000032293                                        0DNI40000166    0
+ 2A14900065661027      FERNANDEZ VIDARTE ENRIQUE               S/000000000035898                                        0DNI10576846    0
+ 2A14900065536001      CLAROS ARGUELLO CARLOS ALBERTO          S/000000000030839                                        0DNI09971173    0
+ 2A14900066027097      OYARCE MORI JOSE NOLASCO                S/000000000037845                                        0DNI08341815    0
+ 2A14900065490054      CAYAMPI VALDEZ ANGELINO                 S/000000000039112                                        0DNI09798528    0
+ 2A14900066077047      PASACHE YMAN MANUEL ASUNCION            S/000000000039832                                        0DNI02768613    0
+ 2A14900066264036      SANDOVAL TORRES LUIS ENRIQUE            S/000000000022048                                        0DNI16714303    0
+ 2A14900065281043      ARGUEDAS APAZA JUAN PASTOR              S/000000000037909                                        0DNI10519575    0
+ 2A14900066112083      PINAS SANABRIA CELSO VICTOR             S/000000000036152                                        0DNI08481172    0
+ 2A14900065918087      MENDOZA CADILLO HERMINIO TEOFIL         S/000000000055714                                        0DNI08670049    0
+ 2A14900066032002      PALACIOS ESPINOZA VICTOR ROEL           S/000000000038186                                        0DNI08450016    0
+ 2A14900066099069      PILCO PACO CRISOLOGO RENE               S/000000000036537                                        0DNI10434776    0
+ 2A14900066400074      ZUCA HUAYANA MARCELINO                  S/000000000033490                                        0DNI10368911    0
+ 2A14900066258030      SAMANIEGO GALLO RIGOBERTO               S/000000000041256                                        0DNI06920945    0
+ 2A14900066398071      ZEA TENORIO MIGUEL ANGEL                S/000000000028743                                        0DNI40122303    0
+ 2A14900065307070      ATAO MORALES JULIO                      S/000000000038091                                        0DNI10049261    0
+ 2A14900066235007      ROMAN CHOCCARE PAULINO                  S/000000000041112                                        0DNI06034947    0
+ 2A14900066251023      SALAS RAMOS MARIANO                     S/000000000050876                                        0DNI06129664    0
+ 2A14900065421085      CALDAS VARA ADRIAN ALEJANDR             S/000000000037585                                        0DNI10506390    0
+ 2A14900066391064      ZAMBRANO TUCNO JULIO                    S/000000000034382                                        0DNI06013625    0
+ 2A14900066347020      VARGAS DIAZ LAZARO                      S/000000000032298                                        0DNI08381558    0
+ 2A14900065251013      AMAO SAYAS VALENTIN                     S/000000000037482                                        0DNI09466143    0
+ 2A14900065263025      APAZA CONDORI EUGENIO                   S/000000000039305                                        0DNI07169855    0
+ 2A14900066284056      SOLANO AZANA ESDRAS MATEO               S/000000000054977                                        0DNI06840146    0
+ 2A14900065586051      CONTRERAS ZANABRIA ABEL                 S/000000000025211                                        0DNI06917369    0
+ 2A14900065759026      JAQUE JARAMILLO PABLO MARTIN            S/000000000030763                                        0DNI09281795    0
+ 2A14900065314077      BARRIENTOS GUZMAN JULIAN                S/000000000023552                                        0DNI07144121    0
+ 2A14900066221093      RODRIGUEZ ENCISO ANGEL RAFAEL           S/000000000037482                                        0DNI09549988    0
+ 2A14900066355028      VEGA MORI JULIO                         S/000000000042117                                        0DNI10615936    0
+ 2A14900066051021      PANTA MONDRAGON ALEX RUBEN              S/000000000036923                                        0DNI02856181    0
+ 2A14900066281053      SOCA JORGE FELICIANO                    S/000000000031002                                        0DNI25715225    0
+ 2A14900065698064      GONGORA VARGAS SEGUNDO ANASTAC          S/000000000043051                                        0DNI09468575    0
+ 2A14900066119090      PRIETO TAVARA GUILLERMO DUQUE           S/000000000036266                                        0DNI25723750    0
+ 2A14900066280052      SAYAS AYALA FLORENCIO                   S/000000000059825                                        0DNI06867301    0
+ 2A14900065255017      ANORGA VALVERDE LADISLAO ELIAS          S/000000000044924                                        0DNI09795528    0
+ 2A14900065235097      ALLCCA BARRIENTOS ANTONIO               S/000000000042531                                        0DNI06865026    0
+ 2A14900066307080      SONCCO CERVANTES JULIAN                 S/000000000033381                                        0DNI06844535    0
+ 2A15600007767019      CCORAHUA CHUQUIRAY VICENTE GAUDENC      S/000000000048270                                        0DNI06166860    0
+ 2A14900065529094      CHIPANA ORTIZ CIRO                      S/000000000028642                                        0DNI10409734    0
+ 2A15200020965011      ANORGA ESTRADA FELIX CATALINO           S/000000000048840                                        0DNI10164415    0
+ 2A14900065639005      ESPINOZA CABELLO ANDRES FELIX           S/000000000036541                                        0DNI10070114    0
+ 2A14900065634000      DIAZ QUISPE JULIO                       S/000000000043990                                        0DNI31460621    0
+ 2A14900066351024      VASQUEZ SAYAS OSCAR LORENZO             S/000000000041391                                        0DNI25567615    0
+ 2A14900065956025      MIRANDA PACHECO WILLY                   S/000000000039007                                        0DNI08522051    0
+ 2A14900066070040      PARRA ALVARADO GUIDO EDGARDO            S/000000000032135                                        0DNI09470111    0
+ 2A14900065418082      CACERES QUISPE HIPOLITO                 S/000000000065595                                        0DNI06953445    0
+ 2A14900066324097      SOTO CECENARIO SAMUEL BERNARDI          S/000000000043559                                        0DNI09756034    0
+ 2A14900065233095      ALARCON SERNAQUE AGUSTIN                S/000000000037699                                        0DNI02853448    0
+ 2A14900066326099      SUAREZ ZARATE CESAR EMILIO              S/000000000035295                                        0DNI03886808    0
+ 2A14900065833001      MALLMA MIRANDA ESTEBAN                  S/000000000028608                                        0DNI31035650    0
+ 2A14900065246008      ALVINO CANO LELIS CLEDI                 S/000000000033234                                        0DNI41472691    0
+ 2A14900066253025      SALAZAR DAMIAN LUIS GONZALO             S/000000000031390                                        0DNI25716732    0
+ 2A14900065509074      CERDA CISNEROS DONATO                   S/000000000030607                                        0DNI06903728    0
+ 2A14900065851019      MAQUIN FIGUEROA GABRIEL JUAN            S/000000000049245                                        0DNI10397946    0
+ 2A14900066140011      PUSSE TERRONES SEGUNDO ALEXAND          S/000000000039814                                        0DNI42594293    0
+ 2A14900065243005      ALVAREZ TORRES JULIO JUAN               S/000000000047374                                        0DNI32609775    0
+ 2A14900065530095      CIEZA VEGA JUAN ESPERANZA               S/000000000046581                                        0DNI06874910    0
+ 2A14900066003073      ORTIZ CORONEL LUIS ALBERTO              S/000000000046623                                        0DNI09973322    0
+ 2A14900065977046      MORI LOPEZ JULIAN                       S/000000000039517                                        0DNI10786234    0
+ 2A14900065761028      JARA RODRIGUEZ WILMER                   S/000000000030159                                        0DNI00327823    0
+ 2A14900065306069      ASTOQUILLCA OBREGON CARLOS              S/000000000029250                                        0DNI28809223    0
+ 2A14900066153024      RAMON TORRES MILLER                     S/000000000039489                                        0DNI10237320    0
+ 2A14900065316079      BELLIDO CASABLANCA JUAN GUALBERTO       S/000000000038624                                        0DNI08272229    0
+ 2A14900065470034      CASTRO CRUZ VICTOR                      S/000000000031211                                        0DNI25636113    0
+ 2A14900065921090      MENDOZA CORNEJO SERAPIO                 S/000000000029056                                        0DNI40338662    0
+ 2A14900065751018      INONAN SANCHEZ ELMER                    S/000000000044492                                        0DNI10412557    0
+ 2A14900065239001      ALLCCA LLANO DONATO                     S/000000000034642                                        0DNI40738821    0
+ 2A14900065669035      FLORES PARDO JUSTO                      S/000000000034200                                        0DNI06045229    0
+ 2A14900066380053      VILLAR BORJAS CESAR HUMBERTO            S/000000000072746                                        0DNI41710433    0
+ 2A14900066177048      REYES VALDEZ ANGEL WILMER               S/000000000034607                                        0DNI09513818    0
+ 2A14900066286058      SOLGORRE ARCOS VICTOR ALEJANDR          S/000000000046746                                        0DNI10383197    0
+ 2A14900065983052      NAJARRO MEDINA FELIX                    S/000000000047189                                        0DNI31465368    0
+ 2A14900066338011      TORRES YAURI WALDO LUIS                 S/000000000039238                                        0DNI07119168    0
+ 2A14900065673039      GAMBOA MEDINA VICTOR                    S/000000000040938                                        0DNI43238379    0
+ 2A14900065644010      ESPIRITU ASENCIOS ALFONSO PEDRO         S/000000000036586                                        0DNI10413732    0
+ 2A14900065608074      CURI LUGO JUAN PABLO                    S/000000000036770                                        0DNI10535971    0
+ 2A14900065663029      FLORES ENRIQUEZ JUAN BAUTISTA           S/000000000032224                                        0DNI06947171    0
+ 2A14900066142013      QUINONES QUINTO MAURO EUTIMIO           S/000000000037360                                        0DNI07129734    0
+ 2A14900065542007      CONDOR QUISPE HUBER PAUL                S/000000000036166                                        0DNI10070695    0
+ 2A14900066345018      VARA HILARIO ANTIOGENES                 S/000000000030849                                        0DNI25826864    0
+ 2A14900066154025      RAMOS CRUZ VALERIO HIGIDIO              S/000000000034610                                        0DNI80258792    0
+ 2A14900066159030      RAMOS MALLMA FAUSTINO                   S/000000000034221                                        0DNI09788435    0
+ 2A14900065659025      FERNANDEZ DIAZ ROGELIO                  S/000000000046262                                        0DNI09474003    0
+ 2A14900065787054      LIBERATO JULCA MANSUETO SABINO          S/000000000036995                                        0DNI07249023    0
+ 2A14900065460024      CASTILLO TORRES MOISES SALOMON          S/000000000033705                                        0DNI08453583    0
+ 2A14900065994063      NINAQUISPE PAREDES FELIX                S/000000000038523                                        0DNI06205786    0
+ 2A14900065271033      ARAUJO BLAS JOSE SANTOS                 S/000000000030610                                        0DNI09053350    0
+ 2A14900066378051      VILLADEZA RAMIREZ AMANCIO               S/000000000031020                                        0DNI32270937    0
+ 2A14900065495059      CCOICCA ARBIETO DONATO RAMON            S/000000000040521                                        0DNI06125231    0
+ 2A14900065573038      CONDORI DELGADO SILVESTRE               S/000000000040728                                        0DNI06246967    0
+ 2A14900066341014      URBANO CRUZ VALENTIN NEMESIO            S/000000000037143                                        0DNI08278015    0
+ 2A14900065522087      CHAVEZ ROMAN JUAN RUPERTO               S/000000000037250                                        0DNI08505230    0
+ 2A14900066260032      SANCHEZ SALVATIERRA ZENON ISMAEL        S/000000000040842                                        0DNI08442861    0
+ 2A14900066332005      TAFUR RAMOS VALENTIN ZENON              S/000000000033318                                        0DNI06885498    0
+ 2A14900065446010      CARRILLO PUMA GABRIEL ANGEL             S/000000000037155                                        0DNI09475894    0
+ 2A14900065266028      APAZA JARA RODOLFO ROBERTO              S/000000000044949                                        0DNI09521310    0
+ 2A14900065771038      LANCI YUMBATO HUMBERTO                  S/000000000034209                                        0DNI00067272    0
+ 2A14900065455019      CASTILLO PINEDO JORGE MIGUEL            S/000000000034986                                        0DNI25659597    0
+ 2A14900065864032      MARQUEZ RUMI LILES CLIDIOS              S/000000000027539                                        0DNI22495666    0
+ 2A14900065928097      MENDOZA MIRANDA GENARO RICARDO          S/000000000030679                                        0DNI06759708    0
+ 2A14900066306079      SOLORZANO POMA ROSARIO                  S/000000000034592                                        0DNI80260358    0
+ 2A14900065466030      CASTILLO VILLANUEVA FAUSTINO            S/000000000037115                                        0DNI06872323    0
+ 2A14900065352015      BERMUDEZ GIRALDO FAUSTINO MARTIN        S/000000000042670                                        0DNI40058606    0
+ 2A14900065347010      BENITES TARAZONA DEIVIN KLEN            S/000000000029944                                        0DNI10777463    0
+ 2A16400016047064      GASTULO MIO MIGUEL ANGEL                S/000000000034799                                        0DNI42463209    0
+ 2A14900066343016      VALLADOLID LLOCYA IGNACIO               S/000000000032995                                        0DNI03384410    0
+ 2A14900065877045      MARTINEZ DURAN EVER EDWIN               S/000000000032383                                        0DNI42315729    0
+ 2A19400042227012      DE LA CRUZ FLORES CRISTOPLER CHAR       S/000000000028670                                        0DNI43434332    0
+ 2A14900066266038      SANGAMA PINEDO MAURO                    S/000000000038439                                        0DNI80106854    0
+ 2A14900065601067      CUADRADO MANUECO ROMULO                 S/000000000030710                                        0DNI21261914    0
+ 2A16000023553006      AMBROCIO DIAZ MARCELINO NEOFI           S/000000000035360                                        0DNI09743109    0
+ 2A15500071580067      LEON ARCE ULISES GERARDO                S/000000000035947                                        0DNI42480079    0
+ 2A15500071583070      OBESO SALINAS DANIEL CHRISTIA           S/000000000035675                                        0DNI42283201    0
+ 2A15500081374060      PORTOCARRERO MENDOZA GABRIEL MARTIN     S/000000000044930                                        0DNI40018934    0
+ 2A15600028220079      RAMOS CRUZ HERMENEGILDO ED              S/000000000027875                                        0DNI32611794    0
+ 2A15600028224083      VILCHEZ CERRON ROBERTO                  S/000000000039969                                        0DNI20109517    0
+ 2A15600028222081      BANCES VILLEGAS BALDEMAR                S/000000000031366                                        0DNI41095323    0
+ 2A15600079388063      YOVERA NIZAMA JOSE PORFIRIO             S/000000000029157                                        0DNI40472436    0
+ 2A15900060478093      MAS MAS GEREMIAS                        S/000000000031519                                        0DNI43622338    0
+ 2A26200074714014      MARTINEZ DURAND EDUARDO JAVIER          S/000000000022510                                        0DNI45515749    0
+ 2A15900080373089      DURAN CORONEL EMILERIO FELIX            S/000000000031326                                        0DNI42265555    0
+ 2A16000023556009      BAUTISTA JARA ASUNCION                  S/000000000035426                                        0DNI03581093    0
+ 2A16000053052003      BAILON PATRICIO ROY ROGER               S/000000000028159                                        0DNI80191591    0
+ 2A16000061252086      VILCHEZ IPANAQUE ALDO                   S/000000000022558                                        0DNI44177204    0
+ 2A18200075168064      RODRIGUEZ PACHECO FREDY                 S/000000000024924                                        0DNI44532159    0
+ 2A16100061769018      YNSAPILLO CHUJANDAMA JAYRO              S/000000000037677                                        0DNI40274937    0
+ 2A16100061773022      CRISPIN OLIVO CARLOS VIRGILIO           S/000000000027808                                        0DNI45694793    0
+ 2A23600098974055      SAENZ SOLIS YOLVER RONAL                S/000000000026223                                        0DNI46084018    0
+ 2A16700091028033      CALLATA HUAYCHA VICTOR                  S/000000000036447                                        0DNI09052890    0
+ 2A16700091024029      NOLORBE FLORES LUIS HILARIO             S/000000000032265                                        0DNI44558305    0
+ 2A16800001767080      RAMOS ASENCIO JUAN CARLOS VIC           S/000000000036200                                        0DNI42986967    0
+ 2A16800006781044      GOMEZ HERNANDEZ JOSE ANTONIO            S/000000000033855                                        0DNI10815414    0
+ 2A22400003589086      VARA CRUZ JUAN CARLOS                   S/000000000027934                                        0DNI46177808    0
+ 2A16900080799020      MORCERA CHAVEZ WILLY ANTONIO            S/000000000034498                                        0DNI05347749    0
+ 2A17100031152093      CAPRISTAN AGUILAR EVER PERCY            S/000000000033942                                        0DNI25823621    0
+ 2A22200087398021      SERNAQUE GIRON SEGUNDO MANUEL           S/000000000026682                                        0DNI10070398    0
+ 2A17200012689053      RODRIGUEZ DIAZ JULIAN                   S/000000000039550                                        0DNI41676890    0
+ 2A17300070067021      ZUNIGA ALCANTARA JUAN CARLOS            S/000000000026907                                        0DNI41938520    0
+ 2A17500064255070      AGURTO CHAVEZ PEDRO ROBERTO             S/000000000030689                                        0DNI10409947    0
+ 2A17900004477028      MIRANDA ESTRADA RONALD CARLOS           S/000000000027913                                        0DNI42325252    0
+ 2A18000025908087      SOBRADO ACOSTA MIGUEL                   S/000000000026665                                        0DNI80077949    0
+ 2A18200036230033      CHISTAMA MOZOMBITE JAIMITO              S/000000000028744                                        0DNI45372944    0
+ 2A18300007228048      SALCEDO PACHECO EZEQUIEL CARLOS         S/000000000026403                                        0DNI47018226    0
+ 2A18400060224090      MOGOLLON LAZARO GUILLERMO MARCE         S/000000000028623                                        0DNI42598207    0
+ 2A18400091831016      SANGAMA RUIZ CLEVER                     S/000000000037854                                        0DNI41209957    0
+ 2A18500040451027      BERRIOS RODRIGUEZ JUVER ALVIO           S/000000000028300                                        0DNI44448984    0
+ 2A18500040444020      RUIZ RODRIGUEZ JOSE LUIS                S/000000000028426                                        0DNI41666556    0
+ 2A18500040438014      VASQUEZ DEL AGUILA RUBEN RAY            S/000000000031365                                        0DNI42707598    0
+ 2A18700028659035      CHAVEZ ZAMORA LLESY                     S/000000000030952                                        0DNI43385105    0
+ 2A18700074266003      ARIAS SALCE RENZO DAVID                 S/000000000031649                                        0DNI42180775    0
+ 2A18700074270007      CHAMOCHUMBI ALTAMIRANO VICTOR ARMANDO   S/000000000052341                                        0DNI41826913    0
+ 2A18800011267078      JUAREZ LLERENA GUILBE GREGORIO          S/000000000037863                                        0DNI09803997    0
+ 2A24900001691021      BULLON GOZAR RONALD ROY                 S/000000000026956                                        0DNI43343598    0
+ 2A18800045871031      PULIDO CHAHUA NELSON PAUL               S/000000000029843                                        0DNI42283211    0
+ 2A18800045855015      SOTELO RAMIREZ LUIS                     S/000000000030905                                        0DNI70095724    0
+ 2A19000040154078      JARAMILLO MORI MARTIN VALENTIN          S/000000000036559                                        0DNI40059062    0
+ 2A19000080577009      MAYANGA FERNANDEZ CESAR AUGUSTO         S/000000000026190                                        0DNI40128214    0
+ 2A19100058987010      IBARRA DE LA CRUZ JHON HARGENIS         S/000000000045681                                        0DNI42123123    0
+ 2A19400051082056      FLORES IVARRA IVAN FLORENCIO            S/000000000033108                                        0DNI45703380    0
+ 2A19500069028093      CHAVEZ VERGARAY MIGUEL ANGEL            S/000000000026067                                        0DNI43982871    0
+ 2A19700056869031      VIERA GUZMAN TOMAS GUSTAVO              S/000000000027877                                        0DNI47532178    0
+ 2A19700086115073      GUZMAN RODRIGUEZ HERNAN                 S/000000000034991                                        0DNI08002984    0
+ 2A20000012175017      ALAMO VILLEGAS PEDRO ALEJANDRO          S/000000000040893                                        0DNI45288840    0
+ 2A20300099966024      ROJAS ROMERO JHON CARLO                 S/000000000025418                                        0DNI44568433    0
+ 2A20300099958016      VASQUEZ DEL AGUILA DIEGO ALONSO         S/000000000026807                                        0DNI47507095    0
+ 2A20400075523045      MORENO VERAMENDI JAIME RAMIRO           S/000000000032120                                        0DNI10689547    0
+ 2A20400064157064      HURTADO TORRES CELSO                    S/000000000028631                                        0DNI42409787    0
+ 2A20400080831007      HURTADO TORRES GILBERT                  S/000000000031623                                        0DNI31020424    0
+ 2A20500034211026      GARCIA ESCOLASTICO FELIX AGUSTO         S/000000000030711                                        0DNI44466217    0
+ 2A20500059541011      HERRERA HUARCAYA PABLO EPIFANIO         S/000000000041596                                        0DNI41575766    0
+ 2A20500094265086      ZEVALLOS SOSA NEYSER                    S/000000000023936                                        0DNI41538258    0
+ 2A20600002141042      CONQUE TOLENTINO EUSEBIO TEOFILO        S/000000000036225                                        0DNI40207310    0
+ 2A20600002143044      VEGA ARECHE MIGUEL ANTONIO              S/000000000030009                                        0DNI45382349    0
+ 2A20700064048084      RAMOS PONTE ROFINO GRIFER               S/000000000032885                                        0DNI47265625    0
+ 2A20800027489065      ESTRADA CANTORIN CRISPEN                S/000000000045268                                        0DNI47528967    0
+ 2A20900027534021      GALARRETA HUACCHA FREDY DUVAL           S/000000000026879                                        0DNI42293557    0
+ 2A20900027537024      BERRU CRUZ PALERMO                      S/000000000027782                                        0DNI43669125    0
+ 2A21000002235078      CHURA MAMANI HECTOR                     S/000000000022946                                        0DNI46126578    0
+ 2A21100026549047      MORALES VEGA DAVID                      S/000000000034879                                        0DNI42776843    0
+ 2A21100091791048      SHUNA SINTI FAVIO                       S/000000000033596                                        0DNI05631198    0
+ 2A21300026055068      TELLO SANTOS ERSEYES CARLOS             S/000000000033924                                        0DNI43782382    0
+ 2A21300049756008      EGOAVIL ROJAS ALEJANDRO                 S/000000000026737                                        0DNI60310386    0
+ 2A21300071278048      HUASHUAYO QUISPE SANTOS                 S/000000000027792                                        0DNI48064946    0
+ 2A21300071282052      MOGOLLON RODRIGUEZ ISAAC                S/000000000027038                                        0DNI47143407    0
+ 2A21300071287057      BAZALAR APARICIO GIOVANNI WALTER        S/000000000031661                                        0DNI45781080    0
+ 2A21300077364095      VIDEIRA MOZOMBITE JOSE GUIMAS           S/000000000033485                                        0DNI10458314    0
+ 2A21400027780020      MANANI CARHUAMANTA JOSE MAXIMO          S/000000000056374                                        0DNI20710396    0
+ 2A21400027784024      ROSALES FLORES MANUEL ANTONIO           S/000000000060565                                        0DNI15709444    0
+ 2A23600078972051      HUAMAN ZAMBRANO ANTONY ANDY             S/000000000042832                                        0DNI71485794    0
+ 2A21400091776063      ALCANTARA ESTRADA JOSUE                 S/000000000047340                                        0DNI48211134    0
+ 2A21500016223057      BARTRA DEL AGUILA EDER MICK             S/000000000025189                                        0DNI42510935    0
+ 2A21500016234068      VILLADEZA BRAVO DEIVES GUDMER           S/000000000031645                                        0DNI47558349    0
+ 2A21500037313060      FLORES OLIMARES MARCO ANTONIO           S/000000000020770                                        0DNI45370092    0
+ 2A21500079259029      RIVERA MARCOS JONNY GERCY               S/000000000041695                                        0DNI40318051    0
+ 2A21500079267037      RAMOS ANACLETO GUILLERMO FLOIR          S/000000000022618                                        0DNI10166365    0
+ 2A21500087770026      PUJAICO SHUPINGAHUA JAVIER ALLAN        S/000000000025428                                        0DNI43225000    0
+ 2A21500090543028      MENDOZA PACHERRE ELVER                  S/000000000030965                                        0DNI43789448    0
+ 2A21600059860044      MENDOZA MONTALBAN JHONY                 S/000000000028876                                        0DNI44743113    0
+ 2A21600077184043      MORILLO VARAS HELKY HIEMER              S/000000000032057                                        0DNI46215808    0
+ 2A21700019174057      AGUILAR VARGAS JUAN SAMUEL              S/000000000022706                                        0DNI45832388    0
+ 2A21800056296064      SANCHEZ SANCHEZ CARLOS                  S/000000000031012                                        0DNI48100107    0
+ 2A21900009056057      FLORES ZEVALLOS EDSON JAIR              S/000000000024585                                        0DNI45803427    0
+ 2A26200002310079      PERCIAL CAJUSOL CRISTIAN JOEL           S/000000000019470                                        0DNI47796357    0
+ 2A21900084150010      GOMERO CABANILLAS FREDY EMERSON         S/000000000026370                                        0DNI42767658    0
+ 2A25300083515013      BERRU CRUZ ESGARDO                      S/000000000029487                                        0DNI43092683    0
+ 2A22000042009055      USHINAHUA REYNA DARWIN                  S/000000000038932                                        0DNI05391407    0
+ 2A22000061134073      CHAPONAN LEONARDO JOSE CARLOS           S/000000000030905                                        0DNI46651545    0
+ 2A22100013875046      CCANRE PERALTA LUIS ALBERTO             S/000000000044081                                        0DNI70263971    0
+ 2A25900043287038      CURILLA RIVERA PEDRO CESAR              S/000000000051999                                        0DNI20667097    0
+ 2A22100007024026      CRISANTO PACHERRES EDGARD JOEL          S/000000000029063                                        0DNI45624520    0
+ 2A22200001196049      PEREZ MOZOMBITE LUIGI PIERO             S/000000000026969                                        0DNI42407139    0
+ 2A22200081690056      CHUJANDAMA ISUIZA ELICEO                S/000000000024955                                        0DNI48087344    0
+ 2A22200087409033      CUNIAS RAMOS REYNERIO                   S/000000000027320                                        0DNI44363836    0
+ 2A22300031427096      GASTULO MIO ANDY LUIS                   S/000000000025599                                        0DNI45222133    0
+ 2A22400007691029      MOZOMBITE MURAYARI MARCOS               S/000000000028410                                        0DNI43201765    0
+ 2A22400017300036      SANGAMA TAPAYURI SUNNER                 S/000000000024267                                        0DNI42692044    0
+ 2A22400044530041      SANCHEZ SANGAMA JUAN ANDRES             S/000000000026002                                        0DNI47850876    0
+ 2A22400084737054      VALLADOLID LLOCYA ARMANDO               S/000000000029827                                        0DNI43462066    0
+ 2A22500021039023      RIVAS RIVAS OSCAR LEONEL                S/000000000035618                                        0DNI40290258    0
+ 2A22500038816079      PACHERRE PACHERREZ JORGE ARMANDO        S/000000000020706                                        0DNI47227700    0
+ 2A22500054308028      ACHULLI FERRO JOSE RAYMUNDO             S/000000000024585                                        0DNI70043584    0
+ 2A22500080490074      ORDIRES ARIZACA CARLOS ALFREDO          S/000000000025946                                        0DNI72205488    0
+ 2A22600000635023      PICHARDO LAZARO GUILLERMO               S/000000000012142                                        0DNI48380155    0
+ 2A22600092873092      HUAMAN CURILLA JOSE LUIS                S/000000000054690                                        0DNI45098529    0
+ 2A22700031167073      QUINTO PASTOR ALFREDO AMADEO            S/000000000028719                                        0DNI47075846    0
+ 2A22700051671084      MORANTE VILLEGAS ALEXI JOEL             S/000000000025140                                        0DNI47052030    0
+ 2A22700077390062      GARCIA CAMPOS JOSE ENRIQUE              S/000000000021257                                        0DNI48133694    0
+ 2A22700077375047      LUICHO ESPINOZA ELISEO BENJAMIN         S/000000000031326                                        0DNI10396372    0
+ 2A22700077370042      MAMANI MUNOZ ROBERTO                    S/000000000024337                                        0DNI43072896    0
+ 2A22700088965054      SUAREZ PACHERRE JULIO CESAR             S/000000000024548                                        0DNI46338019    0
+ 2A22800015963025      TINEO LALANGUI WUDIAR                   S/000000000027359                                        0DNI44507152    0
+ 2A22800076896073      TELLO MALLMA ANGEL                      S/000000000024737                                        0DNI10741573    0
+ 2A22900050754078      MOGOLLON CARDOZA CARLOS ALEXANDE        S/000000000028352                                        0DNI42630533    0
+ 2A23000055303084      ESPINOZA MOLINA MELVIN HOVER            S/000000000043455                                        0DNI44698362    0
+ 2A23000090604042      ESPINOZA BUSTAMANTE FREDY               S/000000000027008                                        0DNI40443626    0
+ 2A23100053813089      RIVERA CEPEDA MIGUEL ANGEL              S/000000000021422                                        0DNI09758347    0
+ 2A23100053810086      FLORES ZEVALLOS LUIS RAFAEL             S/000000000027382                                        0DNI08170258    0
+ 2A23200027280097      RODRIGUEZ GUARDIA ETZON NAVARO          S/000000000024363                                        0DNI72072923    0
+ 2A23200046969085      DAVILA VILCHEZ ARNULFO                  S/000000000026501                                        0DNI46669467    0
+ 2A25100074298082      MARTINEZ PAREDES TONNY RICHARD          S/000000000018693                                        0DNI40829099    0
+ 2A23200072108079      UGARTE SANTIAGO ALEX EDGAR              S/000000000024337                                        0DNI10393481    0
+ 2A23300027755087      PENAS CARUAJULCA SEGUNDO CASTULO        S/000000000027214                                        0DNI44629621    0
+ 2A23300051072040      VALDIVIA ASENCIO WILMER                 S/000000000021484                                        0DNI41263662    0
+ 2A23300074537042      VIDAURRE SANTAMARIA GLEYSER DAVID       S/000000000017658                                        0DNI47666622    0
+ 2A23300074550055      ECHEVARRIA TABOADA LEONARDO BENJAM      S/000000000028359                                        0DNI43980897    0
+ 2A23400019490048      ARANGO GOMEZ JHON JHONNY                S/000000000024669                                        0DNI42524021    0
+ 2A23400057436078      MENDOZA PACHERRE CARLOS YOEL            S/000000000023046                                        0DNI44549802    0
+ 2A23500010918001      VILELA MATICORENA YORLY                 S/000000000024105                                        0DNI47968827    0
+ 2A23500094697025      PACHERRE PACHERREZ YANMANY              S/000000000023278                                        0DNI44515463    0
+ 2A23500096757006      CHAPONAN MORILLO JIMMY RONALD           S/000000000024747                                        0DNI41771536    0
+ 2A23700042841066      VILLALOBOS TAPIA JOSE DAVID             S/000000000030188                                        0DNI42811523    0
+ 2A23700042845070      DE LA CRUZ CORTEZ EDWARD                S/000000000024678                                        0DNI40266777    0
+ 2A23700042847072      INGA RODRIGUEZ JUAN DANIEL              S/000000000015365                                        0DNI42572950    0
+ 2A23700042852077      MOZOMBITE MURAYARI WAGNER               S/000000000030197                                        0DNI41247121    0
+ 2A23700074363006      ASCUE MINAYA JOSE ANTONIO               S/000000000020624                                        0DNI47149535    0
+ 2A23800043345085      MORALES BAUTISTA CRISTHIAN OMAR         S/000000000026951                                        0DNI48344242    0
+ 2A23900079855073      CASTRO GUTIERREZ JUAN                   S/000000000031667                                        0DNI28720866    0
+ 2A23900059730045      VARGAS MACEDO RODIL                     S/000000000022430                                        0DNI46287158    0
+ 2A24000097618027      AGUILAR DOLORES JAMIT ALEX              S/000000000022652                                        0DNI42825144    0
+ 2A24200022301070      MENDEZ LEON MARIANO FLORENC             S/000000000024946                                        0DNI41690593    0
+ 2A24200072028099      GASTULO TICLLA FREDY                    S/000000000023106                                        0DNI47936569    0
+ 2A24300041972049      AGUILAR GALLARDO EDILBRANDO             S/000000000022431                                        0DNI42174274    0
+ 2A24400030527099      RAMIREZ SEGOVIA FRANKLIN                S/000000000020730                                        0DNI48028326    0
+ 2A24400030521093      VASQUEZ FLORES NICOLAS GUILLER          S/000000000027770                                        0DNI40484922    0
+ 2A24400051022001      DEL AGUILA FLORES ROGER ROGER           S/000000000031275                                        0DNI80411280    0
+ 2A24400073149051      TUNOQUE BANCES LUIS ALBERTO             S/000000000023130                                        0DNI46456035    0
+ 2A24500023432042      VIDAL CHAVEZ MICHAEL HEBERT             S/000000000024425                                        0DNI47218537    0
+ 2A24800077275058      CASTILLO GIRALDO ASENCIO FAUSTIN        S/000000000023106                                        0DNI46284233    0
+ 2A24800077283066      ACEVEDO GUZMAN ORLANDO JANNCAR          S/000000000028308                                        0DNI43828629    0
+ 2A24900000584003      ISMINIO INSAPILLO WELINTON              S/000000000025106                                        0DNI45955854    0
+ 2A24900040546069      RAMOS JACINTO DELFIN DANIEL             S/000000000022706                                        0DNI43529715    0
+ 2A25000005464043      USHINAHUA VASQUEZ DAYRO                 S/000000000026461                                        0DNI76358328    0
+ 2A25000005474053      HUINCHO FLORES EMERSON                  S/000000000024347                                        0DNI40944562    0
+ 2A25000085606095      MORCERA DEL CASTILLO HEYNER HEYNER      S/000000000027337                                        0DNI05365000    0
+ 2A25100069464099      TUNOQUE BANCES ALEX JAVIER              S/000000000026120                                        0DNI47930493    0
+ 2A25100047500014      TANANTA SABOYA MISAEL                   S/000000000026637                                        0DNI45608303    0
+ 2A25100047517031      TORREL TUPAC YUPANQUI NORVIL JUSTO      S/000000000022714                                        0DNI73808057    0
+ 2A25100091856018      GUZMAN ALLCCAHUAMAN HODILON             S/000000000021901                                        0DNI47249750    0
+ 2A25400022302092      LOBATON VERA CHRISTIAN SAMUE            S/000000000021910                                        0DNI80513856    0
+ 2A25400043728034      SOLIS GONE FRANCISCO YHONY              S/000000000023558                                        0DNI04041798    0
+ 2A25500021325015      CIPRIANO VILLAJUAN CLEVER HIDELVER      S/000000000020270                                        0DNI43997725    0
+ 2A25600055073013      SALCEDO CASACHAGUA PERCY EMERSON        S/000000000052125                                        0DNI41894932    0
+ 2A25700019630022      MORCERA DEL CASTILLO GONZALO            S/000000000021400                                        0DNI46639253    0
+ 2A25800064538094      SAENZ VALVERDE GERSON ALEMAO            S/000000000021488                                        0DNI45826224    0
+ 2A25800064530086      TELLO ALLCCA SAUL                       S/000000000020203                                        0DNI41804173    0
+ 2A25800091721052      VALVERDE CERNA LUIS GERARDO             S/000000000017679                                        0DNI43041108    0
+ 2A25900043301053      CHAGRAY BUSTAMANTE ALI GASPAR           S/000000000034812                                        0DNI41328175    0
+ 2A25900043308060      ESPANTOSO QUISPE CARLOS ALBERTO         S/000000000032637                                        0DNI45848714    0
+ 2A26000078994016      CHAVEZ TORRES PETER EDINSON             S/000000000020270                                        0DNI45822662    0
+ 2A26000081229075      CASTRO MILLAN DEUMERES                  S/000000000017557                                        0DNI41879846    0
+ 2A26100016416017      PEREZ MOZOMBITE ALVARITO RAFAEL         S/000000000019055                                        0DNI73188471    0
+ 2A26100032644009      CESPEDES CAMPOS TIMOTEO                 S/000000000019952                                        0DNI42925566    0
+ 2A26100032655020      YOCLLA VALLADOLID WILFREDO              S/000000000019284                                        0DNI41620083    0
+ 2A26100070638087      FLORES VALDEZ DAGOBERTO                 S/000000000018915                                        0DNI40613409    0
+ 2A26200039535079      LOAYZA BLAS EDGAR LUIS                  S/000000000020629                                        0DNI41288401    0
+ 2A26200083807099      PEREZ GARCIA LUIS ALEXANDER             S/000000000021292                                        0DNI44157160    0
+ 2A14900065827095      LUNA SALINAS JOSE ALBERTO               S/000000000040706                                        0DNI25500583    0
+ 2A14900066089059      PAULINO PUJAY ABNEGO HILARIO            S/000000000052315                                        0DNI06765755    0
+ 2A16400071821002      FLORES CHAVARRIA FRANCISCO CARRA        S/000000000044953                                        0DNI32610124    0
+ 2A14900066203075      RIVERA CHUJUTALLI ROYER                 S/000000000048046                                        0DNI42148167    0
+ 2A14900065743010      HUAMAN TANANTA MANUEL                   S/000000000031767                                        0DNI05618253    0
+ 2A14900065777044      LAUPA CCACCYA LUIS                      S/000000000036281                                        0DNI41961101    0
+ 2A14900065766033      JARAMILLO PRINCIPE DOMINGO FREDY        S/000000000026320                                        0DNI42891733    0
+ 2A14900065909078      MEJIA MALLQUI MARCO ANIBAL              S/000000000036226                                        0DNI06795263    0
+ 2A14900065437001      CAMPOMANES MORENO WILFREDO MANUEL       S/000000000027794                                        0DNI41622327    0
+ 2A14900065304067      ASENCIO LOPEZ ANGEL NICODEMO            S/000000000031874                                        0DNI09986093    0
+ 2A14900066029099      PACHECO PENA ANGEL OBER                 S/000000000036864                                        0DNI42900625    0
+ 2A14900066334007      TANANTA MORI JAMES                      S/000000000043596                                        0DNI05304297    0
+ 2A14900066368041      VILCA GARCIA JULIO FELIX                S/000000000042511                                        0DNI40489841    0
+ 2A14900066373046      VILCHEZ MONTENEGRO JOSE ELADIO          S/000000000037003                                        0DNI27434360    0
+ 2A14900066025095      OSORIO VASQUEZ GILBERTO                 S/000000000034193                                        0DNI08067688    0
+ 2A14900096920002      ALEJOS DAMIAN JILMER OLIMPIO            S/000000000030097                                        0DNI10181984    0
+ 2A14900065616082      CUSTODIO CAVELLO JULIO SABINO           S/000000000029634                                        0DNI10070927    0
+ 2A17800085171027      RODRIGUEZ CERNA FERNANDO ALEXAN         S/000000000062295                                        0DNI42853829    0
+ 2A14900065524089      CHECMAPOCCO QUISPE SAMUEL ANGEL         S/000000000043403                                        0DNI42195636    0
+ 2A25500092293099      BELLIDO HUARCAYA JAMES RAMIRO           S/000000000021511                                        0DNI41651945    0
+ 2A15600067031082      PIMENTEL BENITES HUGO ROGER             S/000000000031076                                        0DNI31674556    0
+ 2A15100021494035      SANCHEZ SAENZ ELI ABNER                 S/000000000048648                                        0DNI09675694    0
+ 2A14900065629095      DELGADO ODAR CARLOS ALBERTO             S/000000000026565                                        0DNI16664226    0
+ 2A14900066382055      VILLEGAS PACHERRES JOHNNY ALBERTO       S/000000000030755                                        0DNI10401180    0
+ 2A14900065705072      GONZALES PUERTAS GEINER JAVIER          S/000000000039183                                        0DNI80193008    0
+ 2A15100009174090      FLORES ZEVALLOS JHON MARLON             S/000000000037306                                        0DNI42776620    0
+ 2A14900066240012      ROMERO CARDENAS ALBERTO                 S/000000000049694                                        0DNI07299348    0
+ 2A15100009059074      RAMOS ALLCCA JUAN                       S/000000000032587                                        0DNI43931747    0
+ 2A15100021501043      MEZA VILLANUEVA WILSON                  S/000000000030620                                        0DNI41849230    0
+ 2A16600057255008      SOTO CABELLO ROSARIO                    S/000000000039948                                        0DNI06901563    0
+ 2A14900065311074      BACA PALADINES CESAR                    S/000000000044016                                        0DNI41572523    0
+ 2A15200020973019      ROMERO ROMERO GUZMAN                    S/000000000030725                                        0DNI41265418    0
+ 2A19400009095044      SOLIS JAQUE ALFONSO FORTUNA             S/000000000027158                                        0DNI44616666    0
+ 2A14900065819087      LOZANO SEGURA EDUARDO ENRIQUE           S/000000000033128                                        0DNI42807200    0
+ 2A16200043968047      TOLENTINO HIZO ANIBAL ARMANDO           S/000000000030460                                        0DNI41335774    0
+ 2A22300066673097      SARMIENTO NAVEROS TEOFILO               S/000000000031958                                        0DNI40412287    0
+ 2A14900065224086      AGUILAR CALLE NILSON                    S/000000000026095                                        0DNI41362174    0
+ 2A15100009072087      ALLCCAHUAMAN GASPAR HECTOR              S/000000000032363                                        0DNI43045310    0
+ 2A14900065482046      CASTRO GUILLEN PABLO                    S/000000000037747                                        0DNI08575515    0
+ 2A14900066055025      PARIONA AMES PEDRO                      S/000000000044375                                        0DNI25822622    0
+ 2A14900066302075      SOLORZANO GONZALES JUAN MARCOS          S/000000

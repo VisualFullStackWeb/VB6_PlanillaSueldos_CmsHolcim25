@@ -1,0 +1,349 @@
+          CIA. MINERA AGREGADOS CALCAREOS S.A. - EMPLEADO
+
+                           CREDITO DEL PERU              
+
+                           Moneda Nacional (S/.)
+
+                CUENTA                              APELLIDOS Y NOMBRES                                              MONTO
+            ____________________     _______________________________________________________________________  _____________
+
+            191-43505548-0-78        ELESCANO              SAENZ                   ALBERTO CARLOS                  2,037.51
+            191-45744732-0-98        COLLANQUE             HUANCA                  ANA CECILIA                     2,367.68
+            191-44320293-0-26        CORAHUA               BARRIENTOS              CHRISTIAN                       3,858.86
+            191-49417977-0-82        CACERES               ZEVALLOS                DIEGO ALONSO                    9,333.34
+            191-40565149-0-78        ESTELLA               ALARCON                 DIEGO STEFANO                   2,971.55
+            191-40641224-0-13        SAAVEDRA              AYALA                   ENRIQUE RAUL                      812.50
+            191-46285340-0-85        PARICAHUA             RAMOS                   FERMIN                          2,319.44
+            191-47145706-0-50        SAIRE                 CCORA                   GABY ERIKA                      3,874.96
+            191-49265920-0-53        AROTINCO              TAIPE                   GLORIA STEFANNY                 1,050.00
+            191-44406203-0-04        SANTA CRUZ            SANCHEZ                 JESUS FILEMON                   1,196.52
+            191-41825986-0-05        MENDOZA               SILVA                   JOAQUIN ENRIQUE                 2,244.37
+            191-49417978-0-92        PEJE                  MATOS                   JOHN FRANCO                     1,050.00
+            191-49536945-0-79        PACHAS                CARDENAS                JONATHAN OMAR                   1,458.34
+            191-42723634-0-57        PAREJA                CELI                    JORGE MIGUEL                    6,125.00
+            191-42292941-0-22        ARTEAGA               CABANA                  JOSE ELIAS                      2,104.97
+            513-47119124-0-64        LOPEZ                 CARDENAS                JUAN ANTONIO                    3,775.01
+            191-46594888-0-31        MORENO                ABAN                    KELY KATHERINE                  1,463.00
+            191-43901197-0-33        SANCHEZ               LLERENA                 LIZANDRO BENJAMIN               2,507.16
+            191-43887975-0-76        VARGAS MACHUCA        SALDARRIAGA             MANUEL FERNANDO                 1,655.60
+            191-00909968-0-94        GARCIA                BELAMADO                MARCOS WILLIAM                  2,504.36
+            191-49131686-0-54        ESPINOZA              ANCALLE                 OBER YONY                      14,000.00
+            191-42472629-0-52        HERRERA               ROMAN                   PABLO CESAR                     1,535.56
+            191-40684667-0-30        CUBAS                 CAMACHO                 SERGIO CESAR                    2,456.36
+            191-46992469-0-01        JIMENEZ               CORONADO                VIOLETA ANDREA                  3,199.43
+            191-43871342-0-67        BELLIDO               ZAMBRANO                YURI JAVIER                     4,866.46
+            ____________________     _______________________________________________________________________  _____________
+                                     TOTAL INSCRITOS <    25 >                            TOTAL ACUM.       <     80,767.98 >
+
+          CIA. MINERA AGREGADOS CALCAREOS S.A. - EMPLEADO
+
+                           CREDITO DEL PERU              
+
+                           Moneda Extranjera (US$)
+
+                CUENTA                              APELLIDOS Y NOMBRES                                              MONTO
+            ____________________     _______________________________________________________________________  _____________
+
+            191-44658078-1-05        CAZORLA               FRANCO                  ELBA                            1,737.50
+            191-00311791-1-13        GUZMAN                VARELA                  JESUS GERARDO                   2,504.40
+            191-00315727-1-70        ROMERO                DIAZ                    LILIANA                         2,420.32
+            191-41174435-1-92        VALDERA               CAJUSOL                 LUIS OMAR                       7,531.32
+            191-40834425-1-48        PIMENTEL              ATOCHE                  MARIA ELENA                     2,864.67
+            191-40698951-1-23        MARTINEZ              RAMOS                   NINA EDITH                      2,122.50
+            191-40651615-1-82        ROBLES                VEGA                    OSCAR MARTIN                    2,050.86
+            ____________________     _______________________________________________________________________  _____________
+                                     TOTAL INSCRITOS <     7 >                            TOTAL ACUM.       <     21,231.57 >
+
+          CIA. MINERA AGREGADOS CALCAREOS S.A. - EMPLEADO
+
+                           CONTINENTAL                   
+
+                           Moneda Nacional (S/.)
+
+                CUENTA                              APELLIDOS Y NOMBRES                                              MONTO
+            ____________________     _______________________________________________________________________  _____________
+
+            00110057760735458176     DELGADO               FOPPIANI                ANDRE MOISES                    3,432.01
+            00110057720735506693     GONZALES              PAIRAZAMAN              ROBERTO CARLOS                  1,333.33
+            ____________________     _______________________________________________________________________  _____________
+                                     TOTAL INSCRITOS <     2 >                            TOTAL ACUM.       <      4,765.34 >
+
+          CIA. MINERA AGREGADOS CALCAREOS S.A. - EMPLEADO
+
+                           CONTINENTAL                   
+
+                           Moneda Extranjera (US$)
+
+                CUENTA                              APELLIDOS Y NOMBRES                                              MONTO
+            ____________________     _______________________________________________________________________  _____________
+
+            00110501000708232245     SAUCEDO               GARRIDO                 GREGORIO                        2,902.18
+            ____________________     _______________________________________________________________________  _____________
+                                     TOTAL INSCRITOS <     1 >                            TOTAL ACUM.       <      2,902.18 >
+
+          CIA. MINERA AGREGADOS CALCAREOS S.A. - EMPLEADO
+
+                           BANCO DE COMERCIO             
+
+                           Moneda Nacional (S/.)
+
+                CUENTA                              APELLIDOS Y NOMBRES                                              MONTO
+            ____________________     _______________________________________________________________________  _____________
+
+            330010287810             FLORES                MALDONADO               ISABEL SUSANA                   1,780.94
+            430100052667             BRAVO                 VICENTE                 KATHERINE MAYTE                 3,308.82
+            330010284206             PRINCIPE              MENA                    RUSSBEL SANTOS                  6,882.16
+            330010266516             CARLIN                VILLARREAL              VICTOR MARTIN                   9,060.11
+            ____________________     _______________________________________________________________________  _____________
+                                     TOTAL INSCRITOS <     4 >                            TOTAL ACUM.       <     21,032.03 >
+
+          CIA. MINERA AGREGADOS CALCAREOS S.A. - EMPLEADO
+
+                           SCOTIABANK PERU               
+
+                           Moneda Nacional (S/.)
+
+                CUENTA                              APELLIDOS Y NOMBRES                                              MONTO
+            ____________________     _______________________________________________________________________  _____________
+
+            126-9000350              INFANTES              POMAR                   ANGEL FEDERICO                  9,067.48
+            860-9149102              LAURA                 PAREDES                 BILLY JOHN                      1,745.92
+            880-9506275              BERTOLOTTI            RIVERA                  BRUNO JESUS                    10,500.00
+            880-9696258              OTOYA                 PAREDES                 CINDY PAULETTE                  1,925.42
+            823-9438826              VARGAS                MUÑOZ                   DUMET ROLANDO                     164.45
+            823-9273439              VERDE                 RAMIREZ                 ELIZABETH LIZ                     966.67
+            860-9163756              LOPEZ                 DAMIAN                  FIORELLA JAQUELINE              8,568.18
+            860-9223535              RIVEROS               HUANAY                  HIMMY WILLIAM                   1,737.50
+            822-9958288              ARIZAGA               TORRES                  JHONATAN JAVIER                 1,082.80
+            830-9532417              DULANTO               BEJARANO                JOSE ANTONIO                    4,550.00
+            824-9724983              MESIA                 ALVARADO                JOSE JESUS                      1,550.72
+            124-9413236              BALLEN                ROSSELLO                JUAN JOSE                      26,260.50
+            880-9527750              RAMIREZ               CHUNGA                  JULIO CESAR                       596.75
+            860-9171254              TELLO                 PASACHE                 KERLY CAROLINA                  2,041.66
+            824-9341754              FELICES               AGUILAR                 LEYLA FLOR                      1,042.50
+            824-9213185              RODRIGUEZ             VALDERRAMA              LUIS EDGARDO                   11,329.79
+            850-9987809              REQUE                 ESPARZA                 MANUEL ENRIQUE                  2,080.27
+            824-9724207              SOVIA                 TORRES                  MARLENE                           994.44
+            880-9696274              HUERTA                CABRERA                 MIJAIL VALENTIN                 2,999.64
+            823-9286001              CALDERON              ZAVALETA                RANDY ROGER                       475.56
+            823-9326237              CANCHANYA             PROCIL                  ROBERTO                           600.00
+            823-9334868              HERRERA               MONTOYA                 ROSARIO SUSSETTE                  445.00
+            830-9413956              NAUPARI               ALVAREZ                 ROSMERY                         1,139.03
+            880-9696209              HUALLPA               HUAMANI                 VIDAL                           2,603.26
+            823-9374328              POMA                  RAMOS                   WALDIR TAFFAREL                   440.83
+            182-9427192              BALBIN                VILLANUEVA              WILSON                          1,650.62
+            824-9751556              BURNEO                MIRANDA                 YSABEL YOVANA                   5,527.78
+            ____________________     _______________________________________________________________________  _____________
+                                     TOTAL INSCRITOS <    27 >                            TOTAL ACUM.       <    102,086.77 >
+
+          CIA. MINERA AGREGADOS CALCAREOS S.A. - EMPLEADO
+
+                           SCOTIABANK PERU               
+
+                           Moneda Extranjera (US$)
+
+                CUENTA                              APELLIDOS Y NOMBRES                                              MONTO
+            ____________________     _______________________________________________________________________  _____________
+
+            003-9009839              ARCE                  MIO                     EVERALDO                        2,989.54
+            ____________________     _______________________________________________________________________  _____________
+                                     TOTAL INSCRITOS <     1 >                            TOTAL ACUM.       <      2,989.54 >
+
+          CIA. MINERA AGREGADOS CALCAREOS S.A. - EMPLEADO
+
+                           CMAC PIURA SAC                
+
+                           Moneda Nacional (S/.)
+
+                CUENTA                              APELLIDOS Y NOMBRES                                              MONTO
+            ____________________     _______________________________________________________________________  _____________
+
+            430-01-1616924           ESPINOZA              MEDINA                  ARMANDO SEBASTIAN               4,108.51
+            430-01-0809176           CCANTO                VILLAFANE               CARMEN ADRIANA                  2,160.56
+            430-01-1697510           COAQUIRA              PARI                    FREDY ALBERTO                   2,858.34
+            430-01-1718447           LOZANO                LOZANO                  ROY FERNANDO                    2,803.23
+            ____________________     _______________________________________________________________________  _____________
+                                     TOTAL INSCRITOS <     4 >                            TOTAL ACUM.       <     11,930.64 >
+
+          CIA. MINERA AGREGADOS CALCAREOS S.A. - EMPLEADO
+
+                           CAJA MUNICIPAL DE CREDITO POPU
+
+                           Moneda Nacional (S/.)
+
+                CUENTA                              APELLIDOS Y NOMBRES                                              MONTO
+            ____________________     _______________________________________________________________________  _____________
+
+            102-01-234-1000042030    PALACIOS              CARO                    LUIS MANUEL                     2,444.68
+            ____________________     _______________________________________________________________________  _____________
+                                     TOTAL INSCRITOS <     1 >                            TOTAL ACUM.       <      2,444.68 >
+
+          CIA. MINERA AGREGADOS CALCAREOS S.A. - EMPLEADO
+
+                           CAJA MUNICIPAL DE AHORRO Y CRE
+
+                           Moneda Nacional (S/.)
+
+                CUENTA                              APELLIDOS Y NOMBRES                                              MONTO
+            ____________________     _______________________________________________________________________  _____________
+
+            188-140-876215           CASAS                 RODRIGUEZ               BENJAMIN HEBERT                 1,120.18
+            133-140-873748           LIZANO                CUBA                    HENRY                           2,376.32
+            ____________________     _______________________________________________________________________  _____________
+                                     TOTAL INSCRITOS <     2 >                            TOTAL ACUM.       <      3,496.50 >
+
+          CIA. MINERA AGREGADOS CALCAREOS S.A. - EMPLEADO
+
+                           CREDISCOTIA FINANCIERA S.A.   
+
+                           Moneda Nacional (S/.)
+
+                CUENTA                              APELLIDOS Y NOMBRES                                              MONTO
+            ____________________     _______________________________________________________________________  _____________
+
+            020-18-002629-1          QUINTANILLA           CABALLERO               SARA MARIA                      1,714.56
+            ____________________     _______________________________________________________________________  _____________
+                                     TOTAL INSCRITOS <     1 >                            TOTAL ACUM.       <      1,714.56 >
+
+          CIA. MINERA AGREGADOS CALCAREOS S.A. - EMPLEADO
+
+                           BANCO RIPLEY PERU S.A.        
+
+                           Moneda Nacional (S/.)
+
+                CUENTA                              APELLIDOS Y NOMBRES                                              MONTO
+            ____________________     _______________________________________________________________________  _____________
+
+            4010128944               ARACA                 CARITA                  URIEL EDMUNDO                   7,998.46
+            ____________________     _______________________________________________________________________  _____________
+                                     TOTAL INSCRITOS <     1 >                            TOTAL ACUM.       <      7,998.46 >
+
+          CIA. MINERA AGREGADOS CALCAREOS S.A. - EMPLEADO
+
+                           CMAC CUSCO S.A.               
+
+                           Moneda Nacional (S/.)
+
+                CUENTA                              APELLIDOS Y NOMBRES                                              MONTO
+            ____________________     _______________________________________________________________________  _____________
+
+            106392341000006149       CACERES               ARIZA                   CARLOS AUGUSTO                  2,085.00
+            106412341000017370       ORTIZ                 ALVARES                 JHONATAN AMERICO                1,795.42
+            106412341000010251       ZEVALLOS              MERMA                   VICTOR ANTONIO                  3,320.06
+            ____________________     _______________________________________________________________________  _____________
+                                     TOTAL INSCRITOS <     3 >                            TOTAL ACUM.       <      7,200.48 >
+
+          CIA. MINERA AGREGADOS CALCAREOS S.A. - EMPLEADO
+
+                           BANCO CENCOSUD S.A.           
+
+                           Moneda Nacional (S/.)
+
+                CUENTA                              APELLIDOS Y NOMBRES                                              MONTO
+            ____________________     _______________________________________________________________________  _____________
+
+            12900110000003109748     NAVARRO               MIRANDA                 LUIS ANGEL                      3,539.40
+            ____________________     _______________________________________________________________________  _____________
+                                     TOTAL INSCRITOS <     1 >                            TOTAL ACUM.       <      3,539.40 >
+
+          CIA. MINERA AGREGADOS CALCAREOS S.A. - EMPLEADO
+
+                           CMAC HUANCAYO S.A.            
+
+                           Moneda Nacional (S/.)
+
+                CUENTA                              APELLIDOS Y NOMBRES                                              MONTO
+            ____________________     _______________________________________________________________________  _____________
+
+            107016231000789830       PALOMINO              QUIROZ                  JUAN ARMANDO                    2,629.66
+            107049231000291177       ROMERO                PACHECO                 MARCO ANTONIO                   2,722.08
+            10701623100079679504     DIAZ                  TORO                    ROSARIO ELENA                   1,166.66
+            ____________________     _______________________________________________________________________  _____________
+                                     TOTAL INSCRITOS <     3 >                            TOTAL ACUM.       <      6,518.40 >
+
+          CIA. MINERA AGREGADOS CALCAREOS S.A. - EMPLEADO
+
+                           FINANCIERA PROEMPRESA S.A.    
+
+                           Moneda Nacional (S/.)
+
+                CUENTA                              APELLIDOS Y NOMBRES                                              MONTO
+            ____________________     _______________________________________________________________________  _____________
+
+            10201002566405           GONZALES              CUBILLAS                MARIA JULIA                     1,913.38
+            ____________________     _______________________________________________________________________  _____________
+                                     TOTAL INSCRITOS <     1 >                            TOTAL ACUM.       <      1,913.38 >
+
+          CIA. MINERA AGREGADOS CALCAREOS S.A. - EMPLEADO
+
+                           BANCO GNB PERU S.A.           
+
+                           Moneda Extranjera (US$)
+
+                CUENTA                              APELLIDOS Y NOMBRES                                              MONTO
+            ____________________     _______________________________________________________________________  _____________
+
+            1293836-003              FRITSCHI              ESCOBAR                 JORGE LUIS                     19,843.84
+            ____________________     _______________________________________________________________________  _____________
+                                     TOTAL INSCRITOS <     1 >                            TOTAL ACUM.       <     19,843.84 >
+
+          CIA. MINERA AGREGADOS CALCAREOS S.A. - EMPLEADO
+
+                           FINANCIERA OH S.A.            
+
+                           Moneda Nacional (S/.)
+
+                CUENTA                              APELLIDOS Y NOMBRES                                              MONTO
+            ____________________     _______________________________________________________________________  _____________
+
+            110000303219             ALVITES               VALENCIA                ALFONSO CARLOS                  1,853.34
+            110000298653             GONZALES              VEGA                    CESAR ORLANDO                   8,967.98
+            110000327168             ROSALES               FLORES                  GINO SAUL                       2,822.36
+            110000324624             AGAMA                 MORENO                  JAVIER JORGE                    7,972.41
+            110000303200             ROJAS                 ESPINOZA                YRMA DONATILA                   2,896.08
+            110000307732             MORENO                CHAVEZ                  ZENOBIO DENNER                 11,067.54
+            ____________________     _______________________________________________________________________  _____________
+                                     TOTAL INSCRITOS <     6 >                            TOTAL ACUM.       <     35,579.71 >
+
+          CIA. MINERA AGREGADOS CALCAREOS S.A. - EMPLEADO
+
+                           COMPARTAMOS FINANCIERA        
+
+                           Moneda Nacional (S/.)
+
+                CUENTA                              APELLIDOS Y NOMBRES                                              MONTO
+            ____________________     _______________________________________________________________________  _____________
+
+            999410518149             RODRIGUEZ             SICCHA                  EVILIN NEIDA                    2,795.14
+            ____________________     _______________________________________________________________________  _____________
+                                     TOTAL INSCRITOS <     1 >                            TOTAL ACUM.       <      2,795.14 >
+
+          CIA. MINERA AGREGADOS CALCAREOS S.A.
+
+                           R E S U M E N
+
+            ______________________________     ___________________          ___________________          ___________________
+
+                                              DEP.MON.EXT (DOLAR)              DEP. SOLES                   T O T A L
+                BANCOS                        -------------------          -------------------          -------------------
+                                              # TRAB    MONTO S/.          # TRAB    MONTO S/.          # TRAB    MONTO S/.
+            ______________________________     ___________________          ___________________          ___________________
+
+            CREDITO DEL PERU                      7    21,231.57              25    80,767.98              32   101,999.55 
+            CONTINENTAL                           1     2,902.18               2     4,765.34               3     7,667.52 
+            BANCO DE COMERCIO                     0         0.00               4    21,032.03               4    21,032.03 
+            SCOTIABANK PERU                       1     2,989.54              27   102,086.77              28   105,076.31 
+            CMAC PIURA SAC                        0         0.00               4    11,930.64               4    11,930.64 
+            CAJA MUNICIPAL DE CREDI               0         0.00               1     2,444.68               1     2,444.68 
+            CAJA MUNICIPAL DE AHORR               0         0.00               2     3,496.50               2     3,496.50 
+            CREDISCOTIA FINANCIERA                0         0.00               1     1,714.56               1     1,714.56 
+            BANCO RIPLEY PERU S.A.                0         0.00               1     7,998.46               1     7,998.46 
+            CMAC CUSCO S.A.                       0         0.00               3     7,200.48               3     7,200.48 
+            BANCO CENCOSUD S.A.                   0         0.00               1     3,539.40               1     3,539.40 
+            CMAC HUANCAYO S.A.                    0         0.00               3     6,518.40               3     6,518.40 
+            FINANCIERA PROEMPRESA S               0         0.00               1     1,913.38               1     1,913.38 
+            BANCO GNB PERU S.A.                   1    19,843.84               0         0.00               1    19,843.84 
+            FINANCIERA OH S.A.                    0         0.00               6    35,579.71               6    35,579.71 
+            COMPARTAMOS FINANCIERA                0         0.00               1     2,795.14               1     2,795.14 
+            ______________________________     ___________________          ___________________          ___________________
+              ** T O T A L **                    10    46,967.13              82   293,783.47              92   340,750.60

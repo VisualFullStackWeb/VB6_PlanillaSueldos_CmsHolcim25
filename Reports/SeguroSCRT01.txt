@@ -1,0 +1,333 @@
+CIA. MINERA AGREGADOS CALCAREOS S.A.      MES DE NOVIEMBRE DEL 2022
+TOPE :      11,002.84                                                Pag :    1
+
+CODIGO         NOMBRE                              TOT, INGRESO  S.RIESGO   INGRESO     SEGURO COMP. 
+                                                                  SALUD     CON TOPE     PENSIONES
+----------------------------------------------------------------------------------------------------
+PERSONAL DE PLANTA
+
+ADMINISTRACION PLANTA INDUSTRIAL
+
+                                                  ------------ --------- ------------ ---------
+                                                           .00       .00          .00        .00
+                                                  ------------ --------- ------------  ---------
+                                                           .00       .00          .00        .00
+                                                  ------------ --------- ------------  ---------
+PERSONAL ADMINISTRATIVO EN PLANTA
+
+ADMINISTRACION OFICINAS DE PRODUCTO MINEROS
+
+  1.-E0258    LIZANO CUBA HENRY                       5,176.43     55.39     5,176.43      29.51
+                                                  ------------ --------- ------------  ---------
+                                                      5,176.43     55.39     5,176.43      29.51
+ADMINISTRACION OFICINAS PRODUCTO INDUSTRIALES
+
+  1.-E0450    RAMIREZ CHUNGA JULIO CESAR              2,082.95     22.29     2,082.95      11.87
+                                                  ------------ --------- ------------  ---------
+                                                      2,082.95     22.29     2,082.95      11.87
+ADMINISTRACION PLANTA INDUSTRIAL
+
+  1.-E0581    LIZARRAGA MONTEJO GUILLERMO ANDRES      3,036.95     32.50     3,036.95      17.31
+  2.-E0603    PATANA MAMANI EDITH                     2,475.81     26.49     2,475.81      14.11
+                                                  ------------ --------- ------------  ---------
+                                                      5,512.76     58.99     5,512.76      31.42
+ADMINISTRACION PLANTA MINERAlES
+
+  1.-E0303    CARLIN VILLARREAL VICTOR MARTIN        16,976.52    181.65    11,002.84      62.72
+  2.-E0556    SAAVEDRA AYALA ENRIQUE RAUL             3,956.56     42.34     3,956.56      22.55
+                                                  ------------ --------- ------------  ---------
+                                                     20,933.08    223.99    14,959.40      85.27
+BENEFICIO DE MINERALES
+
+  1.-E0033    SANCHEZ LLERENA LIZANDRO BENJAMIN       5,485.69     58.70     5,485.69      31.27
+  2.-E0203    MENDOZA SILVA JOAQUIN ENRIQUE           4,424.58     47.34     4,424.58      25.22
+  3.-E0298    HUALLPA HUAMANI VIDAL                   5,653.95     60.50     5,653.95      32.23
+  4.-E0313    GARCIA BELAMADO MARCOS WILLIAM          5,564.60     59.54     5,564.60      31.72
+  5.-E0591    RODRIGUEZ GONZALES LUIS ALBERTO         3,413.36     36.52     3,413.36      19.46
+  6.-E0593    SOLANO LIBERATO JEAN CUTTER             3,502.89     37.48     3,502.89      19.97
+  7.-E0595    ESTEBAN BOCARDO PERCY AGUSTIN           4,441.67     47.53     4,441.67      25.32
+                                                  ------------ --------- ------------  ---------
+                                                     32,486.74    347.61    32,486.74     185.19
+CEMENTO BLANCO INFANTAS
+
+  1.-E0253    ARCE MIO EVERALDO                       6,243.62     66.81     6,243.62      35.59
+  2.-E0255    VALDERA CAJUSOL LUIS OMAR              15,095.29    161.52    11,002.84      62.72
+  3.-E0332    GUZMAN VARELA JESUS GERARDO             5,576.40     59.67     5,576.40      31.79
+                                                  ------------ --------- ------------  ---------
+                                                     26,915.31    288.00    22,822.86     130.10
+
+CIA. MINERA AGREGADOS CALCAREOS S.A.      MES DE NOVIEMBRE DEL 2022
+TOPE :      11,002.84                                                Pag :    2
+
+CODIGO         NOMBRE                              TOT, INGRESO  S.RIESGO   INGRESO     SEGURO COMP. 
+                                                                  SALUD     CON TOPE     PENSIONES
+----------------------------------------------------------------------------------------------------
+DESARROLLO DE PROYECTO
+
+  1.-E0071    MORENO CHAVEZ ZENOBIO DENNER           20,647.50    220.93    11,002.84      62.72
+  2.-E0486    ALVITES VALENCIA ALFONSO CARLOS         5,174.45     55.37     5,174.45      29.49
+                                                  ------------ --------- ------------  ---------
+                                                     25,821.95    276.30    16,177.29      92.21
+INSTALACIONES
+
+  1.-E0385    ROBLES VEGA OSCAR MARTIN                7,421.15     79.41     7,421.15      42.30
+                                                  ------------ --------- ------------  ---------
+                                                      7,421.15     79.41     7,421.15      42.30
+INVESTIGACION Y DESARROLLO
+
+  1.-E0448    BERTOLOTTI RIVERA BRUNO JESUS          19,493.09    208.58    11,002.84      62.72
+  2.-E0583    MEJIA RODRIGUEZ ANDRES STALIN           4,441.55     47.52     4,441.55      25.32
+                                                  ------------ --------- ------------  ---------
+                                                     23,934.64    256.10    15,444.39      88.04
+LABORATORIO
+
+  1.-E0289    COLLANQUE HUANCA ANA CECILIA            5,143.24     55.03     5,143.24      29.32
+  2.-E0548    BURNEO MIRANDA YSABEL YOVANA           11,159.88    119.41    11,002.84      62.72
+                                                  ------------ --------- ------------  ---------
+                                                     16,303.12    174.44    16,146.08      92.04
+LABORATORIO MINERO
+
+  1.-E0221    MARTINEZ RAMOS NINA EDITH               4,691.58     50.20     4,691.58      26.74
+  2.-E0560    CALDERON ZAVALETA RANDY ROGER           2,534.72     27.12     2,534.72      14.45
+                                                  ------------ --------- ------------  ---------
+                                                      7,226.30     77.32     7,226.30      41.19
+M A E S T R A N Z A
+
+  1.-E0485    TELLO PASACHE KERLY CAROLINA            5,131.74     54.91     5,131.74      29.25
+  2.-E0561    CANCHANYA PROCIL ROBERTO                3,396.95     36.35     3,396.95      19.36
+                                                  ------------ --------- ------------  ---------
+                                                      8,528.69     91.26     8,528.69      48.61
+M I N E R A L E S
+
+  1.-E0003    ARACA CARITA URIEL EDMUNDO             14,896.48    159.39    11,002.84      62.72
+  2.-E0243    LOPEZ CARDENAS JUAN ANTONIO             7,736.58     82.78     7,736.58      44.10
+  3.-E0291    ZEVALLOS MERMA VICTOR ANTONIO           7,268.68     77.77     7,268.68      41.43
+  4.-E0312    ROMERO PACHECO MARCO ANTONIO            6,543.41     70.01     6,543.41      37.30
+  5.-E0456    COAQUIRA PARI FREDY ALBERTO             7,534.88     80.62     7,534.88      42.95
+  6.-E0578    CHAPILLIQUEN CELIS VICTOR RAPHAEL       4,850.46     51.90     4,850.46      27.65
+  7.-E0592    HUAMAN AYALA PAUL DECKER                2,674.17     28.61     2,674.17      15.24
+  8.-E0597    MAMANI PUMA ROY LANDER                  3,270.91     35.00     3,270.91      18.64
+
+CIA. MINERA AGREGADOS CALCAREOS S.A.      MES DE NOVIEMBRE DEL 2022
+TOPE :      11,002.84                                                Pag :    3
+
+CODIGO         NOMBRE                              TOT, INGRESO  S.RIESGO   INGRESO     SEGURO COMP. 
+                                                                  SALUD     CON TOPE     PENSIONES
+----------------------------------------------------------------------------------------------------
+  9.-E0598    FERNANDEZ SOLANO IVAN ISIDRO            3,089.56     33.06     3,089.56      17.61
+ 10.-E0607    MAZA DE LA CRUZ JUAN ALVARO             2,048.50     21.92     2,048.50      11.68
+ 11.-E0609    PAITAN VARGAS CESAR                     2,830.00     30.28     2,830.00      16.13
+                                                  ------------ --------- ------------  ---------
+                                                     62,743.63    671.34    58,849.99     335.45
+MANTENIMIENTO DE PLANTA
+
+  1.-E0077    AGAMA MORENO JAVIER JORGE              14,867.51    159.08    11,002.84      62.72
+  2.-E0234    SAUCEDO GARRIDO GREGORIO                6,116.38     65.45     6,116.38      34.86
+  3.-E0358    CORAHUA BARRIENTOS CHRISTIAN            7,883.81     84.36     7,883.81      44.94
+                                                  ------------ --------- ------------  ---------
+                                                     28,867.70    308.89    25,003.03     142.52
+MANTENIMIENTO ELECTRICO
+
+  1.-E0063    GONZALES VEGA CESAR ORLANDO            17,131.24    183.30    11,002.84      62.72
+  2.-E0096    PALACIOS CARO LUIS MANUEL               5,294.13     56.65     5,294.13      30.18
+  3.-E0356    ROSALES FLORES GINO SAUL                4,486.42     48.00     4,486.42      25.57
+                                                  ------------ --------- ------------  ---------
+                                                     26,911.79    287.95    20,783.39     118.47
+TALLER MECANICO EQUIPOS Y MAQUINARIA PESADA
+
+  1.-E0328    ELESCANO SAENZ ALBERTO CARLOS           4,591.40     49.13     4,591.40      26.17
+  2.-E0396    PARICAHUA RAMOS FERMIN                  5,491.45     58.76     5,491.45      31.30
+  3.-E0458    BALBIN VILLANUEVA WILSON                5,421.95     58.01     5,421.95      30.91
+  4.-E0482    LAURA PAREDES BILLY JOHN                4,679.09     50.07     4,679.09      26.67
+  5.-E0564    POMA RAMOS WALDIR TAFFAREL              3,290.95     35.21     3,290.95      18.76
+  6.-E0585    ROJAS GOMEZ VICTOR RODRIGO              3,057.63     32.72     3,057.63      17.43
+                                                  ------------ --------- ------------ ---------
+                                                     26,532.47    283.90    26,532.47     151.24
+                                                  ------------ --------- ------------  ---------
+                                                    327,398.71  3,503.18   285,153.92   1,625.43
+                                                  ------------ --------- ------------  ---------
+PERSONAL ADMINISTRATIVO SOLO OFICINA
+
+ADMINISTRACION OFICINAS DE PRODUCTO MINEROS
+
+  1.-E0103    CAZORLA FRANCO ELBA                     3,948.95     42.25     3,948.95      22.51
+  2.-E0112    ROMERO DIAZ LILIANA                     5,248.25     56.16     5,248.25      29.92
+  3.-E0231    PIMENTEL ATOCHE MARIA ELENA             6,545.30     70.03     6,545.30      37.31
+  4.-E0277    SAIRE CCORA GABY ERIKA                  2,617.12     28.00     2,617.12      14.92
+  5.-E0319    CASAS RODRIGUEZ BENJAMIN HEBERT         3,035.01     32.47     3,035.01      17.30
+  6.-E0322    PRINCIPE MENA RUSSBEL SANTOS           13,763.13    147.27    11,002.84      62.72
+  7.-E0324    FLORES MALDONADO ISABEL SUSANA          4,023.95     43.06     4,023.95      22.94
+  8.-E0348    FRITSCHI ESCOBAR JORGE LUIS            43,499.79    465.45    11,002.84      62.72
+  9.-E0388    BALLEN ROSSELLO JUAN JOSE              46,611.40    498.74    11,002.84      62.72
+ 10.-E0504    CACERES ZEVALLOS DIEGO ALONSO          19,378.95    207.35    11,002.84      62.72
+                                                  ------------ --------- ------------  ---------
+                                                    148,671.85  1,590.78    69,429.94     395.78
+
+CIA. MINERA AGREGADOS CALCAREOS S.A.      MES DE NOVIEMBRE DEL 2022
+TOPE :      11,002.84                                                Pag :    4
+
+CODIGO         NOMBRE                              TOT, INGRESO  S.RIESGO   INGRESO     SEGURO COMP. 
+                                                                  SALUD     CON TOPE     PENSIONES
+----------------------------------------------------------------------------------------------------
+ADMINISTRACION OFICINAS PRODUCTO INDUSTRIALES
+
+  1.-E0124    CCANTO VILLAFANE CARMEN ADRIANA         4,870.64     52.12     4,870.64      27.76
+  2.-E0305    HERRERA ROMAN PABLO CESAR               3,691.36     39.50     3,691.36      21.04
+  3.-E0314    PAREJA CELI JORGE MIGUEL                9,250.59     98.98     9,250.59      52.73
+  4.-E0347    ESPINOZA MEDINA ARMANDO SEBASTIAN       8,308.36     88.90     8,308.36      47.36
+  5.-E0377    PALOMINO QUIROZ JUAN ARMANDO            5,935.88     63.51     5,935.88      33.83
+  6.-E0386    OTOYA PAREDES CINDY PAULETTE            4,414.06     47.23     4,414.06      25.16
+  7.-E0513    LOZANO LOZANO ROY FERNANDO              6,210.04     66.45     6,210.04      35.40
+  8.-E0582    ABAD OBREGON MONICA YAJAIRA             2,851.67     30.51     2,851.67      16.25
+  9.-E0604    SEGA ZAMBRANO RAFAEL                    8,091.50     86.58     8,091.50      46.12
+ 10.-E0608    ORTEGA FLORES ANDERSON MARLON          15,330.83    164.04    11,002.84      62.72
+                                                  ------------ --------- ------------  ---------
+                                                     68,954.93    737.82    64,626.94     368.37
+ADMINISTRACION PLANTA INDUSTRIAL
+
+  1.-E0238    GONZALES CUBILLAS MARIA JULIA           3,303.57     35.35     3,303.57      18.83
+  2.-E0611    BERROCAL HUAMANI MAXIMO                 3,049.50     32.63     3,049.50      17.38
+                                                  ------------ --------- ------------  ---------
+                                                      6,353.07     67.98     6,353.07      36.21
+DESARROLLO DE PROYECTO
+
+  1.-E0075    ROJAS ESPINOZA YRMA DONATILA            6,036.39     64.59     6,036.39      34.41
+  2.-E0613    QUISPE QUIÑONEZ OSCAR ALVA              1,864.67     19.95     1,864.67      10.63
+                                                  ------------ --------- ------------  ---------
+                                                      7,901.06     84.54     7,901.06      45.04
+DESPACHO DE PRODUCTOS INDUSTRIALES
+
+  1.-E0363    ARTEAGA CABANA JOSE ELIAS               4,759.65     50.93     4,759.65      27.13
+                                                  ------------ --------- ------------  ---------
+                                                      4,759.65     50.93     4,759.65      27.13
+INVESTIGACION Y DESARROLLO
+
+  1.-E0575    VILCHEZ CANTARO ERIKA JANET             4,821.67     51.59     4,821.67      27.48
+                                                  ------------ --------- ------------  ---------
+                                                      4,821.67     51.59     4,821.67      27.48
+LABORATORIO
+
+  1.-E0612    MORALES VICUÑA YACK LUIS                1,066.67     11.41     1,066.67       6.08
+                                                  ------------ --------- ------------  ---------
+                                                      1,066.67     11.41     1,066.67       6.08
+LABORATORIO DE PRODUCTOS INDUSTRIALES
+
+  1.-E0599    FERNANDEZ CURO CARLOS ALBERTO           2,679.67     28.67     2,679.67      15.27
+  2.-E0601    JARAMILLO GONZALES MARISSA MILAGROS     2,472.50     26.46     2,472.50      14.09
+
+CIA. MINERA AGREGADOS CALCAREOS S.A.      MES DE NOVIEMBRE DEL 2022
+TOPE :      11,002.84                                                Pag :    5
+
+CODIGO         NOMBRE                              TOT, INGRESO  S.RIESGO   INGRESO     SEGURO COMP. 
+                                                                  SALUD     CON TOPE     PENSIONES
+----------------------------------------------------------------------------------------------------
+                                                  ------------ --------- ------------  ---------
+                                                      5,152.17     55.13     5,152.17      29.36
+M A E S T R A N Z A
+
+  1.-E0133    CUBAS CAMACHO SERGIO CESAR              5,250.83     56.18     5,250.83      29.93
+                                                  ------------ --------- ------------  ---------
+                                                      5,250.83     56.18     5,250.83      29.93
+MANTENIMIENTO DE PLANTA
+
+  1.-E0074    NAVARRO MIRANDA LUIS ANGEL              7,399.54     79.18     7,399.54      42.18
+                                                  ------------ --------- ------------  ---------
+                                                      7,399.54     79.18     7,399.54      42.18
+V E N T A S
+
+  1.-E0205    VARGAS MACHUCA SALDARRIAGA MANUEL FERNAN     3,805.94     40.72     3,805.94      21.69
+  2.-E0398    QUINTANILLA CABALLERO SARA MARIA        3,909.92     41.84     3,909.92      22.29
+  3.-E0494    AROTINCO TAIPE GLORIA STEFANNY          4,178.82     44.71     4,178.82      23.82
+  4.-E0543    FELICES AGUILAR LEYLA FLOR              2,755.49     29.48     2,755.49      15.71
+  5.-E0546    SOVIA TORRES MARLENE                    3,872.99     41.44     3,872.99      22.08
+  6.-E0547    MESIA ALVARADO JOSE JESUS               3,366.27     36.02     3,366.27      19.19
+  7.-E0572    TRUJILLO GARCIA YANETT                  3,188.17     34.11     3,188.17      18.17
+  8.-E0573    MORAN RUIZ ISABEL GUADALUPE             2,845.07     30.44     2,845.07      16.22
+  9.-E0577    AGURTO GUTIERREZ LESLIE ELIZABETH       2,743.46     29.36     2,743.46      15.64
+ 10.-E0587    HUAPAYA ENCISO BRUNELLA LUCERO          6,150.13     65.81     6,150.13      35.06
+ 11.-E0588    GARAY COZ ARACELY FABIOLA               5,378.55     57.55     5,378.55      30.66
+ 12.-E0590    MACHUCA BARDALES CYNTHIA MAGALLY        5,780.46     61.85     5,780.46      32.95
+ 13.-E0594    RAMIREZ RAMIREZ JOSERYN LUCERO          4,792.77     51.28     4,792.77      27.32
+                                                  ------------ --------- ------------  ---------
+                                                     52,768.04    564.61    52,768.04     300.80
+VENTAS DE PRODUCTO MINEROS
+
+  1.-E0210    BRAVO VICENTE KATHERINE MAYTE           6,865.26     73.46     6,865.26      39.13
+  2.-E0412    MORENO ABAN KELY KATHERINE              3,930.57     42.06     3,930.57      22.40
+  3.-E0414    JIMENEZ CORONADO VIOLETA ANDREA         7,309.22     78.21     7,309.22      41.66
+  4.-E0545    ESTELLA ALARCON DIEGO STEFANO           6,777.15     72.52     6,777.15      38.63
+                                                  ------------ --------- ------------  ---------
+                                                     24,882.20    266.25    24,882.20     141.82
+VENTAS DE PRODUCTOS  INDUSTRIALES
+
+  1.-E0540    RODRIGUEZ VALDERRAMA LUIS EDGARDO      17,506.41    187.32    11,002.84      62.72
+  2.-E0580    ROBLES TORRES JOSSELINE MERCEDES       10,132.66    108.42    10,132.66      57.76
+                                                  ------------ --------- ------------ ---------
+                                                     27,639.07    295.74    21,135.50     120.48
+                                                  ------------ --------- ------------  ---------
+                                                    365,620.75  3,912.14   275,547.28   1,570.66
+                                                  ------------ --------- ------------  ---------
+
+CIA. MINERA AGREGADOS CALCAREOS S.A.      MES DE NOVIEMBRE DEL 2022
+TOPE :      11,002.84                                                Pag :    6
+
+CODIGO         NOMBRE                              TOT, INGRESO  S.RIESGO   INGRESO     SEGURO COMP. 
+                                                                  SALUD     CON TOPE     PENSIONES
+----------------------------------------------------------------------------------------------------
+PERSONAL ADMINISTRATIVO EN SOCAVON
+
+M I N E R A L E S
+
+  1.-E0326    CACERES ARIZA CARLOS AUGUSTO            5,427.30     88.46     5,427.30     354.40
+  2.-E0417    ORTIZ ALVARES JHONATAN AMERICO          4,136.59     67.43     4,136.59     270.12
+  3.-E0491    ESPINOZA ANCALLE OBER YONY             25,334.17    412.95    11,002.84     718.49
+  4.-E0602    GORDIANO DIAZ JERMOT                    3,813.00     62.15     3,813.00     248.99
+  5.-E0605    BELLIDO TABORGA JORGE BALTAZAR          6,399.00    104.30     6,399.00     417.85
+  6.-E0606    REYNOSO PAUCAR RUBEN GUSTAVO            3,433.50     55.97     3,433.50     224.21
+                                                  ------------ --------- ------------  ---------
+                                                     48,543.56    791.26    34,212.23   2,234.06
+                                                  ------------ --------- ------------  ---------
+                                                     48,543.56    791.26    34,212.23   2,234.06
+                                                  ------------ --------- ------------  ---------
+                                                  ============ ========= ============  =========
+                                                    741,563.02  8,206.58   594,913.43   5,430.15
+                                                  ============ ========= ============  =========
+
+
+  T.Trabajado                Resumen 
+                             --------------------------
+
+            PERSONAL DE PLANTA                                    .00       .00
+  50        PERSONAL ADMINISTRATIVO EN PLANTA                3,503.18  1,625.43
+  50        PERSONAL ADMINISTRATIVO SOLO OFICINA             3,912.14  1,570.66
+   6        PERSONAL ADMINISTRATIVO EN SOCAVON                 791.26  2,234.06
+                                                            ========= =========
+ 106                                                         8,206.58  5,430.15
+                                                            ========= =========
+
+
+TRABAJADORES CESAD
+
+                                                  ============
+                                                           .00
+                                                  ============
+NO SE CONSIDERAN LOS SIGUIENTES CONCEPTOS
+
+  1.-         ASIG. MOVILIDAD                        12,883.34
+  2.-         ASIG. ESCOLAR                                .00
+  3.-         UTILIDADES                                   .00
+  4.-         COND.TRABAJO                                 .00
+  5.-         BON. EXTRAORD.                               .00
+  6.-         ASIG.FALLECIM.                               .00
+  7.-         CANASTA DE NAVIDAD                           .00
+                                                  ============
+                                                     12,883.34
+                                                  ============
+
+
+
+TRABAJADORES QUE SE INCLUYEN QUE NO TIENEN BOLETA REGISTRADA EN EL PERIODO
+
+                                                  ============
+                                                           .00
+                                                  ============

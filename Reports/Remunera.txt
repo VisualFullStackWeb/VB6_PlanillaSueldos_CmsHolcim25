@@ -1,0 +1,362 @@
+  CIA. MINERA AGREGADOS CALCAREOS S.A.                              Pag.   1
+
+  REPORTE DE BASICO
+                              PERIODO : MARZO - 2013
+  OBRERO
+  ----------------------------------------------------------------------------
+  Orden  Tipo        Nombre                                HORAS      IMPORTE
+  ----------------------------------------------------------------------------
+       1.-  O  GOMERO CABANILLAS CRISTIAN MILNER            96.00       532.80
+       2.-  O  CARRASCO CARPIO NICANOR                      96.00       467.16
+       3.-  O  ROSAS MANRIQUE SANTOS RUBEN                  96.00       545.28
+       4.-  O  MAYHUIRE POCCORE BERNABE                     96.00       620.28
+       5.-  O  COAQUIRA MAMANI JUVENCIO                     96.00       639.00
+       6.-  O  ROSALES CCASANI JUAN                         96.00       566.88
+       7.-  O  ALCANTARA ESTRADA EDGAR                      96.00       540.00
+       8.-  O  MUÑOZ ESPINOZA TEOFINES AURELI               96.00       540.00
+       9.-  O  HERRERA ALEJO ESTEBAN                        96.00       564.00
+      10.-  O  RIOS LEZAMA TOMAS                            96.00       713.16
+      11.-  O  RIVERA MOLINA JORGE WILFREDO                 96.00       582.84
+      12.-  O  TORRES IMAN PABLO                            96.00       540.00
+      13.-  O  LOPEZ DURAND ALEJANDRO                        8.60        43.83
+      14.-  O  CHAUCA ISIDRO JUAN PAULINO                   96.00       642.24
+      15.-  O  NEYRA CORONADO RENE ELISEO                   96.00       455.28
+      16.-  O  ARENAS CAUTI CLAUDIO CIRILO                  56.60       330.47
+      17.-  O  MARTINEZ AVILA DARIO FERRER                  83.78       438.90
+      18.-  O  GUTIERREZ COTAQUISPE EMILIO                  96.00       607.68
+      19.-  O  OSORIO MENDOZA EUFRACIO                      96.00       540.00
+      20.-  O  ROSALES BENITES MARCOS                       96.00       496.80
+      21.-  O  FERNANDEZ VIDARTE ENRIQUE                    96.00       638.04
+      22.-  O  CLAROS ARGUELLO CARLOS ALBERTO               84.83       551.40
+      23.-  O  OYARCE MORI JOSE NOLASCO                     96.00       646.44
+      24.-  O  CAYAMPI VALDEZ ANGELINO                      96.00       648.00
+      25.-  O  PASACHE YMAN MANUEL ASUNCION                 95.20       654.50
+      26.-  O  SANDOVAL TORRES LUIS ENRIQUE                 92.82       626.54
+      27.-  O  ARGUEDAS APAZA JUAN PASTOR                   87.55       605.18
+      28.-  O  PIÑAS SANABRIA CELSO VICTOR                  30.80       196.70
+      29.-  O  MENDOZA CADILLO HERMINIO TEOFIL              96.00       792.00
+      30.-  O  PALACIOS ESPINOZA VICTOR ROEL                96.00       663.00
+      31.-  O  PILCO PACO CRISOLOGO RENE                    96.00       488.76
+      32.-  O  ZUCA HUAYANA MARCELINO                       96.00       464.28
+      33.-  O  SAMANIEGO GALLO RIGOBERTO                    96.00       657.00
+      34.-  O  ZEA TENORIO MIGUEL ANGEL                     96.00       456.00
+      35.-  O  ATAO MORALES JULIO                           96.00       670.80
+      36.-  O  ROMAN CHOCCARE PAULINO                       87.40       611.80
+      37.-  O  SALAS RAMOS MARIANO                          96.00       551.16
+      38.-  O  CALDAS VARA ADRIAN ALEJANDR                  96.00       464.76
+      39.-  O  ZAMBRANO TUCNO JULIO                         96.00       536.76
+      40.-  O  VARGAS DIAZ LAZARO                           96.00       527.28
+      41.-  O  AMAO SAYAS VALENTIN                          96.00       461.52
+      42.-  O  APAZA CONDORI EUGENIO                        96.00       566.04
+      43.-  O  SOLANO AZAÑA ESDRAS MATEO                    96.00       771.00
+      44.-  O  CONTRERAS ZANABRIA ABEL                      96.00       417.00
+      45.-  O  JAQUE JARAMILLO PABLO MARTIN                 96.00       484.80
+      46.-  O  BARRIENTOS GUZMAN JULIAN                     96.00       556.32
+      47.-  O  RODRIGUEZ ENCISO ANGEL RAFAEL                76.80       518.40
+      48.-  O  VEGA MORI JULIO                              96.00       594.96
+      49.-  O  PANTA MONDRAGON ALEX RUBEN                   94.10       492.85
+      50.-  O  SOCA JORGE FELICIANO                         95.63       487.35
+      51.-  O  GONGORA VARGAS SEGUNDO ANASTAC               96.00       485.16
+      52.-  O  PRIETO TAVARA GUILLERMO DUQUE                91.00       491.40
+      53.-  O  SAYAS AYALA FLORENCIO                        96.00       761.52
+      54.-  O  AÑORGA VALVERDE LADISLAO ELIAS               96.00       526.56
+      55.-  O  ALLCCA BARRIENTOS ANTONIO                    96.00       605.52
+      56.-  O  SONCCO CERVANTES JULIAN                      96.00       558.48
+      57.-  O  CCORAHUA CHUQUIRAY VICENTE GAUDENC           96.00       466.80
+      58.-  O  CHIPANA ORTIZ CIRO                           96.00       594.00
+      59.-  O  AÑORGA ESTRADA FELIX CATALINO                96.00       506.64
+      60.-  O  ESPINOZA CABELLO ANDRES FELIX                96.00       618.00
+      61.-  O  DIAZ QUISPE JULIO                            88.00       434.39
+      62.-  O  VASQUEZ SAYAS OSCAR LORENZO                  48.00       262.80
+      63.-  O  MIRANDA PACHECO WILLY                        96.00       484.20
+      64.-  O  PARRA ALVARADO GUIDO EDGARDO                 96.00       553.44
+      65.-  O  CACERES QUISPE HIPOLITO                      96.00       807.84
+      66.-  O  SOTO CECENARIO SAMUEL BERNARDI               96.00       516.36
+      67.-  O  ALARCON SERNAQUE AGUSTIN                     96.00       473.16
+      68.-  O  SUAREZ ZARATE CESAR EMILIO                   87.40       534.67
+      69.-  O  MALLMA MIRANDA ESTEBAN                       96.00       451.80
+      70.-  O  ALVINO CANO LELIS CLEDI                      96.00       459.24
+      71.-  O  SALAZAR DAMIAN LUIS GONZALO                  96.00       486.84
+      72.-  O  CERDA CISNEROS DONATO                        96.00       456.36
+      73.-  O  MAQUIN FIGUEROA GABRIEL JUAN                 96.00       582.96
+      74.-  O  PUSSE TERRONES SEGUNDO ALEXAND               96.00       551.16
+      75.-  O  ALVAREZ TORRES JULIO JUAN                    96.00       486.84
+      76.-  O  CIEZA VEGA JUAN ESPERANZA                    30.80       179.41
+      77.-  O  MENDOZA TAVARA EDILBERTO                     96.00       360.00
+      78.-  O  ORTIZ CORONEL LUIS ALBERTO                   96.00       501.48
+      79.-  O  MORI LOPEZ JULIAN                            96.00       684.00
+      80.-  O  JARA RODRIGUEZ WILMER                        96.00       475.20
+      81.-  O  MAMANI MUÑOZ ELIAS                           96.00       498.84
+      82.-  O  ASTOQUILLCA OBREGON CARLOS                   96.00       459.72
+      83.-  O  BELLIDO CASABLANCA JUAN GUALBERTO            96.00       451.08
+      84.-  O  CASTRO CRUZ VICTOR                           96.00       467.16
+      85.-  O  MENDOZA CORNEJO SERAPIO                      96.00       528.00
+      86.-  O  INOÑAN SANCHEZ ELMER                         96.00       712.20
+      87.-  O  ALLCCA LLANO DONATO                          96.00       459.12
+      88.-  O  FLORES PARDO JUSTO                           87.40       496.10
+      89.-  O  VILLAR BORJAS CESAR HUMBERTO                 96.00       708.00
+      90.-  O  REYES VALDEZ ANGEL WILMER                    87.28       624.05
+      91.-  O  SOLGORRE ARCOS VICTOR ALEJANDR               96.00       520.80
+      92.-  O  NAJARRO MEDINA FELIX                         96.00       484.80
+      93.-  O  TORRES YAURI WALDO LUIS                      94.10       576.36
+      94.-  O  GAMBOA MEDINA VICTOR                         96.00       523.56
+      95.-  O  ESPIRITU ASENCIOS ALFONSO PEDRO              96.00       502.80
+      96.-  O  CURI LUGO JUAN PABLO                         96.00       524.16
+      97.-  O  FLORES ENRIQUEZ JUAN BAUTISTA                96.00       524.76
+      98.-  O  QUIÑONES QUINTO MAURO EUTIMIO                96.00       570.60
+      99.-  O  VARGAS LEGUIA CECILIO MAURO                  96.00       532.80
+     100.-  O  CONDOR QUISPE HUBER PAUL                     86.40       588.00
+     101.-  O  VARA HILARIO ANTIOGENES                      96.00       481.44
+     102.-  O  RAMOS CRUZ VALERIO HIGIDIO                   96.00       477.24
+     103.-  O  RAMOS MALLMA FAUSTINO                        96.00       482.40
+     104.-  O  FERNANDEZ DIAZ ROGELIO                       96.00       743.64
+     105.-  O  LIBERATO JULCA MANSUETO SABINO               96.00       523.08
+     106.-  O  CASTILLO TORRES MOISES SALOMON               96.00       486.84
+     107.-  O  NINAQUISPE PAREDES FELIX                     87.32       722.25
+     108.-  O  ARAUJO BLAS JOSE SANTOS                      84.62       481.77
+     109.-  O  VILLADEZA RAMIREZ AMANCIO                    91.00       435.32
+     110.-  O  CCOICCA ARBIETO DONATO RAMON                 85.40       523.08
+     111.-  O  CONDORI DELGADO SILVESTRE                    96.00       684.00
+     112.-  O  ROBLES VEGA OSCAR MARTIN                     76.80       637.20
+     113.-  O  URBANO CRUZ VALENTIN NEMESIO                 96.00       660.00
+     114.-  O  CHAVEZ ROMAN JUAN RUPERTO                    96.00       624.00
+     115.-  O  ZAMORA LOPEZ HAYA JULIO HUMBERTO             96.00       564.00
+     116.-  O  SANCHEZ SALVATIERRA ZENON ISMAEL             96.00       573.84
+     117.-  O  TAFUR RAMOS VALENTIN ZENON                   48.00       277.20
+     118.-  O  CARRILLO PUMA GABRIEL ANGEL                  96.00       588.00
+     119.-  O  APAZA JARA RODOLFO ROBERTO                   96.00       804.36
+     120.-  O  LANCI YUMBATO HUMBERTO                       96.00       499.44
+     121.-  O  CASTILLO PINEDO JORGE MIGUEL                 96.00       526.20
+     122.-  O  MARQUEZ RUMI LILES CLIDIOS                   96.00       473.52
+     123.-  O  MENDOZA MIRANDA GENARO RICARDO               30.80       173.25
+     124.-  O  SOLORZANO POMA ROSARIO                       96.00       471.24
+     125.-  O  CASTILLO VILLANUEVA FAUSTINO                 96.00       573.84
+     126.-  O  BERMUDEZ GIRALDO FAUSTINO MARTIN             96.00       517.44
+     127.-  O  GASTULO MIO MIGUEL ANGEL                     96.00       432.48
+     128.-  O  VALLADOLID LLOCYA IGNACIO                    64.00       328.72
+     129.-  O  MARTINEZ DURAN EVER EDWIN                    96.00       507.24
+     130.-  O  DE LA CRUZ FLORES CRISTOPLER CHAR            94.80       440.58
+     131.-  O  SANGAMA PINEDO MAURO                         96.00       470.64
+     132.-  O  CUADRADO MAÑUECO ROMULO                      84.45       453.93
+     133.-  O  AMBROCIO DIAZ MARCELINO NEOFI                95.63       561.87
+     134.-  O  LEON ARCE ULISES GERARDO                     96.00       497.88
+     135.-  O  PORTOCARRERO MENDOZA GABRIEL MARTIN          96.00       510.00
+     136.-  O  RAMOS CRUZ HERMENEGILDO ED                   96.00       438.84
+     137.-  O  VILCHEZ CERRON ROBERTO                       96.00       456.84
+     138.-  O  BANCES VILLEGAS BALDEMAR                     96.00       462.84
+     139.-  O  YOVERA NIZAMA JOSE PORFIRIO                  96.00       456.84
+     140.-  O  MAS MAS GEREMIAS                             96.00       410.88
+     141.-  O  DURAN CORONEL EMILERIO FELIX                 96.00       478.08
+     142.-  O  BAUTISTA JARA ASUNCION                       96.00       439.92
+     143.-  O  BAILON PATRICIO ROY ROGER                    88.00       405.24
+     144.-  O  VILCHEZ IPANAQUE ALDO                        96.00       424.08
+     145.-  O  YNSAPILLO CHUJANDAMA JAYRO                   96.00       424.08
+     146.-  O  CRISPIN OLIVO CARLOS VIRGILIO                96.00       430.08
+     147.-  O  SAENZ SOLIS YOLVER RONAL                     96.00       360.00
+     148.-  O  NICOLA GARCIA JUAN JESUS                     96.00       444.00
+     149.-  O  CALLATA HUAYCHA VICTOR                       96.00       436.08
+     150.-  O  NOLORBE FLORES LUIS HILARIO                  96.00       364.08
+     151.-  O  RAMOS ASENCIO JUAN CARLOS VIC                96.00       481.80
+     152.-  O  GOMEZ HERNANDEZ JOSE ANTONIO                 96.00       420.00
+     153.-  O  VARA CRUZ JUAN CARLOS                        96.00       378.00
+     154.-  O  RIVAS RIVAS ALEXANDER                        88.00       370.37
+     155.-  O  MORCERA CHAVEZ WILLY ANTONIO                 96.00       460.08
+     156.-  O  CAPRISTAN AGUILAR EVER PERCY                 48.00       261.00
+     157.-  O  SERNAQUE GIRON SEGUNDO MANUEL                96.00       399.60
+     158.-  O  RODRIGUEZ DIAZ JULIAN                        28.80       156.60
+     159.-  O  ZUÑIGA ALCANTARA JUAN CARLOS                 95.37       401.39
+     160.-  O  AGURTO CHAVEZ PEDRO ROBERTO                  96.00       462.00
+     161.-  O  MIRANDA ESTRADA RONALD CARLOS                96.00       447.60
+     162.-  O  SOBRADO ACOSTA MIGUEL                        96.00       388.08
+     163.-  O  CHISTAMA MOZOMBITE JAIMITO                   96.00       388.08
+     164.-  O  SALCEDO PACHECO EZEQUIEL CARLOS              96.00       420.00
+     165.-  O  MOGOLLON LAZARO GUILLERMO MARCE              96.00       404.04
+     166.-  O  SANGAMA RUIZ CLEVER                          96.00       404.04
+     167.-  O  BERRIOS RODRIGUEZ JUVER ALVIO                96.00       406.08
+     168.-  O  RUIZ RODRIGUEZ JOSE LUIS                     96.00       404.04
+     169.-  O  VASQUEZ DEL AGUILA RUBEN RAY                 88.00       370.37
+     170.-  O  CHAVEZ ZAMORA LLESY                          91.00       455.63
+     171.-  O  ARIAS SALCE RENZO DAVID                      96.00       480.00
+     172.-  O  CHAMOCHUMBI ALTAMIRANO VICTOR ARMANDO        48.00       249.00
+     173.-  O  BULLON GOZAR RONALD ROY                      96.00       330.00
+     174.-  O  PULIDO CHAHUA NELSON PAUL                    96.00       404.04
+     175.-  O  SOTELO RAMIREZ LUIS                          96.00       388.08
+     176.-  O  JARAMILLO MORI MARTIN VALENTIN               91.00       449.31
+     177.-  O  MAYANGA FERNANDEZ CESAR AUGUSTO              96.00       384.00
+     178.-  O  IBARRA DE LA CRUZ JHON HARGENIS              96.00       480.00
+     179.-  O  FLORES IVARRA IVAN FLORENCIO                 96.00       404.04
+     180.-  O  CHAVEZ VERGARAY MIGUEL ANGEL                 87.40       404.23
+     181.-  O  GUZMAN RODRIGUEZ HERNAN                      96.00       596.04
+     182.-  O  ALAMO VILLEGAS PEDRO ALEJANDRO               94.93       439.05
+     183.-  O  PURUGUAY MORANTE JAVIER                      96.00       388.08
+     184.-  O  MUÑOZ VARA LUIS ENRIQUE                       8.60        44.61
+     185.-  O  ROJAS ROMERO JHON CARLO                      96.00       388.08
+     186.-  O  VASQUEZ DEL AGUILA DIEGO ALONSO              96.00       402.00
+     187.-  O  MORENO VERAMENDI JAIME RAMIRO                96.00       404.04
+     188.-  O  HURTADO TORRES CELSO                         96.00       388.08
+     189.-  O  HURTADO TORRES GILBERT                       96.00       420.00
+     190.-  O  GARCIA ESCOLASTICO FELIX AGUSTO              73.80       373.61
+     191.-  O  HERRERA HUARCAYA PABLO EPIFANIO              96.00       480.00
+     192.-  O  ZEVALLOS SOSA NEYSER                         91.00       415.19
+     193.-  O  CONQUE TOLENTINO EUSEBIO TEOFILO             96.00       435.00
+     194.-  O  VEGA ARECHE MIGUEL ANTONIO                   95.05       448.78
+     195.-  O  RAMOS PONTE ROFINO GRIFER                    96.00       388.08
+     196.-  O  ESTRADA CANTORIN CRISPEN                     96.00       468.00
+     197.-  O  GUTARRA DIAZ WILLIAN RICHARD                 91.00       460.69
+     198.-  O  GALARRETA HUACCHA FREDY DUVAL                96.00       388.08
+     199.-  O  BERRU CRUZ PALERMO                           96.00       420.00
+     200.-  O  CHURA MAMANI HECTOR                          96.00       372.00
+     201.-  O  MORALES VEGA DAVID                           30.80       154.00
+     202.-  O  SHUÑA SINTI FAVIO                            96.00       372.00
+     203.-  O  TELLO SANTOS ERSEYES CARLOS                  96.00       384.00
+     204.-  O  EGOAVIL ROJAS ALEJANDRO                      96.00       372.00
+     205.-  O  HUASHUAYO QUISPE SANTOS                      96.00       404.04
+     206.-  O  MOGOLLON RODRIGUEZ ISAAC                     96.00       420.00
+     207.-  O  BAZALAR APARICIO GIOVANNI WALTER             96.00       404.04
+     208.-  O  VIDEIRA MOZOMBITE JOSE GUIMAS                96.00       426.00
+     209.-  O  MANANI CARHUAMANTA JOSE MAXIMO               96.00       686.16
+     210.-  O  ROSALES FLORES MANUEL ANTONIO                96.00       686.16
+     211.-  O  HUAMAN ZAMBRANO ANTONY ANDY                  96.00       384.00
+     212.-  O  HERNANDEZ SOSA DAVID STARKY                  96.00       372.00
+     213.-  O  ALCANTARA ESTRADA JOSUE                      96.00       540.00
+     214.-  O  BARTRA DEL AGUILA EDER MICK                  96.00       372.00
+     215.-  O  VILLADEZA BRAVO DEIVES GUDMER                94.63       490.98
+     216.-  O  FLORES OLIMARES MARCO ANTONIO                95.50       376.06
+     217.-  O  RIVERA MARCOS JONNY GERCY                    96.00       468.00
+     218.-  O  RAMOS ANACLETO GUILLERMO FLOIR               96.00       372.00
+     219.-  O  PUJAICO SHUPINGAHUA JAVIER ALLAN             96.00       372.00
+     220.-  O  MENDOZA PACHERRE ELVER                       96.00       372.00
+     221.-  O  MENDOZA MONTALBAN JHONY                      96.00       360.00
+     222.-  O  MORILLO VARAS HELKY HIEMER                   87.40       437.00
+     223.-  O  AGUILAR VARGAS JUAN SAMUEL                   91.00       341.25
+     224.-  O  SANCHEZ SANCHEZ CARLOS                       96.00       360.00
+     225.-  O  FLORES ZEVALLOS EDSON JAIR                   96.00       360.00
+     226.-  O  GOMERO CABANILLAS FREDY EMERSON              96.00       360.00
+     227.-  O  BERRU CRUZ ESGARDO                           96.00       330.00
+     228.-  O  USHIÑAHUA REYNA DARWIN                       96.00       360.00
+     229.-  O  CCANRE PERALTA LUIS ALBERTO                  30.80       134.75
+     230.-  O  CRISANTO PACHERRES EDGARD JOEL               96.00       360.00
+     231.-  O  PEREZ MOZOMBITE LUIGI PIERO                  96.00       408.00
+     232.-  O  CHUJANDAMA ISUIZA ELICEO                     96.00       360.00
+     233.-  O  CUNIAS RAMOS REYNERIO                        96.00       360.00
+     234.-  O  GASTULO MIO ANDY LUIS                        96.00       360.00
+     235.-  O  MENDOZA CORNEJO ELVER                        96.00       360.00
+     236.-  O  MOZOMBITE MURAYARI MARCOS                    96.00       360.00
+     237.-  O  SANGAMA TAPAYURI SUNNER                      82.40       309.00
+     238.-  O  SANCHEZ SANGAMA JUAN ANDRES                  96.00       360.00
+     239.-  O  VALLADOLID LLOCYA ARMANDO                    96.00       360.00
+     240.-  O  RIVAS RIVAS OSCAR LEONEL                     91.00       341.25
+     241.-  O  PACHERRE PACHERREZ JORGE ARMANDO             96.00       360.00
+     242.-  O  ACHULLI FERRO JOSE RAYMUNDO                  96.00       360.00
+     243.-  O  RIVADENEIRA MUÑOZ JONATHAN PAUL              96.00       360.00
+     244.-  O  ORDIRES ARIZACA CARLOS ALFREDO               96.00       360.00
+     245.-  O  PICHARDO LAZARO GUILLERMO                    96.00       366.00
+     246.-  O  HUAMAN CURILLA JOSE LUIS                     96.00       420.00
+     247.-  O  QUINTO PASTOR ALFREDO AMADEO                 96.00       360.00
+     248.-  O  MORANTE VILLEGAS ALEXI JOEL                  96.00       360.00
+     249.-  O  GARCIA CAMPOS JOSE ENRIQUE                   96.00       360.00
+     250.-  O  LUICHO ESPINOZA ELISEO BENJAMIN              96.00       360.00
+     251.-  O  MAMANI MUÑOZ ROBERTO                         96.00       360.00
+     252.-  O  SUAREZ PACHERRE JULIO CESAR                  88.00       330.00
+     253.-  O  TINEO LALANGUI WUDIAR                        96.00       360.00
+     254.-  O  TELLO MALLMA ANGEL                           96.00       360.00
+     255.-  O  AGUILAR DOLORES ROMEL ROMEO                  91.00       347.25
+     256.-  O  ESCOBEDO CHAVEZ JANSSEN JOLLER               87.40       382.38
+     257.-  O  MOGOLLON CARDOZA CARLOS ALEXANDE             87.40       382.38
+     258.-  O  ESPINOZA MOLINA MELVIN HOVER                 96.00       384.00
+     259.-  O  ESPINOZA BUSTAMANTE FREDY                    96.00       360.00
+     260.-  O  RIVERA CEPEDA MIGUEL ANGEL                   94.65       360.94
+     261.-  O  FLORES ZEVALLOS LUIS RAFAEL                  96.00       390.00
+     262.-  O  RODRIGUEZ GUARDIA ETZON NAVARO               96.00       360.00
+     263.-  O  DAVILA VILCHEZ ARNULFO                       88.00       330.00
+     264.-  O  MARTINEZ PAREDES TONNY RICHARD               96.00       300.00
+     265.-  O  UGARTE SANTIAGO ALEX EDGAR                   96.00       360.00
+     266.-  O  PENAS CARUAJULCA SEGUNDO CASTULO             96.00       360.00
+     267.-  O  VALDIVIA ASENCIO WILMER                      96.00       360.00
+     268.-  O  VIDAURRE SANTAMARIA GLEYSER DAVID            88.00       330.00
+     269.-  O  ECHEVARRIA TABOADA LEONARDO BENJAM           73.80       276.75
+     270.-  O  ARANGO GOMEZ JHON JHONNY                     96.00       360.00
+     271.-  O  MENDOZA PACHERRE CARLOS YOEL                 96.00       360.00
+     272.-  O  VILELA MATICORENA YORLY                      96.00       360.00
+     273.-  O  PACHERRE PACHERREZ YANMANY                   96.00       390.00
+     274.-  O  CHAPOÑAN MORILLO JIMMY RONALD                88.00       330.00
+     275.-  O  VILLALOBOS TAPIA JOSE DAVID                  96.00       360.00
+     276.-  O  DE LA CRUZ CORTEZ EDWARD                     96.00       360.00
+     277.-  O  INGA RODRIGUEZ JUAN DANIEL                   96.00       360.00
+     278.-  O  MOZOMBITE MURAYARI WAGNER                    96.00       360.00
+     279.-  O  ASCUE MINAYA JOSE ANTONIO                    96.00       360.00
+     280.-  O  CANELOS CAHUAZA JAVIER                       78.40       294.00
+     281.-  O  MORALES BAUTISTA CRISTHIAN OMAR              96.00       360.00
+     282.-  O  CASTRO GUTIERREZ JUAN                        96.00       360.00
+     283.-  O  VARGAS MACEDO RODIL                          86.00       322.50
+     284.-  O  ATARAMA OPORTO ROBERTO JUNIOR                71.80       272.85
+     285.-  O  AGUILAR DOLORES JAMIT ALEX                   91.00       341.25
+     286.-  O  QUISPE VILCHEZ JOHNNY CHRISTIA                9.60        36.00
+     287.-  O  MENDEZ LEON MARIANO FLORENC                  91.00       347.25
+     288.-  O  GASTULO TICLLA FREDY                         96.00       360.00
+     289.-  O  AGUILAR GALLARDO EDILBRANDO                  96.00       360.00
+     290.-  O  RAMIREZ SEGOVIA FRANKLIN                     96.00       360.00
+     291.-  O  VASQUEZ FLORES NICOLAS GUILLER               96.00       360.00
+     292.-  O  DEL AGUILA FLORES ROGER ROGER                96.00       360.00
+     293.-  O  TUÑOQUE BANCES LUIS ALBERTO                  91.00       341.25
+     294.-  O  VIDAL CHAVEZ MICHAEL HEBERT                  94.60       325.63
+     295.-  O  CASTILLO GIRALDO ASENCIO FAUSTIN             88.00       305.00
+     296.-  O  ACEVEDO GUZMAN ORLANDO JANNCAR               86.40       314.40
+     297.-  O  ISMINIO INSAPILLO WELINTON                   96.00       330.00
+     298.-  O  RAMOS JACINTO DELFIN DANIEL                  96.00       324.00
+     299.-  O  USHIÑAHUA VASQUEZ DAYRO                      96.00       300.00
+     300.-  O  HUINCHO FLORES EMERSON                       96.00       300.00
+     301.-  O  MORCERA DEL CASTILLO HEYNER HEYNER           80.00       250.00
+     302.-  O  TUÑOQUE BANCES ALEX JAVIER                   96.00       300.00
+     303.-  O  TANANTA SABOYA MISAEL                        87.40       273.13
+     304.-  O  TORREL TUPAC YUPANQUI NORVIL JUSTO           96.00       300.00
+     305.-  O  GUZMAN ALLCCAHUAMAN HODILON                  96.00       360.00
+     306.-  O  HUAMAN LAUREANO JESUS ELMER                  96.00       420.00
+     307.-  O  CALLAÑAUPA RENGIFO JIMY JACK                 76.80       268.80
+     308.-  O  LOBATON VERA CHRISTIAN SAMUE                 96.00       348.00
+     309.-  O  SOLIS GOÑE FRANCISCO YHONY                   96.00       300.00
+     310.-  O  CIPRIANO VILLAJUAN CLEVER HIDELVER           96.00       336.00
+     311.-  O  LUNA SALINAS JOSE ALBERTO                    96.00       552.00
+     312.-  O  PAULINO PUJAY ABNEGO HILARIO                 96.00       612.72
+     313.-  O  FLORES CHAVARRIA FRANCISCO CARRA             96.00       526.08
+     314.-  O  RIVERA CHUJUTALLI ROYER                      96.00       543.00
+     315.-  O  HUAMAN TANANTA MANUEL                        96.00       468.84
+     316.-  O  LAUPA CCACCYA LUIS                           96.00       476.76
+     317.-  O  JARAMILLO PRINCIPE DOMINGO FREDY             88.00       450.23
+     318.-  O  MEJIA MALLQUI MARCO ANIBAL                   96.00       484.08
+     319.-  O  CAMPOMANES MORENO WILFREDO MANUEL            96.00       474.48
+     320.-  O  ASENCIO LOPEZ ANGEL NICODEMO                 96.00       470.76
+     321.-  O  PACHECO PEÑA ANGEL OBER                      96.00       486.84
+     322.-  O  TANANTA MORI JAMES                           96.00       474.84
+     323.-  O  VILCA GARCIA JULIO FELIX                     96.00       482.76
+     324.-  O  VILCHEZ MONTENEGRO JOSE ELADIO               96.00       484.08
+     325.-  O  OSORIO VASQUEZ GILBERTO                      96.00       602.40
+     326.-  O  ALEJOS DAMIAN JILMER OLIMPIO                  8.60        38.61
+     327.-  O  CUSTODIO CAVELLO JULIO SABINO                96.00       440.16
+     328.-  O  RODRIGUEZ CERNA FERNANDO ALEXAN              96.00       520.68
+     329.-  O  CHECMAPOCCO QUISPE SAMUEL ANGEL              96.00       586.44
+     330.-  O  BELLIDO HUARCAYA JAMES RAMIRO                19.20        67.20
+     331.-  O  PIMENTEL BENITES HUGO ROGER                  96.00       462.84
+     332.-  O  SANCHEZ SAENZ ELI ABNER                      96.00       570.00
+     333.-  O  DELGADO ODAR CARLOS ALBERTO                  96.00       570.00
+     334.-  O  VILLEGAS PACHERRES JOHNNY ALBERTO            91.00       506.50
+     335.-  O  GONZALES PUERTAS GEINER JAVIER               96.00       468.84
+     336.-  O  FLORES ZEVALLOS JHON MARLON                  80.00       362.30
+     337.-  O  ROMERO CARDENAS ALBERTO                      96.00       578.88
+     338.-  O  RAMOS ALLCCA JUAN                            96.00       468.84
+     339.-  O  MEZA VILLANUEVA WILSON                       96.00       465.00
+     340.-  O  SOTO CABELLO ROSARIO                         96.00       513.84
+     341.-  O  BACA PALADINES CESAR                         94.65       612.27
+     342.-  O  ROMERO ROMERO GUZMAN                         96.00       462.00
+     343.-  O  SOLIS JAQUE ALFONSO FORTUNA                  96.00       396.00
+     344.-  O  TOLENTINO HIZO ANIBAL ARMANDO                96.00       430.08
+     345.-  O  SARMIENTO NAVEROS TEOFILO                    84.57       459.36
+     346.-  O  AGUILAR CALLE NILSON                         96.00       442.08
+     347.-  O  ALLCCAHUAMAN GASPAR HECTOR                   96.00       460.08
+     348.-  O  CASTRO GUILLEN PABLO                         96.00       636.00
+     349.-  O  PARIONA AMES PEDRO                           96.00       782.88
+     350.-  O  SOLORZANO GONZALES JUAN MARCOS               96.00       495.36
+     351.-  O  OCMIN GONZALES MIGUEL ANGEL                  96.00       456.84
+     352.-  O  CHIRINOS MAYHUIRE FIDEL                      96.00       460.08
+  ----------------------------------------------------------------------------
+                                                         32165.06   157,428.58

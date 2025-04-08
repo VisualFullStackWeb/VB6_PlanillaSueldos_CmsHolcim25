@@ -1,0 +1,11 @@
+Crear Campos
+
+Tabla		Campo   	Tipo    Longitud
+
+Cia		iniciosem	chr	       1
+Cia	     	senati		chr	       1
+Cia	     	vacacion	chr	       1
+
+Maestros	general		chr	       1
+
+Maestros_2	general		chr	       1

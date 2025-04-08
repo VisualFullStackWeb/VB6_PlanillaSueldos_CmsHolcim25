@@ -1,0 +1,21 @@
+; Dependency file for setup wizards.
+
+[Version]
+Version=7.0.0.282
+
+[TDBG7.OCX]
+Register=$(DLLSelfRegister)
+Version=7.0.0.282
+Uses1=ComCat.DLL
+Uses2=Tdbgpp7.DLL
+CABFileName=
+CABDefaultURL=
+CABINFFile=
+
+[Tdbgpp7.DLL]
+Version=7.0.24.7
+Uses1=
+
+[ComCat.DLL]
+Register=$(DLLSelfRegister)
+Uses1=

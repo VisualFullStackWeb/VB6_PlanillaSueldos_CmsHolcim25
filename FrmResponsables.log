@@ -1,0 +1,62 @@
+Línea 41: la clase MSForms.CommandButton del control btn_salir no era una clase de control cargada.
+Línea 57: la clase MSForms.CommandButton del control btn_eliminar no era una clase de control cargada.
+Línea 73: la clase MSForms.CommandButton del control btn_editar no era una clase de control cargada.
+Línea 89: la clase MSForms.CommandButton del control btn_aceptar no era una clase de control cargada.
+Línea 105: la clase MSForms.CommandButton del control btn_nuevo no era una clase de control cargada.
+Línea 129: la clase MSDataGridLib.DataGrid del control dg no era una clase de control cargada.
+Línea 11: la propiedad Icon de FrmCargo tenía una referencia a archivo no válida.
+Línea 48: el nombre de la propiedad VariousPropertyBits de btn_salir no es válido.
+Línea 49: el nombre de la propiedad PicturePosition de btn_salir no es válido.
+Línea 50: el nombre de la propiedad Size de btn_salir no es válido.
+Línea 51: la propiedad Picture de btn_salir tenía una referencia a archivo no válida.
+Línea 52: el nombre de la propiedad FontHeight de btn_salir no es válido.
+Línea 53: el nombre de la propiedad FontCharSet de btn_salir no es válido.
+Línea 54: el nombre de la propiedad FontPitchAndFamily de btn_salir no es válido.
+Línea 55: el nombre de la propiedad ParagraphAlign de btn_salir no es válido.
+Línea 64: el nombre de la propiedad VariousPropertyBits de btn_eliminar no es válido.
+Línea 65: el nombre de la propiedad PicturePosition de btn_eliminar no es válido.
+Línea 66: el nombre de la propiedad Size de btn_eliminar no es válido.
+Línea 67: la propiedad Picture de btn_eliminar tenía una referencia a archivo no válida.
+Línea 68: el nombre de la propiedad FontHeight de btn_eliminar no es válido.
+Línea 69: el nombre de la propiedad FontCharSet de btn_eliminar no es válido.
+Línea 70: el nombre de la propiedad FontPitchAndFamily de btn_eliminar no es válido.
+Línea 71: el nombre de la propiedad ParagraphAlign de btn_eliminar no es válido.
+Línea 80: el nombre de la propiedad VariousPropertyBits de btn_editar no es válido.
+Línea 81: el nombre de la propiedad PicturePosition de btn_editar no es válido.
+Línea 82: el nombre de la propiedad Size de btn_editar no es válido.
+Línea 83: la propiedad Picture de btn_editar tenía una referencia a archivo no válida.
+Línea 84: el nombre de la propiedad FontHeight de btn_editar no es válido.
+Línea 85: el nombre de la propiedad FontCharSet de btn_editar no es válido.
+Línea 86: el nombre de la propiedad FontPitchAndFamily de btn_editar no es válido.
+Línea 87: el nombre de la propiedad ParagraphAlign de btn_editar no es válido.
+Línea 96: el nombre de la propiedad VariousPropertyBits de btn_aceptar no es válido.
+Línea 97: el nombre de la propiedad PicturePosition de btn_aceptar no es válido.
+Línea 98: el nombre de la propiedad Size de btn_aceptar no es válido.
+Línea 99: la propiedad Picture de btn_aceptar tenía una referencia a archivo no válida.
+Línea 100: el nombre de la propiedad FontHeight de btn_aceptar no es válido.
+Línea 101: el nombre de la propiedad FontCharSet de btn_aceptar no es válido.
+Línea 102: el nombre de la propiedad FontPitchAndFamily de btn_aceptar no es válido.
+Línea 103: el nombre de la propiedad ParagraphAlign de btn_aceptar no es válido.
+Línea 112: el nombre de la propiedad VariousPropertyBits de btn_nuevo no es válido.
+Línea 113: el nombre de la propiedad PicturePosition de btn_nuevo no es válido.
+Línea 114: el nombre de la propiedad Size de btn_nuevo no es válido.
+Línea 115: la propiedad Picture de btn_nuevo tenía una referencia a archivo no válida.
+Línea 116: el nombre de la propiedad FontHeight de btn_nuevo no es válido.
+Línea 117: el nombre de la propiedad FontCharSet de btn_nuevo no es válido.
+Línea 118: el nombre de la propiedad FontPitchAndFamily de btn_nuevo no es válido.
+Línea 119: el nombre de la propiedad ParagraphAlign de btn_nuevo no es válido.
+Línea 135: el nombre de la propiedad _ExtentX de dg no es válido.
+Línea 136: el nombre de la propiedad _ExtentY de dg no es válido.
+Línea 137: el nombre de la propiedad _Version de dg no es válido.
+Línea 138: el nombre de la propiedad AllowUpdate de dg no es válido.
+Línea 140: el nombre de la propiedad HeadLines de dg no es válido.
+Línea 141: el nombre de la propiedad RowHeight de dg no es válido.
+Línea 142: el nombre de la propiedad FormatLocked de dg no es válido.
+Línea 151: el nombre de la propiedad HeadFont de dg no es válido.
+Línea 161: el nombre de la propiedad Caption de dg no es válido.
+Línea 162: el nombre de la propiedad ColumnCount de dg no es válido.
+Línea 175: el nombre de la propiedad Column00 de dg no es válido.
+Línea 188: el nombre de la propiedad Column01 de dg no es válido.
+Línea 201: el nombre de la propiedad Column02 de dg no es válido.
+Línea 202: el nombre de la propiedad SplitCount de dg no es válido.
+Línea 214: el nombre de la propiedad Split0 de dg no es válido.

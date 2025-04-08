@@ -1,0 +1,518 @@
+CIA. MINERA AGREGADOS CALCAREOS S.A.      MES DE NOVIEMBRE DEL 2022
+TOPE :      11,002.84                                                Pag :    1
+
+CODIGO         NOMBRE                              TOT, INGRESO  S.RIESGO   INGRESO     SEGURO COMP. 
+                                                                  SALUD     CON TOPE     PENSIONES
+----------------------------------------------------------------------------------------------------
+PERSONAL DE PLANTA
+
+ADMINISTRACION PLANTA INDUSTRIAL
+
+  1.-O5575    DURAN CORONEL EMILERIO FELIX            3,583.94     58.42     3,583.94      48.38
+  2.-O5976    SANCHEZ CULQUICONDOR ALBERTO            3,299.75     53.79     3,299.75      44.55
+                                                  ------------ --------- ------------  ---------
+                                                      6,883.69    112.21     6,883.69      92.93
+BENEFICIO DE MINERALES
+
+  1.-O1009    CARRASCO CARPIO NICANOR                 3,606.13     58.78     3,606.13      48.68
+  2.-O1017    MAYHUIRE POCCORE BERNABE                4,742.98     77.31     4,742.98      64.03
+  3.-O1023    COAQUIRA MAMANI JUVENCIO                4,149.93     67.64     4,149.93      56.02
+  4.-O1036    RIVERA MOLINA JORGE WILFREDO            3,879.48     63.24     3,879.48      52.37
+  5.-O1051    LOPEZ DURAND ALEJANDRO                  4,494.62     73.26     4,494.62      60.68
+  6.-O3502    ROSALES BENITES MARCOS                  5,066.19     82.58     5,066.19      68.39
+  7.-O5301    PILCO PACO CRISOLOGO RENE               3,736.80     60.91     3,736.80      50.45
+  8.-O5303    ZUCA HUAYANA MARCELINO                  4,085.64     66.60     4,085.64      55.16
+  9.-O5306    ZEA TENORIO MIGUEL ANGEL                3,654.28     59.56     3,654.28      49.33
+ 10.-O5313    SALAS RAMOS MARIANO                     4,102.37     66.87     4,102.37      55.38
+ 11.-O5315    CALDAS VARA ADRIAN ALEJANDRO            3,806.29     62.04     3,806.29      51.38
+ 12.-O5318    ZAMBRANO TUCNO JULIO                    3,752.39     61.16     3,752.39      50.66
+ 13.-O5320    AMAO SAYAS VALENTIN                     3,073.99     50.11     3,073.99      41.50
+ 14.-O5322    APAZA CONDORI EUGENIO                   4,029.42     65.68     4,029.42      54.40
+ 15.-O5324    SOLANO AZAÑA ESDRAS MATEO               5,644.81     92.01     5,644.81      76.20
+ 16.-O5329    JAQUE JARAMILLO PABLO MARTIN            4,089.16     66.65     4,089.16      55.20
+ 17.-O5332    RODRIGUEZ ENCISO ANGEL RAFAEL           4,299.00     70.07     4,299.00      58.04
+ 18.-O5338    SOCA JORGE FELICIANO                    3,876.15     63.18     3,876.15      52.33
+ 19.-O5341    GONGORA VARGAS SEGUNDO ANASTACIO        4,934.40     80.43     4,934.40      66.61
+ 20.-O5343    SAYAS AYALA FLORENCIO                   5,576.65     90.90     5,576.65      75.28
+ 21.-O5345    AÑORGA VALVERDE LADISLAO ELIAS          4,139.23     67.47     4,139.23      55.88
+ 22.-O5347    SONCCO CERVANTES JULIAN                 3,821.73     62.29     3,821.73      51.59
+ 23.-O5366    VASQUEZ SAYAS OSCAR LORENZO             3,906.25     63.67     3,906.25      52.73
+ 24.-O5367    MIRANDA PACHECO WILLY                   3,650.07     59.50     3,650.07      49.28
+ 25.-O5372    SOTO CECENARIO SAMUEL BERNARDINO        4,911.98     80.07     4,911.98      66.31
+ 26.-O5376    ALARCON SERNAQUE AGUSTIN                3,647.11     59.45     3,647.11      49.24
+ 27.-O5380    MALLMA MIRANDA ESTEBAN                  3,317.64     54.08     3,317.64      44.79
+ 28.-O5382    ALVINO CANO LELIS CLEDI                 3,304.64     53.87     3,304.64      44.61
+ 29.-O5384    CERDA CISNEROS DONATO                   3,674.67     59.90     3,674.67      49.61
+ 30.-O5389    MAQUIN FIGUEROA GABRIEL JUAN            3,906.08     63.67     3,906.08      52.73
+ 31.-O5392    PUSSE TERRONES SEGUNDO ALEXANDER        3,579.77     58.35     3,579.77      48.33
+ 32.-O5393    ALVAREZ TORRES JULIO JUAN               4,039.21     65.84     4,039.21      54.53
+ 33.-O5401    JARA RODRIGUEZ WILMER                   3,454.40     56.31     3,454.40      46.63
+ 34.-O5404    ASTOQUILLCA OBREGON CARLOS              3,515.86     57.31     3,515.86      47.46
+ 35.-O5413    CASTRO CRUZ VICTOR                      4,012.78     65.41     4,012.78      54.17
+ 36.-O5423    REYES VALDEZ ANGEL WILMER               4,863.24     79.27     4,863.24      65.65
+ 37.-O5425    NAJARRO MEDINA FELIX                    3,766.68     61.40     3,766.68      50.85
+ 38.-O5428    GAMBOA MEDINA VICTOR                    3,739.65     60.96     3,739.65      50.49
+ 39.-O5434    ESPIRITU ASENCIOS ALFONSO PEDRO         3,786.01     61.71     3,786.01      51.11
+ 40.-O5438    QUIÑONES QUINTO MAURO EUTIMIO           4,010.23     65.37     4,010.23      54.14
+ 41.-O5442    RAMOS CRUZ VALERIO HIGIDIO              3,965.70     64.64     3,965.70      53.54
+ 42.-O5445    RAMOS MALLMA FAUSTINO                   3,772.34     61.49     3,772.34      50.93
+
+CIA. MINERA AGREGADOS CALCAREOS S.A.      MES DE NOVIEMBRE DEL 2022
+TOPE :      11,002.84                                                Pag :    2
+
+CODIGO         NOMBRE                              TOT, INGRESO  S.RIESGO   INGRESO     SEGURO COMP. 
+                                                                  SALUD     CON TOPE     PENSIONES
+----------------------------------------------------------------------------------------------------
+ 43.-O5514    SOLORZANO POMA ROSARIO                  3,588.29     58.49     3,588.29      48.44
+ 44.-O5544    CUADRADO MAÑUECO ROMULO                 3,789.21     61.76     3,789.21      51.15
+ 45.-O5548    AMBROCIO DIAZ MARCELINO NEOFITO         4,033.72     65.75     4,033.72      54.46
+ 46.-O5553    LEON ARCE ULISES GERARDO                4,126.68     67.26     4,126.68      55.71
+ 47.-O5554    OBESO SALINAS DANIEL CHRISTIAN          3,403.97     55.48     3,403.97      45.95
+ 48.-O5555    PORTOCARRERO MENDOZA GABRIEL MARTIN     3,700.05     60.31     3,700.05      49.95
+ 49.-O5557    RAMOS CRUZ HERMENEGILDO EDUARDO         3,562.17     58.06     3,562.17      48.09
+ 50.-O5560    VILCHEZ CERRON ROBERTO                  3,767.01     61.40     3,767.01      50.85
+ 51.-O5562    BANCES VILLEGAS BALDEMAR                4,315.90     70.35     4,315.90      58.26
+ 52.-O5565    YOVERA NIZAMA JOSE PORFIRIO             4,351.43     70.93     4,351.43      58.74
+ 53.-O5572    MAS MAS GEREMIAS                        3,636.80     59.28     3,636.80      49.10
+ 54.-O5580    BAUTISTA JARA ASUNCION                  3,779.70     61.61     3,779.70      51.03
+ 55.-O5583    BAILON PATRICIO ROY ROGER               3,519.55     57.37     3,519.55      47.51
+ 56.-O5595    CRISPIN OLIVO CARLOS VIRGILIO           3,631.58     59.19     3,631.58      49.03
+ 57.-O5607    CALLATA HUAYCHA VICTOR                  4,001.99     65.23     4,001.99      54.03
+ 58.-O5609    NOLORBE FLORES LUIS HILARIO             2,975.19     48.50     2,975.19      40.17
+ 59.-O5632    ZUÑIGA ALCANTARA JUAN CARLOS            3,349.81     54.60     3,349.81      45.22
+ 60.-O5655    MOGOLLON LAZARO GUILLERMO MARCELINO     3,565.41     58.12     3,565.41      48.13
+ 61.-O5658    SANGAMA RUIZ CLEVER                     4,528.41     73.81     4,528.41      61.13
+ 62.-O5660    RUIZ RODRIGUEZ JOSE LUIS                3,517.84     57.34     3,517.84      47.49
+ 63.-O5727    MORENO VERAMENDI JAIME RAMIRO           3,423.05     55.80     3,423.05      46.21
+ 64.-O5731    HURTADO TORRES CELSO                    3,475.15     56.64     3,475.15      46.91
+ 65.-O5754    GALARRETA HUACCHA FREDY DUVAL           3,198.65     52.14     3,198.65      43.18
+ 66.-O5755    BERRU CRUZ PALERMO                      3,614.69     58.92     3,614.69      48.80
+ 67.-O5781    BARTRA DEL AGUILA EDER MICK             3,390.90     55.27     3,390.90      45.78
+ 68.-O5782    VILLADEZA BRAVO DEIVES GUDMER           3,858.37     62.89     3,858.37      52.09
+ 69.-O5801    SANCHEZ SANCHEZ CARLOS                  3,569.93     58.19     3,569.93      48.19
+ 70.-O5988    FLORES CAPILLO WILLY VAYER              2,942.44     47.96     2,942.44      39.72
+ 71.-O6116    AMARINGO MANIHUARI ORINSON FARRIS       2,291.44     37.35     2,291.44      30.93
+ 72.-O6128    TEJADA FERNANDEZ ROBERTO CARLOS         3,017.73     49.19     3,017.73      40.74
+ 73.-O6137    MANAMA PADILLA LIRIO                    2,768.00     45.12     2,768.00      37.37
+ 74.-O6185    HUINCHO FLORES EMERSON                  3,126.52     50.96     3,126.52      42.21
+ 75.-O6209    LUNA SALINAS JOSE ALBERTO               3,745.53     61.05     3,745.53      50.56
+ 76.-O6344    HUAMAN TANANTA MANUEL                   3,448.75     56.21     3,448.75      46.56
+ 77.-O6348    LAUPA CCACCYA LUIS                      4,150.41     67.65     4,150.41      56.03
+ 78.-O6354    MEJIA MALLQUI MARCO ANIBAL              3,652.51     59.54     3,652.51      49.31
+ 79.-O6358    CAMPOMANES MORENO WILFREDO MANUEL       4,003.82     65.26     4,003.82      54.05
+ 80.-O6359    ASENCIO LOPEZ ANGEL NICODEMO            3,745.29     61.05     3,745.29      50.56
+ 81.-O6364    PACHECO PEÑA ANGEL OBER                 4,295.30     70.01     4,295.30      57.99
+ 82.-O6385    TANANTA MORI JAMES                      4,600.52     74.99     4,600.52      62.11
+ 83.-O6390    VILCA GARCIA JULIO FELIX                5,688.22     92.72     5,688.22      76.79
+ 84.-O6391    VILCHEZ MONTENEGRO JOSE ELADIO          3,748.77     61.10     3,748.77      50.61
+ 85.-O6505    TORBISCO ALVARADO MICHELL CARLOS        2,858.10     46.59     2,858.10      38.58
+ 86.-O6508    GONZALES PUERTAS GEINER JAVIER          4,289.02     69.91     4,289.02      57.90
+ 87.-O6542    RAMOS ALLCCA JUAN                       4,655.98     75.89     4,655.98      62.86
+ 88.-O6546    MEZA VILLANUEVA WILSON                  3,809.83     62.10     3,809.83      51.43
+ 89.-O6578    LAZARO ARQUINIGO TEOBALDO MAXIMO        3,220.45     52.49     3,220.45      43.48
+ 90.-O6688    VILQUINICHE ROBLES RUSBET               3,164.91     51.59     3,164.91      42.73
+ 91.-O6697    SOSA QUISPE LUIS ALBERTO                3,072.89     50.09     3,072.89      41.48
+
+CIA. MINERA AGREGADOS CALCAREOS S.A.      MES DE NOVIEMBRE DEL 2022
+TOPE :      11,002.84                                                Pag :    3
+
+CODIGO         NOMBRE                              TOT, INGRESO  S.RIESGO   INGRESO     SEGURO COMP. 
+                                                                  SALUD     CON TOPE     PENSIONES
+----------------------------------------------------------------------------------------------------
+ 92.-O6704    BALLENA VALDERA JOSE SANTOS             2,725.24     44.42     2,725.24      36.79
+ 93.-O6723    BOHORQUEZ MALLQUI JULIO CESAR           2,431.20     39.63     2,431.20      32.82
+ 94.-O6734    VENTURA QUISPE ELVIS NEIRO              2,442.16     39.81     2,442.16      32.97
+ 95.-O6736    VILCA MORENO JHONATAN                   2,496.61     40.69     2,496.61      33.70
+ 96.-O6745    LOPEZ HERRERA RIVALDO HOLSEN            2,477.67     40.39     2,477.67      33.45
+ 97.-O6748    VARGAS CHAMBI VICTOR AURELIO            2,907.72     47.40     2,907.72      39.25
+ 98.-O6807    CORTEZ COCHACHI MIGUEL ANGEL            1,646.91     26.84     1,646.91      22.23
+ 99.-O6808    ROMERO SUAREZ MARCO POLO                3,109.57     50.69     3,109.57      41.98
+100.-O6826    FERNANDEZ MENDOZA STEWARD GOLDENBERG     2,312.99     37.70     2,312.99      31.23
+101.-O6845    TREJO SUSANIBAR JOHAN ANTONIO           2,450.05     39.94     2,450.05      33.08
+102.-O6858    ÑAHUI FELIPE OSCAR ROBERTO              2,416.61     39.39     2,416.61      32.62
+103.-O6862    ACARO SALEZ RENZO SAMUEL                2,462.53     40.14     2,462.53      33.24
+104.-O6863    YAHUARCANI CAHUAZA LINCER SIALER        2,268.04     36.97     2,268.04      30.62
+105.-O6884    LAZO CARDENAS JUAN JOSE                 1,604.53     26.15     1,604.53      21.66
+106.-O6904    PACHERREZ SILVA ALDO SAMIR              2,283.48     37.22     2,283.48      30.83
+107.-O6908    HUAMANI LAURA TEOBALDO WALDO            2,543.19     41.45     2,543.19      34.33
+108.-O6939    MESTANZA CALDERON JOSE ELMER            3,036.03     49.49     3,036.03      40.99
+109.-O6960    BLANCO GONZALES CESAR CARLOS            2,402.99     39.17     2,402.99      32.44
+110.-O6968    RUIZ COTRINA DANY JHON                  2,710.92     44.19     2,710.92      36.60
+111.-O6974    GIBAJA CARRASCO ANIBAL                  2,461.84     40.13     2,461.84      33.23
+112.-O7000    HUARCAYA OCHOA RONNIE ALBERTH           2,325.35     37.90     2,325.35      31.39
+113.-O7011    ALVAREZ ICUMINA WILLY AUGUSTO           2,449.00     39.92     2,449.00      33.06
+114.-O7038    CAIRA MAMANI JOHANN EDSON               2,601.76     42.41     2,601.76      35.12
+115.-O7057    CHOQUEHUANCA OQUEÑA ROGELIO WALTER      2,676.33     43.62     2,676.33      36.13
+116.-O7071    PUENTE ROJAS ENNYZ YOFRAN               2,606.05     42.48     2,606.05      35.18
+117.-O7077    BAUTISTA MOGOLLON KELVIN DENNIS         2,091.43     34.09     2,091.43      28.23
+118.-O7079    FLORES CORDOVA SEGUNDO PASCUAL          2,441.55     39.80     2,441.55      32.96
+119.-O7086    CALLATA HUAYCHA OSWALDO NILTON          2,470.79     40.27     2,470.79      33.36
+120.-O7092    TAPULLIMA GRANDEZ GINETON HANAN         2,256.84     36.79     2,256.84      30.47
+121.-O7096    GRIMALDO DONAYRE VICTOR JAVIER          2,330.67     37.99     2,330.67      31.46
+122.-O7099    MENDOZA LOPEZ JAVIER LEONCIO            1,882.66     30.69     1,882.66      25.42
+123.-O7103    CRUZ ROSADO JORGE ARMANDO               2,357.94     38.43     2,357.94      31.83
+124.-O7108    GODOY HUARACA CRISTHIAN CIRILO          2,188.13     35.67     2,188.13      29.54
+125.-O7112    ROMAN CAUCHA ALEX ISIDRO                2,168.88     35.35     2,168.88      29.28
+126.-O7119    BAZAN CHOCTALIN JUAN ALBERTO            2,182.95     35.58     2,182.95      29.47
+127.-O7120    RIOS ZEVALLOS DEYVIS                    2,243.40     36.57     2,243.40      30.29
+128.-O7124    ATARAMA OPORTO ROBERTO JUNIOR           2,403.67     39.18     2,403.67      32.45
+129.-O7164    RODRIGUEZ PISCO JOSEPH BRIHAM           2,302.57     37.53     2,302.57      31.08
+130.-O7171    DAMIAN GOÑI MANUEL JESUS                2,382.96     38.84     2,382.96      32.17
+131.-O7182    IPUSHIMA MANIHUARI LUIS                 2,179.66     35.53     2,179.66      29.43
+132.-O7184    ROJAS DIAZ JOSE DARIO                   2,155.41     35.13     2,155.41      29.10
+133.-O7185    BARRIOS CADENAS FELIX LUIS              2,356.00     38.40     2,356.00      31.81
+134.-O7186    CORTEZ PACHERREZ BRULY MANUEL           2,139.63     34.88     2,139.63      28.89
+135.-O7187    MENDOZA PACHERRE CARLOS YOEL            2,250.83     36.69     2,250.83      30.39
+136.-O7189    YANQUI PALOMINO MIHAHILO                2,204.74     35.94     2,204.74      29.76
+137.-O7192    ESTRADA ROMERO PAUL EDINSON             1,787.15     29.13     1,787.15      24.13
+138.-O7196    OBISPO MURRIETA GUIANINI FERRI          1,922.13     31.33     1,922.13      25.95
+139.-O7200    CELIS AMASIFUEN RICARDO ARTURO          2,063.85     33.64     2,063.85      27.86
+140.-O7212    FUENTES RIVERA ALEJANDRO YONGER HERNAN     2,320.78     37.83     2,320.78      31.33
+
+CIA. MINERA AGREGADOS CALCAREOS S.A.      MES DE NOVIEMBRE DEL 2022
+TOPE :      11,002.84                                                Pag :    4
+
+CODIGO         NOMBRE                              TOT, INGRESO  S.RIESGO   INGRESO     SEGURO COMP. 
+                                                                  SALUD     CON TOPE     PENSIONES
+----------------------------------------------------------------------------------------------------
+141.-O7221    PRADA AREVALO DENNYS EDINSON            1,901.54     31.00     1,901.54      25.67
+142.-O7232    FLORES PINEDO JESUS ALFREDO             1,926.84     31.41     1,926.84      26.01
+143.-O7233    SILVA CASAVERDE TOMAS ANTONIO           4,154.33     67.72     4,154.33      56.08
+144.-O7242    TRUJILLO CASTAÑEDA MARLON ERIKSON       2,044.40     33.32     2,044.40      27.60
+145.-O7245    RUFINO CASTRO ADOLFO ENRIQUE            1,947.17     31.74     1,947.17      26.29
+146.-O7271    AREVALO TANGOA FRANCO                   1,923.57     31.35     1,923.57      25.97
+147.-O7272    CHAVEZ UPIACHIUAY BENITO                2,093.82     34.13     2,093.82      28.27
+148.-O7273    TATAJE CELI FRANKLIN MICHEL             1,702.32     27.75     1,702.32      22.98
+149.-O7279    LEYVA BALCAZAR ROBERT                   1,638.85     26.71     1,638.85      22.12
+150.-O7283    MINAYA CUEVA JUNIOR ALEXANDER           1,954.93     31.87     1,954.93      26.39
+151.-O7293    GONZALES RUIZ FELI                      1,674.06     27.29     1,674.06      22.60
+152.-O7294    PEREZ ROJAS PIO                         1,824.41     29.74     1,824.41      24.63
+153.-O7302    SOTO QUISPE ELITAR                      1,537.45     25.06     1,537.45      20.76
+154.-O7303    HARO SILVA EZEQUIEL SEBASTIAN           1,377.76     22.46     1,377.76      18.60
+155.-O7308    OSORIO HANCCO MICHAEL BARNARD             884.01     14.41       884.01      11.93
+156.-O7309    CORDOVA MUÑOZ HAROLD RODOLFO              600.92      9.79       600.92       8.11
+157.-O7482    LOZANO SEGURA EDUARDO ENRIQUE           4,066.59     66.29     4,066.59      54.90
+158.-O7483    TOLENTINO HIZO ANIBAL ARMANDO           4,471.86     72.89     4,471.86      60.37
+159.-O7543    ALLCCAHUAMAN GASPAR HECTOR              3,644.85     59.41     3,644.85      49.21
+160.-O8450    OCMIN GONZALES MIGUEL ANGEL             3,613.92     58.91     3,613.92      48.79
+161.-O8479    CHIRINOS MAYHUIRE FIDEL                 3,670.17     59.82     3,670.17      49.55
+                                                  ------------ --------- ------------  ---------
+                                                    512,944.99  8,361.01   512,944.99   6,924.72
+BENEFICIO DE MINERALES LOS HORNOS
+
+  1.-O5399    ORTIZ CORONEL LUIS ALBERTO              5,493.88     89.55     5,493.88      74.17
+  2.-O6823    LINARES CATASHUNGA LIONEL               2,828.67     46.11     2,828.67      38.19
+  3.-O6824    QUINTO PASTOR ULISES GERARDO            2,752.95     44.87     2,752.95      37.16
+  4.-O6832    DELGADO PEREZ JOSE                      2,797.90     45.61     2,797.90      37.77
+  5.-O6891    IZAGUIRRE VARA MIGUEL ANGEL             2,667.15     43.47     2,667.15      36.01
+  6.-O6975    RUESTA FORTUN PAUL ANTONIO              2,238.78     36.49     2,238.78      30.22
+  7.-O7001    CHURANO CANTARO DINO JERCINIO           2,513.86     40.98     2,513.86      33.94
+  8.-O7003    ÑAÑO SANTISTEBAN MARCO ANTONIO          2,469.88     40.26     2,469.88      33.34
+  9.-O7035    LUNA CIPRIANO ANGHELO MOISES            2,219.52     36.18     2,219.52      29.96
+ 10.-O7037    HUANAQUIRI VILLACORTA ALBERT SEGUNDO     2,350.64     38.32     2,350.64      31.73
+ 11.-O7041    IDROGO VENTURA JHON DANY                2,421.33     39.47     2,421.33      32.69
+ 12.-O7121    RODRIGUEZ CERON PAUL PERCY              1,692.42     27.59     1,692.42      22.85
+ 13.-O7130    NINA PERCA GERMAN ANIBAL                2,372.80     38.68     2,372.80      32.03
+ 14.-O7139    MENDEZ PAREDES MIGUEL ANGEL             2,191.89     35.73     2,191.89      29.59
+ 15.-O7145    SANTOS QUINCHUYA GUNI HANIEL            2,552.32     41.60     2,552.32      34.46
+ 16.-O7157    HONORES CALLIRGOS JUAN CARLOS           2,407.24     39.24     2,407.24      32.50
+ 17.-O7173    LOPEZ GALLARDO CESAR DANIEL             2,284.90     37.24     2,284.90      30.85
+ 18.-O7236    MALLQUI VALDIVIA JOSE CARLOS            2,129.47     34.71     2,129.47      28.75
+ 19.-O7285    BRAVO VELASQUEZ RICARDO EDWARD          1,552.07     25.30     1,552.07      20.95
+ 20.-O7286    RAMIREZ RAMOS RAUL JOAQUIN              1,564.76     25.51     1,564.76      21.12
+ 21.-O7292    CALIXTO VARGAS JAIRO KEVIN              1,564.25     25.50     1,564.25      21.12
+ 22.-O7295    ROJAS ROSALES LUIS MIGUEL               1,685.61     27.48     1,685.61      22.76
+                                                  ------------ --------- ------------  ---------
+                                                     52,752.29    859.89    52,752.29     712.16
+
+CIA. MINERA AGREGADOS CALCAREOS S.A.      MES DE NOVIEMBRE DEL 2022
+TOPE :      11,002.84                                                Pag :    5
+
+CODIGO         NOMBRE                              TOT, INGRESO  S.RIESGO   INGRESO     SEGURO COMP. 
+                                                                  SALUD     CON TOPE     PENSIONES
+----------------------------------------------------------------------------------------------------
+C A L I M A
+
+  1.-O5530    VALLADOLID LLOCYA IGNACIO               3,890.76     63.42     3,890.76      52.53
+  2.-O5532    MARTINEZ DURAN EVER EDWIN               3,808.26     62.07     3,808.26      51.41
+  3.-O5916    CASTRO GUTIERREZ JUAN                   3,379.84     55.09     3,379.84      45.63
+  4.-O6855    MENDOZA ARANDA FIDEL                    2,655.34     43.28     2,655.34      35.85
+  5.-O6980    BRIONES VELAZCO HOMERO EDUARDO          3,393.36     55.31     3,393.36      45.81
+  6.-O6990    ROJAS DIAZ JOSELITO                     2,421.93     39.48     2,421.93      32.70
+  7.-O7078    CASTRO INGA JOSE JAVIER                 2,620.97     42.72     2,620.97      35.38
+  8.-O7081    CABANILLAS YGLESIAS ERICK ALFREDO       2,659.26     43.35     2,659.26      35.90
+  9.-O7191    CRUZ CASTILLO CRISTHIAN PABLO           2,158.93     35.19     2,158.93      29.15
+                                                  ------------ --------- ------------  ---------
+                                                     26,988.65    439.91    26,988.65     364.36
+CEMENTO BLANCO INFANTAS
+
+  1.-O5335    PANTA MONDRAGON ALEX RUBEN              3,709.76     60.47     3,709.76      50.08
+  2.-O5415    INOÑAN SANCHEZ ELMER                    4,011.91     65.39     4,011.91      54.16
+  3.-O5437    FLORES ENRIQUEZ JUAN BAUTISTA           4,128.75     67.30     4,128.75      55.74
+  4.-O5441    VARA HILARIO ANTIOGENES                 3,676.79     59.93     3,676.79      49.64
+  5.-O5454    CASTILLO TORRES MOISES SALOMON          3,633.39     59.22     3,633.39      49.05
+  6.-O5500    APAZA JARA RODOLFO ROBERTO              4,613.96     75.21     4,613.96      62.29
+  7.-O5509    CASTILLO PINEDO JORGE MIGUEL            4,036.37     65.79     4,036.37      54.49
+  8.-O5516    CASTILLO VILLANUEVA FAUSTINO            4,093.74     66.73     4,093.74      55.27
+  9.-O5518    BERMUDEZ GIRALDO FAUSTINO MARTIN        4,395.30     71.64     4,395.30      59.34
+ 10.-O5520    BENITES TARAZONA DEIVIN KLEN            3,418.00     55.71     3,418.00      46.14
+ 11.-O5652    CHISTAMA MOZOMBITE JAIMITO              3,866.09     63.02     3,866.09      52.19
+ 12.-O5694    MAYANGA FERNANDEZ CESAR AUGUSTO         3,502.43     57.09     3,502.43      47.28
+ 13.-O5761    SHUÑA SINTI FAVIO                       3,689.77     60.14     3,689.77      49.81
+ 14.-O5968    CASTRO MILLAN DEUMERES                  2,858.88     46.60     2,858.88      38.59
+ 15.-O6021    ATENCIA LOPEZ ANDERSON LUCAS            3,254.76     53.05     3,254.76      43.94
+ 16.-O6397    ALEJOS DAMIAN JILMER OLIMPIO            5,386.96     87.81     5,386.96      72.72
+ 17.-O6521    FLORES ZEVALLOS JHON MARLON             1,938.84     31.60     1,938.84      26.17
+ 18.-O6713    CORDOVA PAZ HENRRY                      2,296.30     37.43     2,296.30      31.00
+ 19.-O6798    LUPACA CLAROS JULIO CESAR               3,857.48     62.88     3,857.48      52.08
+ 20.-O6837    SANCHEZ AVALOS ALEJANDRO JESUS          2,032.55     33.13     2,032.55      27.44
+ 21.-O6867    YEPEZ AHUANARI JESUS MARTIN             2,438.30     39.74     2,438.30      32.92
+ 22.-O6874    LUCAS ESPINOZA ROMARIO YOVANI           2,291.57     37.35     2,291.57      30.94
+ 23.-O6937    MENDOZA TORRES IGOR                     3,854.83     62.83     3,854.83      52.04
+ 24.-O7008    BANCES VILLEGAS JHONNY ALAN             2,494.16     40.65     2,494.16      33.67
+ 25.-O7031    CISNEROS GUERRA DOUGLAS                 2,340.13     38.14     2,340.13      31.59
+ 26.-O7138    RIVERA BEJARANO ROMARIO                 2,103.01     34.28     2,103.01      28.39
+ 27.-O7178    TAPIA GORDILLO CARLOS ALBERTO           2,422.82     39.49     2,422.82      32.71
+ 28.-O7194    PEÑA GARCIA ELDER                       2,140.89     34.90     2,140.89      28.90
+ 29.-O7227    URBANO MOSQUERA JOSIAS EMMANUEL         2,195.77     35.79     2,195.77      29.64
+ 30.-O7246    REQUENA CRUZ GIANPOOL ROBIN             1,957.48     31.91     1,957.48      26.43
+ 31.-O7248    CERNA CARBAJAL JOSE MANUEL              1,941.76     31.65     1,941.76      26.21
+ 32.-O7251    MAMANI MARQUEZ DANIEL                   1,892.30     30.84     1,892.30      25.55
+ 33.-O7278    VALLEJOS CARRILLO ANTHONY DANIEL        1,682.18     27.42     1,682.18      22.71
+ 34.-O7280    GOMEZ QUIROZ JOHAN SMITH                1,612.88     26.29     1,612.88      21.77
+ 35.-O7291    ACARO SALEZ JOSE XAVIER                 1,691.32     27.57     1,691.32      22.83
+
+CIA. MINERA AGREGADOS CALCAREOS S.A.      MES DE NOVIEMBRE DEL 2022
+TOPE :      11,002.84                                                Pag :    6
+
+CODIGO         NOMBRE                              TOT, INGRESO  S.RIESGO   INGRESO     SEGURO COMP. 
+                                                                  SALUD     CON TOPE     PENSIONES
+----------------------------------------------------------------------------------------------------
+ 36.-O7300    RODRIGUEZ MONTOYA JOSE LUIS             1,351.21     22.02     1,351.21      18.24
+ 37.-O7304    BUENDIA MEZA GERSON FELIX               1,432.86     23.36     1,432.86      19.34
+ 38.-O7307    GUTIERREZ CASTRO ROBERTO                1,045.84     17.05     1,045.84      14.12
+ 39.-O7311    PIÑAN VASQUEZ ANDRES AARON                 94.28      1.54        94.28       1.27
+ 40.-O8251    SOLORZANO GONZALES JUAN MARCOS          3,680.59     59.99     3,680.59      49.69
+                                                  ------------ --------- ------------  ---------
+                                                    113,066.21  1,842.95   113,066.21   1,526.38
+DESPACHO DE PRODUCTOS INDUSTRIALES
+
+  1.-O5342    PRIETO TAVARA GUILLERMO DUQUE           4,935.51     80.45     4,935.51      66.63
+  2.-O5351    AÑORGA ESTRADA FELIX CATALINO           3,559.90     58.03     3,559.90      48.06
+  3.-O6598    SANCHEZ PIÑA JHAIR                      2,957.42     48.21     2,957.42      39.93
+  4.-O6709    LUNA CUADRADO JUNNIOR                   2,759.41     44.98     2,759.41      37.25
+  5.-O6738    URBINA HERNANDEZ FELIX IGOR             3,091.75     50.40     3,091.75      41.74
+  6.-O7097    GARCIA GRANDEZ ALEXANDER                2,902.21     47.31     2,902.21      39.18
+                                                  ------------ --------- ------------  ---------
+                                                     20,206.20    329.38    20,206.20     272.79
+DESPACHO DE PRODUCTOS MINEROS
+
+  1.-O6210    PAULINO PUJAY ABNEGO HILARIO            5,335.84     86.97     5,335.84      72.03
+  2.-O6331    RIVERA CHUJUTALLI ROYER                 4,691.82     76.48     4,691.82      63.34
+                                                  ------------ --------- ------------  ---------
+                                                     10,027.66    163.45    10,027.66     135.37
+INSTALACIONES
+
+  1.-O5350    CHIPANA ORTIZ CIRO                      4,150.23     67.65     4,150.23      56.03
+  2.-O5352    ESPINOZA CABELLO ANDRES FELIX           4,035.80     65.78     4,035.80      54.48
+  3.-O5440    CONDOR QUISPE HUBER PAUL                4,398.10     71.69     4,398.10      59.37
+  4.-O5457    NINAQUISPE PAREDES FELIX                4,533.52     73.90     4,533.52      61.20
+  5.-O5487    ZAMORA LOPEZ HAYA JULIO HUMBERTO        4,085.86     66.60     4,085.86      55.16
+  6.-O5493    CARRILLO PUMA GABRIEL ANGEL             2,483.69     40.48     2,483.69      33.53
+  7.-O5637    AGURTO CHAVEZ PEDRO ROBERTO             3,576.36     58.29     3,576.36      48.28
+  8.-O5743    CONQUE TOLENTINO EUSEBIO TEOFILO        3,663.08     59.71     3,663.08      49.45
+  9.-O6106    CHAVEZ ZAMORA LLESY                     3,777.58     61.57     3,777.58      51.00
+ 10.-O6494    VILLEGAS PACHERRES JOHNNY ALBERTO       2,885.20     47.03     2,885.20      38.95
+                                                  ------------ --------- ------------  ---------
+                                                     37,589.42    612.70    37,589.42     507.45
+LABORATORIO
+
+  1.-O6966    DOMADOR VALENCIA JAVIER                 2,154.26     35.11     2,154.26      29.08
+                                                  ------------ --------- ------------  ---------
+                                                      2,154.26     35.11     2,154.26      29.08
+
+CIA. MINERA AGREGADOS CALCAREOS S.A.      MES DE NOVIEMBRE DEL 2022
+TOPE :      11,002.84                                                Pag :    7
+
+CODIGO         NOMBRE                              TOT, INGRESO  S.RIESGO   INGRESO     SEGURO COMP. 
+                                                                  SALUD     CON TOPE     PENSIONES
+----------------------------------------------------------------------------------------------------
+LABORATORIO DE PRODUCTOS INDUSTRIALES
+
+  1.-O5369    PARRA ALVARADO GUIDO EDGARDO            3,706.02     60.41     3,706.02      50.03
+  2.-O5733    HURTADO TORRES GILBERT                  3,690.77     60.16     3,690.77      49.83
+  3.-O6463    SANCHEZ SAENZ ELI ABNER                 5,427.79     88.47     5,427.79      73.28
+  4.-O7265    RAMIREZ IGNACIO ANDERSON HERMES         1,804.86     29.42     1,804.86      24.37
+                                                  ------------ --------- ------------  ---------
+                                                     14,629.44    238.46    14,629.44     197.51
+LABORATORIO MINERO
+
+  1.-O5394    CIEZA VEGA JUAN ESPERANZA               3,929.23     64.05     3,929.23      53.04
+  2.-O6310    FLORES CHAVARRIA FRANCISCO CARRACCIOLO     4,061.27     66.20     4,061.27      54.83
+  3.-O6396    OSORIO VASQUEZ GILBERTO                 3,814.73     62.18     3,814.73      51.50
+                                                  ------------ --------- ------------  ---------
+                                                     11,805.23    192.43    11,805.23     159.37
+M A E S T R A N Z A
+
+  1.-O1013    ROSAS MANRIQUE SANTOS RUBEN             4,170.82     67.98     4,170.82      56.31
+  2.-O1018    HUAMANI PEÑA FAUSTINO CRISTOBAL         4,213.61     68.68     4,213.61      56.88
+  3.-O5180    ARGUEDAS APAZA JUAN PASTOR              4,283.63     69.82     4,283.63      57.83
+  4.-O6060    ARIAS CAMACHO RAUL                      3,617.52     58.97     3,617.52      48.84
+  5.-O6409    RODRIGUEZ CERNA FERNANDO ALEXANDER      3,902.42     63.61     3,902.42      52.68
+  6.-O6902    LUCAS AGÜERO AUDENCIO                   2,702.70     44.05     2,702.70      36.49
+                                                  ------------ --------- ------------  ---------
+                                                     22,890.70    373.11    22,890.70     309.03
+MANTENIMIENTO DE PLANTA
+
+  1.-O5162    FERNANDEZ VIDARTE ENRIQUE               4,214.22     68.69     4,214.22      56.89
+  2.-O5163    CLAROS ARGUELLO CARLOS ALBERTO          3,834.31     62.50     3,834.31      51.76
+  3.-O5168    PASACHE YMAN MANUEL ASUNCION            4,272.66     69.64     4,272.66      57.68
+  4.-O5172    SANDOVAL TORRES LUIS ENRIQUE            3,991.89     65.07     3,991.89      53.89
+  5.-O5184    MENDOZA CADILLO HERMINIO TEOFILO        4,920.26     80.20     4,920.26      66.42
+  6.-O5414    MENDOZA CORNEJO SERAPIO                 7,038.25    114.72     7,038.25      95.02
+  7.-O5426    TORRES YAURI WALDO LUIS                 4,103.08     66.88     4,103.08      55.39
+  8.-O5488    SANCHEZ SALVATIERRA ZENON ISMAEL        3,996.09     65.14     3,996.09      53.95
+  9.-O5534    DE LA CRUZ FLORES CRISTOPLER CHARLIC     3,580.84     58.37     3,580.84      48.34
+ 10.-O5612    RAMOS ASENCIO JUAN CARLOS VICENTE       3,751.90     61.16     3,751.90      50.65
+ 11.-O5623    CAPRISTAN AGUILAR EVER PERCY            3,738.80     60.94     3,738.80      50.47
+ 12.-O5640    MIRANDA ESTRADA RONALD CARLOS           3,463.37     56.45     3,463.37      46.76
+ 13.-O5760    MORALES VEGA DAVID                      3,645.78     59.43     3,645.78      49.22
+ 14.-O5926    AGUILAR GALLARDO EDILBRANDO             3,294.90     53.71     3,294.90      44.48
+ 15.-O5965    ESPANTOSO QUISPE CARLOS ALBERTO         3,318.42     54.09     3,318.42      44.80
+ 16.-O6025    CASTRO MARQUEZ FERNANDO                 3,681.27     60.00     3,681.27      49.70
+ 17.-O6475    DELGADO ODAR CARLOS ALBERTO             3,444.09     56.14     3,444.09      46.50
+ 18.-O6963    HERNANDEZ RIVAS EDISSON CRISTHYAN       2,612.35     42.58     2,612.35      35.27
+ 19.-O7018    CASTILLEJO MELGAREJO JASON KENNY        3,766.33     61.39     3,766.33      50.85
+ 20.-O7048    HUAMAN VALLADARES PAUL ALEXANDER        2,694.63     43.92     2,694.63      36.38
+ 21.-O7055    CARDENAS SANCHEZ JUAN PABLO ANGEL       2,840.36     46.30     2,840.36      38.34
+
+CIA. MINERA AGREGADOS CALCAREOS S.A.      MES DE NOVIEMBRE DEL 2022
+TOPE :      11,002.84                                                Pag :    8
+
+CODIGO         NOMBRE                              TOT, INGRESO  S.RIESGO   INGRESO     SEGURO COMP. 
+                                                                  SALUD     CON TOPE     PENSIONES
+----------------------------------------------------------------------------------------------------
+ 22.-O7274    GARCIA LA ROSA JAMES WILMER             2,132.37     34.76     2,132.37      28.79
+                                                  ------------ --------- ------------  ---------
+                                                     82,336.17  1,342.08    82,336.17   1,111.55
+MANTENIMIENTO ELECTRICO
+
+  1.-O5421    VILLAR BORJAS CESAR HUMBERTO            6,323.44    103.07     6,323.44      85.37
+  2.-O5673    CHAMOCHUMBI ALTAMIRANO VICTOR ARMANDO     4,935.21     80.44     4,935.21      66.63
+  3.-O6483    CALLOAPAZA ORTEGA CESAR RAFAEL          4,575.01     74.57     4,575.01      61.76
+  4.-O6743    MENDOZA MIRANDA GENARO RICARDO          3,657.83     59.62     3,657.83      49.38
+  5.-O6954    PALOMINO ESPEJO LENER MAXIMO            4,846.80     79.00     4,846.80      65.43
+  6.-O7075    FIGUEROA TASAYCO JEAN PAUL              3,298.35     53.76     3,298.35      44.53
+  7.-O7254    USURIN CASTRO EDGAR                     2,743.53     44.72     2,743.53      37.04
+  8.-O7297    GARCIA GONZALES ANDRES DAVID            2,294.92     37.41     2,294.92      30.98
+  9.-O7301    RUMICHE RAMOS OSMER JOSE MANUEL         1,992.09     32.47     1,992.09      26.89
+ 10.-O7402    BACA PALADINES CESAR                    4,109.92     66.99     4,109.92      55.48
+                                                  ------------ --------- ------------  ---------
+                                                     38,777.10    632.05    38,777.10     523.49
+PLANTA DE PASTAS CERAMICA
+
+  1.-O1006    GOMERO CABANILLAS CRISTIAN MILNER       3,946.37     64.33     3,946.37      53.28
+  2.-O1081    CHAUCA ISIDRO JUAN PAULINO              4,428.89     72.19     4,428.89      59.79
+  3.-O5424    SOLGORRE ARCOS VICTOR ALEJANDRO         4,483.07     73.07     4,483.07      60.52
+  4.-O6931    BARRIOS MORAN LUIS AARON                1,955.43     31.87     1,955.43      26.40
+  5.-O6959    POMPA HERNANDEZ WALTER MARIANO          2,511.51     40.94     2,511.51      33.91
+  6.-O7129    VENTURA QUISPE JESUS ENRIQUE            2,482.47     40.46     2,482.47      33.51
+  7.-O7152    HUERTA PARDO JIM EZEQUIEL               2,237.63     36.47     2,237.63      30.21
+  8.-O7264    MATOS REYNALDO RONALD KEVIN             1,643.38     26.79     1,643.38      22.19
+  9.-O7289    FLORES REATEGUI CRISTIAN JOAO           1,685.22     27.47     1,685.22      22.75
+                                                  ------------ --------- ------------  ---------
+                                                     25,373.97    413.59    25,373.97     342.56
+TALLER MECANICO EQUIPOS Y MAQUINARIA PESADA
+
+  1.-O1026    ALCANTARA ESTRADA EDGAR                 4,238.51     69.09     4,238.51      57.22
+  2.-O1027    MUÑOZ ESPINOZA TEOFINES AURELIO         4,076.23     66.44     4,076.23      55.03
+  3.-O1043    TORRES IMAN PABLO                       5,561.78     90.66     5,561.78      75.08
+  4.-O1048    ESTRADA COTERA FELIX ANTONIO            2,071.89     33.77     2,071.89      27.97
+  5.-O5378    SUAREZ ZARATE CESAR EMILIO              3,856.63     62.86     3,856.63      52.06
+  6.-O5749    ESTRADA CANTORIN CRISPEN                3,879.95     63.24     3,879.95      52.38
+  7.-O5771    MANANI CARHUAMANTA JOSE MAXIMO          4,321.60     70.44     4,321.60      58.34
+  8.-O6011    MILLA TARAZONA LISNER NILO              3,585.65     58.45     3,585.65      48.41
+  9.-O6339    CURILLA RIVERA PEDRO CESAR              4,076.36     66.44     4,076.36      55.03
+ 10.-O6707    JAUREGUI TORRES JHONATHAN ROGGER        3,271.79     53.33     3,271.79      44.17
+ 11.-O6739    VILLARRUEL VILLARRUEL FREDY ABRAHAM     3,108.63     50.67     3,108.63      41.97
+ 12.-O7007    JUSTANO TORPOCO EVERARDO                3,236.82     52.76     3,236.82      43.70
+ 13.-O7104    PANTALEON LUPUCHE JAIME EDUARDO         3,084.32     50.27     3,084.32      41.64
+ 14.-O7132    GUTIERREZ SULLCARAY ANTONIO             3,136.98     51.13     3,136.98      42.35
+
+CIA. MINERA AGREGADOS CALCAREOS S.A.      MES DE NOVIEMBRE DEL 2022
+TOPE :      11,002.84                                                Pag :    9
+
+CODIGO         NOMBRE                              TOT, INGRESO  S.RIESGO   INGRESO     SEGURO COMP. 
+                                                                  SALUD     CON TOPE     PENSIONES
+----------------------------------------------------------------------------------------------------
+ 15.-O7141    TAIPE HUAMAN JEFERSON JAIME             3,122.98     50.90     3,122.98      42.16
+ 16.-O7217    ASTOCURI CUBA ALCIDES MISAEL            2,465.42     40.19     2,465.42      33.28
+ 17.-O7253    CABELLO SANCHEZ JORGE LUIS              1,980.72     32.29     1,980.72      26.74
+ 18.-O7262    CASACHAGUA IÑEGUEZ FRANKLIN JENRY       2,646.87     43.14     2,646.87      35.73
+                                                  ------------ --------- ------------  ---------
+                                                     61,723.13  1,006.07    61,723.13     833.26
+                                                  ------------ --------- ------------  ---------
+                                                  1,040,149.11 16,954.40 1,040,149.11  14,042.01
+                                                  ------------ --------- ------------  ---------
+                                                  ============ ========= ============  =========
+                                                  1,040,149.11 16,954.40 1,040,149.11  14,042.01
+                                                  ============ ========= ============  =========
+
+
+  T.Trabajado                Resumen 
+                             --------------------------
+
+ 325        PERSONAL DE PLANTA                              16,954.40 14,042.01
+            PERSONAL ADMINISTRATIVO EN PLANTA                     .00       .00
+            PERSONAL ADMINISTRATIVO SOLO OFICINA                  .00       .00
+            PERSONAL ADMINISTRATIVO EN SOCAVON                    .00       .00
+                                                            ========= =========
+ 325                                                        16,954.40 14,042.01
+                                                            ========= =========
+
+
+TRABAJADORES CESAD
+
+  1.-O5461    VILLADEZA RAMIREZ AMANCIO               1,564.62
+  2.-O6716    OCAMPO ULCUHUANGO JACK                  2,045.76
+  3.-O7203    CUMPA SANCHEZ JONATHAN ALEXIS           1,380.48
+  4.-O7219    YPANAQUE TAMARA CESAR ANTONIO           1,446.14
+  5.-O7284    VASQUEZ BABILONIA JHOSEP ALFREDO          144.24
+  6.-O7306    SERNAQUE YARLEQUE JHAN CARLOS              43.83
+  7.-O6828    VARGAS CARMELO MICHAEL MILTON           1,582.00
+  8.-O7296    VILLANUEVA MEDINA MARSHALL HUXLEY       1,058.15
+  9.-O7299    RUBINA NUÑEZ JUAN CARLOS                  132.54
+ 10.-O7305    SOTERO CIEZA ANDERSON FRANCISCO           439.14
+ 11.-O7310    ATENCIA ROQUE LUIS EMERZON                101.11
+ 12.-O6788    ASENCIOS ROJAS HUMBERTO WILFREDO        2,682.03
+ 13.-O7044    HUAMAN ZAMBRANO ANTONY ANDY             3,341.15
+                                                  ============
+                                                     15,961.19
+                                                  ============
+NO SE CONSIDERAN LOS SIGUIENTES CONCEPTOS
+
+  1.-         ASIG. MOVILIDAD                       104,705.00
+  2.-         ASIG. ESCOLAR                                .00
+  3.-         UTILIDADES                                   .00
+  4.-         COND.TRABAJO                            7,596.00
+  5.-         BON. EXTRAORD.                               .00
+  6.-         ASIG.FALLECIM.                               .00
+
+CIA. MINERA AGREGADOS CALCAREOS S.A.      MES DE NOVIEMBRE DEL 2022
+TOPE :      11,002.84                                                Pag :   10
+
+CODIGO         NOMBRE                              TOT, INGRESO  S.RIESGO   INGRESO     SEGURO COMP. 
+                                                                  SALUD     CON TOPE     PENSIONES
+----------------------------------------------------------------------------------------------------
+  7.-         CANASTA DE NAVIDAD                           .00
+                                                  ============
+                                                    112,301.00
+                                                  ============
+
+
+
+TRABAJADORES QUE SE INCLUYEN QUE NO TIENEN BOLETA REGISTRADA EN EL PERIODO
+
+                                                  ============
+                                                           .00
+                                                  ============

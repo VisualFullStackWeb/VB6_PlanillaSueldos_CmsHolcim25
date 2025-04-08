@@ -1,0 +1,839 @@
+CIA. MINERA AGREGADOS CALCAREOS S.A.      MES DE AGOSTO DEL 2013
+TOPE :       8,168.68                                                Pag :    1
+
+CODIGO         NOMBRE                          TOT, INGRESO  S.RIESGO  S.COMPL.
+                                                              SALUD   PENSIONES
+-------------------------------------------------------------------------------
+01
+
+BENEFICIO DE MINERALES
+
+  1.-E0033    SANCHEZ LLERENA LIZANDRO BENJAM         3,910.00     66.08       .00
+  2.-E0039    AGUILAR CAMAN TOMAS                     2,133.33     36.05       .00
+  3.-E0298    HUALLPA HUAMANI VIDAL                   5,937.83    100.35       .00
+  4.-E0313    GARCIA BELAMADO MARCOS WILLIAM          3,797.25     64.17       .00
+  5.-E0373    FERNANDEZ AVILA DANIEL RUFINO           2,627.34     44.40       .00
+  6.-E0391    HUERTA CABRERA MIJAIL VALENTIN          2,500.00     42.25       .00
+  7.-O1009    CARRASCO CARPIO NICANOR                 1,291.45     21.83       .00
+  8.-O1017    MAYHUIRE POCCORE BERNABE                1,986.20     33.57       .00
+  9.-O1023    COAQUIRA MAMANI JUVENCIO                2,284.52     38.61       .00
+ 10.-O1031    HERRERA ALEJO ESTEBAN                   1,675.53     28.32       .00
+ 11.-O1034    RIOS LEZAMA TOMAS                       1,841.43     31.12       .00
+ 12.-O1051    LOPEZ DURAND ALEJANDRO                  1,521.50     25.71       .00
+ 13.-O3502    ROSALES BENITES MARCOS                  1,760.56     29.75       .00
+ 14.-O5301    PILCO PACO CRISOLOGO RENE               1,540.35     26.03       .00
+ 15.-O5303    ZUCA HUAYANA MARCELINO                  3,041.27     51.40       .00
+ 16.-O5313    SALAS RAMOS MARIANO                     1,572.72     26.58       .00
+ 17.-O5315    CALDAS VARA ADRIAN ALEJANDRO            2,010.72     33.98       .00
+ 18.-O5318    ZAMBRANO TUCNO JULIO                    1,250.43     21.13       .00
+ 19.-O5319    VARGAS DIAZ LAZARO                        252.06      4.26       .00
+ 20.-O5320    AMAO SAYAS VALENTIN                     1,562.79     26.41       .00
+ 21.-O5322    APAZA CONDORI EUGENIO                     841.12     14.21       .00
+ 22.-O5324    SOLANO AZAÑA ESDRAS MATEO               2,605.40     44.03       .00
+ 23.-O5325    CONTRERAS ZANABRIA ABEL                 1,684.81     28.47       .00
+ 24.-O5329    JAQUE JARAMILLO PABLO MARTIN            1,725.22     29.16       .00
+ 25.-O5330    BARRIENTOS GUZMAN JULIAN                1,502.80     25.40       .00
+ 26.-O5334    VEGA MORI JULIO                         2,010.68     33.98       .00
+ 27.-O5338    SOCA JORGE FELICIANO                    1,387.96     23.46       .00
+ 28.-O5341    GONGORA VARGAS SEGUNDO ANASTACIO        1,991.71     33.66       .00
+ 29.-O5343    SAYAS AYALA FLORENCIO                   2,561.32     43.29       .00
+ 30.-O5345    AÑORGA VALVERDE LADISLAO ELIAS            506.98      8.57       .00
+ 31.-O5346    ALLCCA BARRIENTOS ANTONIO               1,399.53     23.65       .00
+ 32.-O5347    SONCCO CERVANTES JULIAN                 2,348.54     39.69       .00
+ 33.-O5349    CCORAHUA CHUQUIRAY VICENTE GAUDENC      1,910.13     32.28       .00
+ 34.-O5363    DIAZ QUISPE JULIO                       1,938.18     32.76       .00
+ 35.-O5367    MIRANDA PACHECO WILLY                   2,032.65     34.35       .00
+ 36.-O5372    SOTO CECENARIO SAMUEL BERNARDINO        2,166.21     36.61       .00
+ 37.-O5376    ALARCON SERNAQUE AGUSTIN                2,473.85     41.81       .00
+ 38.-O5380    MALLMA MIRANDA ESTEBAN                    627.60     10.61       .00
+ 39.-O5382    ALVINO CANO LELIS CLEDI                 1,388.96     23.47       .00
+ 40.-O5383    SALAZAR DAMIAN LUIS GONZALO             1,744.64     29.48       .00
+ 41.-O5384    CERDA CISNEROS DONATO                     235.90      3.99       .00
+ 42.-O5389    MAQUIN FIGUEROA GABRIEL JUAN            2,495.47     42.17       .00
+ 43.-O5393    ALVAREZ TORRES JULIO JUAN                 453.41      7.66       .00
+ 44.-O5399    ORTIZ CORONEL LUIS ALBERTO              1,524.04     25.76       .00
+ 45.-O5401    JARA RODRIGUEZ WILMER                   1,442.24     24.37       .00
+ 46.-O5404    ASTOQUILLCA OBREGON CARLOS                406.44      6.87       .00
+ 47.-O5412    BELLIDO CASABLANCA JUAN GUALBERTO       1,523.32     25.74       .00
+ 48.-O5413    CASTRO CRUZ VICTOR                      1,609.09     27.19       .00
+ 49.-O5423    REYES VALDEZ ANGEL WILMER               2,347.76     39.68       .00
+
+CIA. MINERA AGREGADOS CALCAREOS S.A.      MES DE AGOSTO DEL 2013
+TOPE :       8,168.68                                                Pag :    1
+
+CODIGO         NOMBRE                          TOT, INGRESO  S.RIESGO  S.COMPL.
+                                                              SALUD   PENSIONES
+-------------------------------------------------------------------------------
+ 50.-O5425    NAJARRO MEDINA FELIX                    1,889.30     31.93       .00
+ 51.-O5434    ESPIRITU ASENCIOS ALFONSO PEDRO         1,888.70     31.92       .00
+ 52.-O5436    CURI LUGO JUAN PABLO                    2,622.66     44.32       .00
+ 53.-O5438    QUIÑONES QUINTO MAURO EUTIMIO           1,777.40     30.04       .00
+ 54.-O5439    VARGAS LEGUIA CECILIO MAURO             1,437.72     24.30       .00
+ 55.-O5442    RAMOS CRUZ VALERIO HIGIDIO                740.78     12.52       .00
+ 56.-O5445    RAMOS MALLMA FAUSTINO                   1,568.29     26.50       .00
+ 57.-O5452    LIBERATO JULCA MANSUETO SABINO          1,228.08     20.75       .00
+ 58.-O5461    VILLADEZA RAMIREZ AMANCIO                 683.04     11.54       .00
+ 59.-O5514    SOLORZANO POMA ROSARIO                  1,680.83     28.41       .00
+ 60.-O5553    LEON ARCE ULISES GERARDO                1,367.03     23.10       .00
+ 61.-O5554    OBESO SALINAS DANIEL CHRISTIAN          1,368.72     23.13       .00
+ 62.-O5557    RAMOS CRUZ HERMENEGILDO EDUARDO         1,506.52     25.46       .00
+ 63.-O5560    VILCHEZ CERRON ROBERTO                  1,609.94     27.21       .00
+ 64.-O5562    BANCES VILLEGAS BALDEMAR                1,684.02     28.46       .00
+ 65.-O5565    YOVERA NIZAMA JOSE PORFIRIO             1,532.86     25.91       .00
+ 66.-O5572    MAS MAS GEREMIAS                        1,444.05     24.40       .00
+ 67.-O5573    MARTINEZ DURAND EDUARDO JAVIER            924.60     15.63       .00
+ 68.-O5580    BAUTISTA JARA ASUNCION                  1,536.20     25.96       .00
+ 69.-O5583    BAILON PATRICIO ROY ROGER               1,460.46     24.68       .00
+ 70.-O5584    VILCHEZ IPANAQUE ALDO                   1,098.14     18.56       .00
+ 71.-O5587    RODRIGUEZ PACHECO FREDY                 1,603.14     27.09       .00
+ 72.-O5594    YNSAPILLO CHUJANDAMA JAYRO              1,251.85     21.16       .00
+ 73.-O5607    CALLATA HUAYCHA VICTOR                  1,454.61     24.58       .00
+ 74.-O5609    NOLORBE FLORES LUIS HILARIO             1,356.34     22.92       .00
+ 75.-O5619    MORCERA CHAVEZ WILLY ANTONIO            1,534.75     25.94       .00
+ 76.-O5624    SERNAQUE GIRON SEGUNDO MANUEL           1,206.95     20.40       .00
+ 77.-O5632    ZUÑIGA ALCANTARA JUAN CARLOS            1,119.90     18.93       .00
+ 78.-O5655    MOGOLLON LAZARO GUILLERMO MARCELINO     1,423.79     24.06       .00
+ 79.-O5658    SANGAMA RUIZ CLEVER                     1,653.39     27.94       .00
+ 80.-O5659    BERRIOS RODRIGUEZ JUVER ALVIO           1,241.61     20.98       .00
+ 81.-O5660    RUIZ RODRIGUEZ JOSE LUIS                1,293.92     21.87       .00
+ 82.-O5661    VASQUEZ DEL AGUILA RUBEN RAY            1,453.44     24.56       .00
+ 83.-O5678    BULLON GOZAR RONALD ROY                 1,251.54     21.15       .00
+ 84.-O5683    SOTELO RAMIREZ LUIS                     2,886.72     48.79       .00
+ 85.-O5702    FLORES IVARRA IVAN FLORENCIO            1,447.29     24.46       .00
+ 86.-O5714    PURUGUAY MORANTE JAVIER                 1,237.84     20.92       .00
+ 87.-O5725    ROJAS ROMERO JHON CARLO                 1,300.84     21.98       .00
+ 88.-O5726    VASQUEZ DEL AGUILA DIEGO ALONSO         1,272.83     21.51       .00
+ 89.-O5727    MORENO VERAMENDI JAIME RAMIRO           1,490.03     25.18       .00
+ 90.-O5731    HURTADO TORRES CELSO                    1,241.46     20.98       .00
+ 91.-O5733    HURTADO TORRES GILBERT                  1,595.76     26.97       .00
+ 92.-O5747    RAMOS PONTE ROFINO GRIFER                 626.94     10.60       .00
+ 93.-O5754    GALARRETA HUACCHA FREDY DUVAL           1,149.05     19.42       .00
+ 94.-O5755    BERRU CRUZ PALERMO                      1,332.47     22.52       .00
+ 95.-O5766    HUASHUAYO QUISPE SANTOS                   737.50     12.46       .00
+ 96.-O5767    MOGOLLON RODRIGUEZ ISAAC                1,126.40     19.04       .00
+ 97.-O5768    BAZALAR APARICIO GIOVANNI WALTER        1,250.40     21.13       .00
+ 98.-O5781    BARTRA DEL AGUILA EDER MICK             1,408.27     23.80       .00
+
+CIA. MINERA AGREGADOS CALCAREOS S.A.      MES DE AGOSTO DEL 2013
+TOPE :       8,168.68                                                Pag :    1
+
+CODIGO         NOMBRE                          TOT, INGRESO  S.RIESGO  S.COMPL.
+                                                              SALUD   PENSIONES
+-------------------------------------------------------------------------------
+ 99.-O5788    RAMOS ANACLETO GUILLERMO FLOIRAN        1,004.20     16.97       .00
+100.-O5789    PUJAICO SHUPINGAHUA JAVIER ALLAN        1,110.06     18.76       .00
+101.-O5790    MENDOZA PACHERRE ELVER                  1,306.63     22.08       .00
+102.-O5792    MENDOZA MONTALBAN JHONY                 1,238.51     20.93       .00
+103.-O5801    SANCHEZ SANCHEZ CARLOS                  1,247.60     21.08       .00
+104.-O5803    FLORES ZEVALLOS EDSON JAIR              1,367.91     23.12       .00
+105.-O5806    GOMERO CABANILLAS FREDY EMERSON         1,079.70     18.25       .00
+106.-O5809    CHAPOÑAN LEONARDO JOSE CARLOS           1,268.82     21.44       .00
+107.-O5812    CRISANTO PACHERRES EDGARD JOEL          1,110.07     18.76       .00
+108.-O5816    CHUJANDAMA ISUIZA ELICEO                  984.70     16.64       .00
+109.-O5823    MOZOMBITE MURAYARI MARCOS               1,227.39     20.74       .00
+110.-O5828    SANCHEZ SANGAMA JUAN ANDRES             1,556.72     26.31       .00
+111.-O5830    VALLADOLID LLOCYA ARMANDO                 191.25      3.23       .00
+112.-O5835    PACHERRE PACHERREZ JORGE ARMANDO          966.00     16.33       .00
+113.-O5837    ACHULLI FERRO JOSE RAYMUNDO             1,131.15     19.12       .00
+114.-O5841    ORDIRES ARIZACA CARLOS ALFREDO          1,005.17     16.99       .00
+115.-O5846    QUINTO PASTOR ALFREDO AMADEO            1,245.31     21.05       .00
+116.-O5847    MORANTE VILLEGAS ALEXI JOEL             2,148.43     36.31       .00
+117.-O5849    GARCIA CAMPOS JOSE ENRIQUE                977.86     16.53       .00
+118.-O5850    LUICHO ESPINOZA ELISEO BENJAMIN         1,682.61     28.44       .00
+119.-O5852    SUAREZ PACHERRE JULIO CESAR             1,983.01     33.51       .00
+120.-O5856    TELLO MALLMA ANGEL                        260.25      4.40       .00
+121.-O5876    DAVILA VILCHEZ ARNULFO                  1,097.55     18.55       .00
+122.-O5881    PENAS CARUAJULCA SEGUNDO CASTULO          447.19      7.56       .00
+123.-O5883    VALDIVIA ASENCIO WILMER                   504.18      8.52       .00
+124.-O5886    VIDAURRE SANTAMARIA GLEYSER DAVID       1,262.25     21.33       .00
+125.-O5891    MENDOZA PACHERRE CARLOS YOEL              861.77     14.56       .00
+126.-O5903    DE LA CRUZ CORTEZ EDWARD                1,041.00     17.59       .00
+127.-O5907    INGA RODRIGUEZ JUAN DANIEL              1,219.42     20.61       .00
+128.-O5912    MORALES BAUTISTA CRISTHIAN OMAR         1,270.28     21.47       .00
+129.-O5925    GASTULO TICLLA FREDY                      966.00     16.33       .00
+130.-O5930    VASQUEZ FLORES NICOLAS GUILLERMO        1,170.22     19.78       .00
+131.-O5931    DEL AGUILA FLORES ROGER                 1,045.30     17.67       .00
+132.-O5935    CASTILLO GIRALDO ASENCIO FAUSTINO       1,047.95     17.71       .00
+133.-O5937    ISMINIO INSAPILLO WELINTON              1,061.40     17.94       .00
+134.-O5940    USHIÑAHUA VASQUEZ DAYRO                 1,209.53     20.44       .00
+135.-O5941    HUINCHO FLORES EMERSON                    997.74     16.86       .00
+136.-O5942    MORCERA DEL CASTILLO HEYNER HEYNER      1,218.91     20.60       .00
+137.-O5944    TUÑOQUE BANCES ALEX JAVIER              1,102.81     18.64       .00
+138.-O5945    TANANTA SABOYA MISAEL                   1,107.10     18.71       .00
+139.-O5963    VALVERDE CERNA LUIS GERARDO               804.64     13.60       .00
+140.-O5971    YOCLLA VALLADOLID WILFREDO                880.00     14.87       .00
+141.-O5973    FLORES VALDEZ DAGOBERTO                   841.09     14.21       .00
+142.-O5985    MUÑOZ ZEGARRA ARTHUR JOHN                 826.86     13.97       .00
+143.-O5986    MORANTE VILLEGAS JIMY YOAN                832.84     14.07       .00
+144.-O5987    SANDOVAL PORTOCARRERO HAROL HUMBERTO       683.87     11.56       .00
+145.-O5988    FLORES CAPILLO WILLY VAYER                796.90     13.47       .00
+146.-O5993    LAZARO ARQUINIGO TEOBALDO MAXIMO          193.75      3.27       .00
+147.-O5994    SALAS ROSAS JUAN MANUEL                   175.00      2.96       .00
+
+CIA. MINERA AGREGADOS CALCAREOS S.A.      MES DE AGOSTO DEL 2013
+TOPE :       8,168.68                                                Pag :    1
+
+CODIGO         NOMBRE                          TOT, INGRESO  S.RIESGO  S.COMPL.
+                                                              SALUD   PENSIONES
+-------------------------------------------------------------------------------
+148.-O6344    HUAMAN TANANTA MANUEL                     728.45     12.31       .00
+149.-O6348    LAUPA CCACCYA LUIS                      1,661.21     28.07       .00
+150.-O6351    JARAMILLO PRINCIPE DOMINGO FREDY        1,371.18     23.17       .00
+151.-O6354    MEJIA MALLQUI MARCO ANIBAL              1,668.72     28.20       .00
+152.-O6358    CAMPOMANES MORENO WILFREDO MANUEL       1,611.12     27.23       .00
+153.-O6359    ASENCIO LOPEZ ANGEL NICODEMO              772.60     13.06       .00
+154.-O6364    PACHECO PEÑA ANGEL OBER                 1,683.06     28.44       .00
+155.-O6385    TANANTA MORI JAMES                      1,944.15     32.86       .00
+156.-O6390    VILCA GARCIA JULIO FELIX                1,202.43     20.32       .00
+157.-O6391    VILCHEZ MONTENEGRO JOSE ELADIO          1,715.88     29.00       .00
+158.-O6431    CHECMAPOCCO QUISPE SAMUEL ANGEL         1,794.56     30.33       .00
+159.-O6455    PIMENTEL BENITES HUGO ROGER             1,602.31     27.08       .00
+160.-O6508    GONZALES PUERTAS GEINER JAVIER            937.09     15.84       .00
+161.-O7435    ROMERO ROMERO GUZMAN                    1,281.84     21.66       .00
+162.-O7448    SOLIS JAQUE ALFONSO FORTUNA             2,087.96     35.29       .00
+163.-O7482    LOZANO SEGURA EDUARDO ENRIQUE           1,459.46     24.66       .00
+164.-O7483    TOLENTINO HIZO ANIBAL ARMANDO           1,328.04     22.44       .00
+165.-O7543    ALLCCAHUAMAN GASPAR HECTOR              1,476.65     24.96       .00
+166.-O8450    OCMIN GONZALES MIGUEL ANGEL             1,465.78     24.77       .00
+167.-O8479    CHIRINOS MAYHUIRE FIDEL                   359.35      6.07       .00
+                                               ------------ --------- ---------
+                                                 239,292.35  4,044.04       .00
+01
+
+C A L I M A
+
+  1.-E0051    SONO ZURITA TOMAS ANTONIO               3,600.00     60.84       .00
+  2.-O1013    ROSAS MANRIQUE SANTOS RUBEN             2,052.80     34.69       .00
+  3.-O3149    GUTIERREZ COTAQUISPE EMILIO             1,780.83     30.10       .00
+  4.-O3152    OSORIO MENDOZA EUFRACIO                 2,535.06     42.84       .00
+  5.-O5523    GASTULO MIO MIGUEL ANGEL                1,456.35     24.61       .00
+  6.-O5530    VALLADOLID LLOCYA IGNACIO               1,564.77     26.44       .00
+  7.-O5532    MARTINEZ DURAN EVER EDWIN               1,613.67     27.27       .00
+  8.-O5615    VARA CRUZ JUAN CARLOS                   1,122.66     18.97       .00
+  9.-O5694    MAYANGA FERNANDEZ CESAR AUGUSTO         1,098.75     18.57       .00
+ 10.-O5890    ARANGO GOMEZ JHON JHONNY                1,102.69     18.64       .00
+ 11.-O5908    MOZOMBITE MURAYARI WAGNER               1,175.27     19.86       .00
+ 12.-O5916    CASTRO GUTIERREZ JUAN                   1,217.14     20.57       .00
+ 13.-O5932    TUÑOQUE BANCES LUIS ALBERTO               999.87     16.90       .00
+ 14.-O5970    CESPEDES CAMPOS TIMOTEO                   971.01     16.41       .00
+                                               ------------ --------- ---------
+                                                  22,290.87    376.71       .00
+01
+
+CEMENTO BLANCO INFANTAS
+
+  1.-O5415    INOÑAN SANCHEZ ELMER                    2,172.88     36.72       .00
+  2.-O5419    FLORES PARDO JUSTO                      1,403.43     23.72       .00
+  3.-O5437    FLORES ENRIQUEZ JUAN BAUTISTA           1,775.86     30.01       .00
+  4.-O5441    VARA HILARIO ANTIOGENES                 2,693.74     45.52       .00
+  5.-O5449    FERNANDEZ DIAZ ROGELIO                  3,140.64     53.08       .00
+
+CIA. MINERA AGREGADOS CALCAREOS S.A.      MES DE AGOSTO DEL 2013
+TOPE :       8,168.68                                                Pag :    1
+
+CODIGO         NOMBRE                          TOT, INGRESO  S.RIESGO  S.COMPL.
+                                                              SALUD   PENSIONES
+-------------------------------------------------------------------------------
+  6.-O5454    CASTILLO TORRES MOISES SALOMON          1,574.46     26.61       .00
+  7.-O5500    APAZA JARA RODOLFO ROBERTO              1,167.71     19.73       .00
+  8.-O5503    LANCI YUMBATO HUMBERTO                  1,510.23     25.52       .00
+  9.-O5509    CASTILLO PINEDO JORGE MIGUEL            3,220.30     54.42       .00
+ 10.-O5511    MARQUEZ RUMI LILES CLIDIOS              1,486.68     25.12       .00
+ 11.-O5516    CASTILLO VILLANUEVA FAUSTINO            2,104.04     35.56       .00
+ 12.-O5520    BENITES TARAZONA DEIVIN KLEN            1,508.93     25.50       .00
+ 13.-O5538    SANGAMA PINEDO MAURO                    1,685.96     28.49       .00
+ 14.-O5648    SOBRADO ACOSTA MIGUEL                   1,291.61     21.83       .00
+ 15.-O5652    CHISTAMA MOZOMBITE JAIMITO              1,253.61     21.19       .00
+ 16.-O5761    SHUÑA SINTI FAVIO                       1,211.00     20.47       .00
+ 17.-O5765    EGOAVIL ROJAS ALEJANDRO                 2,609.74     44.10       .00
+ 18.-O5808    USHIÑAHUA REYNA DARWIN                  1,299.56     21.96       .00
+ 19.-O5817    CUNIAS RAMOS REYNERIO                   1,173.01     19.82       .00
+ 20.-O5818    GASTULO MIO ANDY LUIS                   1,157.88     19.57       .00
+ 21.-O5853    TINEO LALANGUI WUDIAR                   1,078.33     18.22       .00
+ 22.-O5870    ESPINOZA BUSTAMANTE FREDY               1,277.88     21.60       .00
+ 23.-O5877    MARTINEZ PAREDES TONNY RICHARD          1,232.60     20.83       .00
+ 24.-O5902    VILLALOBOS TAPIA JOSE DAVID             1,199.60     20.27       .00
+ 25.-O5928    RAMIREZ SEGOVIA FRANKLIN                1,082.19     18.29       .00
+ 26.-O5954    SOLIS GOÑE FRANCISCO YHONY              1,064.31     17.99       .00
+ 27.-O5980    SHU¥A REYNA ALEXIS JUNIOR                 875.75     14.80       .00
+ 28.-O5989    QUISPE VASQUEZ RUDY ALEXANDER             993.81     16.80       .00
+ 29.-O5990    LAGUA CAPRA JUAN GERONIMO                 998.42     16.87       .00
+ 30.-O6521    FLORES ZEVALLOS JHON MARLON             1,462.89     24.72       .00
+ 31.-O8229    CASTRO GUILLEN PABLO                    2,070.81     35.00       .00
+ 32.-O8241    PARIONA AMES PEDRO                      2,348.00     39.68       .00
+ 33.-O8251    SOLORZANO GONZALES JUAN MARCOS            370.23      6.26       .00
+                                               ------------ --------- ---------
+                                                  51,496.09    870.27       .00
+01
+
+DESARROLLO DE PROYECTO
+
+  1.-O5492    TAFUR RAMOS VALENTIN ZENON              1,513.12     25.57       .00
+  2.-O5544    CUADRADO MAÑUECO ROMULO                 1,458.57     24.65       .00
+  3.-O5548    AMBROCIO DIAZ MARCELINO NEOFITO         1,588.52     26.85       .00
+  4.-O5782    VILLADEZA BRAVO DEIVES GUDMER           1,468.05     24.81       .00
+  5.-O5784    FLORES OLIMARES MARCO ANTONIO           1,122.00     18.96       .00
+  6.-O5844    PICHARDO LAZARO GUILLERMO               1,069.00     18.07       .00
+  7.-O5851    MAMANI MUÑOZ ROBERTO                      999.60     16.89       .00
+  8.-O5873    RIVERA CEPEDA MIGUEL ANGEL              1,030.25     17.41       .00
+  9.-O5878    UGARTE SANTIAGO ALEX EDGAR              1,076.23     18.19       .00
+ 10.-O5895    PACHERRE PACHERREZ YANMANY              1,115.60     18.85       .00
+                                               ------------ --------- ---------
+                                                  12,440.94    210.25       .00
+01
+
+DESPACHO DE PRODUCTOS INDUSTRIALES
+
+  1.-O1018    HUAMANI PEÑA FAUSTINO CRISTOBAL         1,394.29     23.56       .00
+
+CIA. MINERA AGREGADOS CALCAREOS S.A.      MES DE AGOSTO DEL 2013
+TOPE :       8,168.68                                                Pag :    1
+
+CODIGO         NOMBRE                          TOT, INGRESO  S.RIESGO  S.COMPL.
+                                                              SALUD   PENSIONES
+-------------------------------------------------------------------------------
+  2.-O5351    AÑORGA ESTRADA FELIX CATALINO           2,780.82     47.00       .00
+  3.-O5395    MENDOZA TAVARA EDILBERTO                1,331.24     22.50       .00
+  4.-O5518    BERMUDEZ GIRALDO FAUSTINO MARTIN        1,783.89     30.15       .00
+  5.-O5653    SALCEDO PACHECO EZEQUIEL CARLOS         1,240.87     20.97       .00
+  6.-O5831    RIVAS RIVAS OSCAR LEONEL                2,431.44     41.09       .00
+                                               ------------ --------- ---------
+                                                  10,962.55    185.27       .00
+01
+
+DESPACHO DE PRODUCTOS MINEROS
+
+  1.-O5342    PRIETO TAVARA GUILLERMO DUQUE           1,860.01     31.43       .00
+  2.-O5392    PUSSE TERRONES SEGUNDO ALEXANDER        1,927.53     32.58       .00
+  3.-O5555    PORTOCARRERO MENDOZA GABRIEL MARTIN     1,726.34     29.18       .00
+  4.-O5712    ALAMO VILLEGAS PEDRO ALEJANDRO          1,598.05     27.01       .00
+  5.-O5887    ECHEVARRIA TABOADA LEONARDO BENJAMIN       969.65     16.39       .00
+  6.-O5933    VIDAL CHAVEZ MICHAEL HEBERT               992.83     16.78       .00
+  7.-O5957    MORCERA DEL CASTILLO GONZALO            1,009.39     17.06       .00
+  8.-O6209    LUNA SALINAS JOSE ALBERTO               1,830.66     30.94       .00
+  9.-O6210    PAULINO PUJAY ABNEGO HILARIO            2,565.69     43.36       .00
+ 10.-O6331    RIVERA CHUJUTALLI ROYER                 2,152.84     36.38       .00
+                                               ------------ --------- ---------
+                                                  16,632.99    281.11       .00
+01
+
+INSTALACIONES
+
+  1.-O5165    CAYAMPI VALDEZ ANGELINO                 1,756.52     29.69       .00
+  2.-O5350    CHIPANA ORTIZ CIRO                        800.70     13.53       .00
+  3.-O5352    ESPINOZA CABELLO ANDRES FELIX           1,608.00     27.18       .00
+  4.-O5411    RAMON TORRES MILLER                     1,778.52     30.06       .00
+  5.-O5440    CONDOR QUISPE HUBER PAUL                1,162.95     19.65       .00
+  6.-O5457    NINAQUISPE PAREDES FELIX                2,045.34     34.57       .00
+  7.-O5460    ARAUJO BLAS JOSE SANTOS                 1,470.55     24.85       .00
+  8.-O5483    URBANO CRUZ VALENTIN NEMESIO            1,666.00     28.16       .00
+  9.-O5487    ZAMORA LOPEZ HAYA JULIO HUMBERTO        1,721.09     29.09       .00
+ 10.-O5612    RAMOS ASENCIO JUAN CARLOS VICENTE       1,422.66     24.04       .00
+ 11.-O5628    RODRIGUEZ DIAZ JULIAN                   1,362.75     23.03       .00
+ 12.-O5637    AGURTO CHAVEZ PEDRO ROBERTO             1,336.52     22.59       .00
+ 13.-O5665    CHAVEZ ZAMORA LLESY                     1,349.00     22.80       .00
+ 14.-O5677    JUAREZ LLERENA GUILBE GREGORIO          1,388.68     23.47       .00
+ 15.-O5692    JARAMILLO MORI MARTIN VALENTIN          1,361.59     23.01       .00
+ 16.-O5742    ZEVALLOS SOSA NEYSER                    2,002.40     33.84       .00
+ 17.-O5743    CONQUE TOLENTINO EUSEBIO TEOFILO        1,363.40     23.04       .00
+ 18.-O5744    VEGA ARECHE MIGUEL ANTONIO              1,321.00     22.32       .00
+ 19.-O5759    CHURA MAMANI HECTOR                     1,125.02     19.01       .00
+ 20.-O5770    VIDEIRA MOZOMBITE JOSE GUIMAS           1,195.00     20.20       .00
+ 21.-O5807    BERRU CRUZ ESGARDO                      1,133.00     19.15       .00
+ 22.-O5814    PEREZ MOZOMBITE LUIGI PIERO             1,189.37     20.10       .00
+ 23.-O5858    AGUILAR DOLORES ROMEL ROMEO             1,069.00     18.07       .00
+ 24.-O5920    AGUILAR DOLORES JAMIT ALEX                966.00     16.33       .00
+
+CIA. MINERA AGREGADOS CALCAREOS S.A.      MES DE AGOSTO DEL 2013
+TOPE :       8,168.68                                                Pag :    1
+
+CODIGO         NOMBRE                          TOT, INGRESO  S.RIESGO  S.COMPL.
+                                                              SALUD   PENSIONES
+-------------------------------------------------------------------------------
+ 25.-O5924    MENDEZ LEON MARIANO FLORENCIO           1,069.00     18.07       .00
+ 26.-O5936    ACEVEDO GUZMAN ORLANDO JANNCARLO          929.74     15.71       .00
+ 27.-O5939    RAMOS JACINTO DELFIN DANIEL             1,041.00     17.59       .00
+ 28.-O5948    GUZMAN ALLCCAHUAMAN HODILON               915.00     15.46       .00
+ 29.-O5953    LOBATON VERA CHRISTIAN SAMUE              896.25     15.15       .00
+ 30.-O5955    CIPRIANO VILLAJUAN CLEVER HIDELVER        901.79     15.24       .00
+ 31.-O5961    SAENZ VALVERDE GERSON ALEMAO              915.70     15.48       .00
+ 32.-O5969    PEREZ MOZOMBITE ALVARITO RAFAEL           754.00     12.74       .00
+ 33.-O5974    LOAYZA BLAS EDGAR LUIS                    873.00     14.75       .00
+ 34.-O5977    CARRILLO CARRASCO MIGUEL ANGEL            727.30     12.29       .00
+ 35.-O5979    RENGIFO MOZOMBITE JARVIS WILDER           873.00     14.75       .00
+ 36.-O5981    RUBIO PASHANASI ROBERT MARTIN             862.93     14.58       .00
+ 37.-O5992    COCHACHIN MEDINA HIPOLITO JUAN            373.50      6.31       .00
+ 38.-O6475    DELGADO ODAR CARLOS ALBERTO             1,423.10     24.05       .00
+ 39.-O6494    VILLEGAS PACHERRES JOHNNY ALBERTO       2,071.84     35.01       .00
+ 40.-O7499    AGUILAR CALLE NILSON                    1,157.52     19.56       .00
+                                               ------------ --------- ---------
+                                                  49,379.73    834.52       .00
+01
+
+LABORATORIO DE PRODUCTOS INDUSTRIALES
+
+  1.-O1025    ROSALES CCASANI JUAN                    1,592.58     26.91       .00
+  2.-O5369    PARRA ALVARADO GUIDO EDGARDO            1,460.96     24.69       .00
+  3.-O5764    TELLO SANTOS ERSEYES CARLOS             1,220.48     20.63       .00
+  4.-O6463    SANCHEZ SAENZ ELI ABNER                 2,659.92     44.95       .00
+                                               ------------ --------- ---------
+                                                   6,933.94    117.18       .00
+01
+
+LABORATORIO MINERO
+
+  1.-O1036    RIVERA MOLINA JORGE WILFREDO            1,579.48     26.69       .00
+  2.-O5394    CIEZA VEGA JUAN ESPERANZA               1,692.47     28.60       .00
+  3.-O6310    FLORES CHAVARRIA FRANCISCO CARRA        1,879.93     31.77       .00
+  4.-O6396    OSORIO VASQUEZ GILBERTO                 1,291.61     21.83       .00
+                                               ------------ --------- ---------
+                                                   6,443.49    108.89       .00
+01
+
+M A E S T R A N Z A
+
+  1.-E0234    SAUCEDO GARRIDO GREGORIO                4,700.00     79.43       .00
+  2.-O5162    FERNANDEZ VIDARTE ENRIQUE               3,841.44     64.92       .00
+  3.-O5163    CLAROS ARGUELLO CARLOS ALBERTO            414.26      7.00       .00
+  4.-O5164    OYARCE MORI JOSE NOLASCO                1,815.96     30.69       .00
+  5.-O5168    PASACHE YMAN MANUEL ASUNCION            2,606.73     44.05       .00
+  6.-O5172    SANDOVAL TORRES LUIS ENRIQUE            1,827.63     30.89       .00
+  7.-O5180    ARGUEDAS APAZA JUAN PASTOR              1,767.95     29.88       .00
+  8.-O5188    PALACIOS ESPINOZA VICTOR ROEL           1,750.86     29.59       .00
+  9.-O5378    SUAREZ ZARATE CESAR EMILIO              1,654.14     27.95       .00
+ 10.-O5623    CAPRISTAN AGUILAR EVER PERCY            1,432.52     24.21       .00
+
+CIA. MINERA AGREGADOS CALCAREOS S.A.      MES DE AGOSTO DEL 2013
+TOPE :       8,168.68                                                Pag :    1
+
+CODIGO         NOMBRE                          TOT, INGRESO  S.RIESGO  S.COMPL.
+                                                              SALUD   PENSIONES
+-------------------------------------------------------------------------------
+ 11.-O5703    CHAVEZ VERGARAY MIGUEL ANGEL            1,107.00     18.71       .00
+                                               ------------ --------- ---------
+                                                  22,918.49    387.32       .00
+01
+
+M I N E R A L E S
+
+  1.-E0390    GUZMAN AURORA VICTOR JHONNY             4,400.00     74.36       .00
+                                               ------------ --------- ---------
+                                                   4,400.00     74.36       .00
+01
+
+MANTENIMIENTO DE PLANTA
+
+  1.-O5182    PIÑAS SANABRIA CELSO VICTOR             1,625.04     27.46       .00
+  2.-O5184    MENDOZA CADILLO HERMINIO TEOFILO        1,974.00     33.36       .00
+  3.-O5305    SAMANIEGO GALLO RIGOBERTO               1,823.62     30.82       .00
+  4.-O5307    ATAO MORALES JULIO                      2,686.31     45.40       .00
+  5.-O5309    ROMAN CHOCCARE PAULINO                  1,811.82     30.62       .00
+  6.-O5414    MENDOZA CORNEJO SERAPIO                 1,476.52     24.95       .00
+  7.-O5426    TORRES YAURI WALDO LUIS                 1,725.86     29.17       .00
+  8.-O5488    SANCHEZ SALVATIERRA ZENON ISMAEL        1,732.11     29.27       .00
+  9.-O5534    DE LA CRUZ FLORES CRISTOPLER CHARLIC       265.70      4.49       .00
+ 10.-O5640    MIRANDA ESTRADA RONALD CARLOS           1,397.85     23.62       .00
+ 11.-O5672    ARIAS SALCE RENZO DAVID                 1,277.55     21.59       .00
+ 12.-O5685    RUBIO ALLASI HUGO ALEXANDER               898.24     15.18       .00
+ 13.-O5705    VIERA GUZMAN TOMAS GUSTAVO              1,160.21     19.61       .00
+ 14.-O5751    GUTARRA DIAZ WILLIAN RICHARD            1,377.20     23.27       .00
+ 15.-O5760    MORALES VEGA DAVID                      1,483.45     25.07       .00
+ 16.-O5862    MOGOLLON CARDOZA CARLOS ALEXANDER       1,198.88     20.26       .00
+ 17.-O5926    AGUILAR GALLARDO EDILBRANDO             1,088.96     18.40       .00
+ 18.-O5964    CHAGRAY BUSTAMANTE ALI GASPAR           1,330.01     22.48       .00
+ 19.-O5965    ESPANTOSO QUISPE CARLOS ALBERTO         1,165.11     19.69       .00
+ 20.-O5978    HIPOLO AQUINO WILLIANS HILARIO          1,240.26     20.96       .00
+ 21.-O5982    ARAUJO CACERES JIMMY SANTOS               904.49     15.29       .00
+                                               ------------ --------- ---------
+                                                  29,643.19    500.96       .00
+01
+
+MANTENIMIENTO ELECTRICO
+
+  1.-O5370    CACERES QUISPE HIPOLITO                 2,975.29     50.28       .00
+  2.-O5400    MORI LOPEZ JULIAN                         346.66      5.86       .00
+  3.-O5421    VILLAR BORJAS CESAR HUMBERTO            3,100.24     52.39       .00
+  4.-O5512    MENDOZA MIRANDA GENARO RICARDO          2,156.20     36.44       .00
+  5.-O5673    CHAMOCHUMBI ALTAMIRANO VICTOR ARMANDO     2,205.68     37.28       .00
+  6.-O6409    RODRIGUEZ CERNA FERNANDO ALEXAN         1,830.47     30.93       .00
+  7.-O7402    BACA PALADINES CESAR                    1,640.65     27.73       .00
+                                               ------------ --------- ---------
+                                                  14,255.19    240.91       .00
+
+CIA. MINERA AGREGADOS CALCAREOS S.A.      MES DE AGOSTO DEL 2013
+TOPE :       8,168.68                                                Pag :    1
+
+CODIGO         NOMBRE                          TOT, INGRESO  S.RIESGO  S.COMPL.
+                                                              SALUD   PENSIONES
+-------------------------------------------------------------------------------
+01
+
+MATERIALES DE CONSTRUCCION
+
+  1.-O1081    CHAUCA ISIDRO JUAN PAULINO              1,693.08     28.61       .00
+  2.-O5332    RODRIGUEZ ENCISO ANGEL RAFAEL           1,806.52     30.53       .00
+  3.-O5799    AGUILAR VARGAS JUAN SAMUEL                917.70     15.51       .00
+  4.-O5968    CASTRO MILLAN DEUMERES                    840.00     14.20       .00
+                                               ------------ --------- ---------
+                                                   5,257.30     88.85       .00
+01
+
+MINAS
+
+  1.-O1026    ALCANTARA ESTRADA EDGAR                 1,769.00     29.90       .00
+  2.-O1027    MUÑOZ ESPINOZA TEOFINES AURELIO         1,706.52     28.84       .00
+  3.-O1043    TORRES IMAN PABLO                         892.26     15.08       .00
+  4.-O1048    ESTRADA COTERA FELIX ANTONIO            1,784.52     30.16       .00
+  5.-O5696    IBARRA DE LA CRUZ JHON HARGENIS         1,489.00     25.16       .00
+  6.-O5738    HERRERA HUARCAYA PABLO EPIFANIO         1,489.00     25.16       .00
+  7.-O5749    ESTRADA CANTORIN CRISPEN                3,045.00     51.46       .00
+  8.-O5771    MANANI CARHUAMANTA JOSE MAXIMO          1,924.52     32.52       .00
+  9.-O5772    ROSALES FLORES MANUEL ANTONIO           3,751.91     63.41       .00
+ 10.-O5773    HUAMAN ZAMBRANO ANTONY ANDY             1,358.00     22.95       .00
+ 11.-O5778    ALCANTARA ESTRADA JOSUE                 1,694.00     28.63       .00
+ 12.-O5787    RIVERA MARCOS JONNY GERCY               1,489.00     25.16       .00
+ 13.-O5810    CCANRE PERALTA LUIS ALBERTO             1,489.00     25.16       .00
+ 14.-O5811    CURILLA RIVERA PEDRO CESAR              1,923.97     32.52       .00
+ 15.-O5845    HUAMAN CURILLA JOSE LUIS                1,517.00     25.64       .00
+ 16.-O5868    ESPINOZA MOLINA MELVIN HOVER            1,386.00     23.42       .00
+ 17.-O5956    SALCEDO CASACHAGUA PERCY EMERSON        1,475.00     24.93       .00
+                                               ------------ --------- ---------
+                                                  30,183.70    510.10       .00
+01
+
+PLANTA PASTA
+
+  1.-O1006    GOMERO CABANILLAS CRISTIAN MILNER         870.73     14.72       .00
+  2.-O1084    NEYRA CORONADO RENE ELISEO              2,302.35     38.91       .00
+  3.-O5424    SOLGORRE ARCOS VICTOR ALEJANDRO         1,835.14     31.01       .00
+  4.-O5466    CCOICCA ARBIETO DONATO RAMON            1,795.15     30.34       .00
+  5.-O5595    CRISPIN OLIVO CARLOS VIRGILIO           1,270.73     21.48       .00
+                                               ------------ --------- ---------
+                                                   8,074.10    136.46       .00
+01
+
+SERVICIOS GENERALES
+
+  1.-O1129    ARENAS CAUTI CLAUDIO CIRILO             1,433.88     24.23       .00
+  2.-O5335    PANTA MONDRAGON ALEX RUBEN              1,819.31     30.75       .00
+  3.-O5428    GAMBOA MEDINA VICTOR                    1,518.90     25.67       .00
+  4.-O5575    DURAN CORONEL EMILERIO FELIX            1,559.02     26.35       .00
+  5.-O5707    GUZMAN RODRIGUEZ HERNAN                 1,568.55     26.51       .00
+  6.-O5976    SANCHEZ CULQUICONDOR ALBERTO              824.89     13.94       .00
+  7.-O6406    CUSTODIO CAVELLO JULIO SABINO           1,299.46     21.96       .00
+  8.-O6539    ROMERO CARDENAS ALBERTO                 2,232.41     37.73       .00
+
+CIA. MINERA AGREGADOS CALCAREOS S.A.      MES DE AGOSTO DEL 2013
+TOPE :       8,168.68                                                Pag :    1
+
+CODIGO         NOMBRE                          TOT, INGRESO  S.RIESGO  S.COMPL.
+                                                              SALUD   PENSIONES
+-------------------------------------------------------------------------------
+  9.-O6604    SOTO CABELLO ROSARIO                    1,432.08     24.20       .00
+                                               ------------ --------- ---------
+                                                  13,688.50    231.34       .00
+01
+
+TALLER AUTOMOTRIZ
+
+  1.-O5366    VASQUEZ SAYAS OSCAR LORENZO             1,482.85     25.06       .00
+                                               ------------ --------- ---------
+                                                   1,482.85     25.06       .00
+01
+
+TALLER ELECTRICO
+
+  1.-E0061    MONTES PORTALES ALBERTO ANICETO         4,673.32     78.98       .00
+                                               ------------ --------- ---------
+                                                   4,673.32     78.98       .00
+                                               ------------ --------- ---------
+                                                 550,449.59  9,302.58       .00
+                                               ------------ --------- ---------
+02
+
+ADMINISTRACION PLANTA INDUSTRIAL
+
+  1.-E0258    LIZANO CUBA HENRY                       3,700.00     62.53       .00
+  2.-E0262    ROJAS RAMOS MAGALY MISELY              11,000.00    185.90     81.69
+                                               ------------ --------- ---------
+                                                  14,700.00    248.43     81.69
+02
+
+ADMINISTRACION PLANTA MINERAlES
+
+  1.-E0035    PANDO SAMANIEGO JOSE ABELARDO          13,200.00    223.08     81.69
+  2.-E0303    CARLIN VILLARREAL VICTOR MARTIN        12,020.00    203.14     81.69
+  3.-E0370    DIAZ ARROYO VICTOR GREGORIO             2,200.00     37.18       .00
+                                               ------------ --------- ---------
+                                                  27,420.00    463.40    163.38
+02
+
+CEMENTO BLANCO INFANTAS
+
+  1.-E0253    ARCE MIO EVERALDO                       4,659.77     78.75       .00
+  2.-E0255    VALDERA CAJUSOL LUIS OMAR              12,000.00    202.80     81.69
+  3.-E0332    GUZMAN VARELA JESUS GERARDO             3,733.01     63.09       .00
+                                               ------------ --------- ---------
+                                                  20,392.78    344.64     81.69
+02
+
+DESARROLLO DE PROYECTO
+
+  1.-E0071    MORENO CHAVEZ ZENOBIO DENNER           17,700.00    299.13     81.69
+  2.-E0338    BARRIENTOS REYES MARCOS CESAR           2,500.00     42.25       .00
+  3.-E0359    VALDEZ VEGA ROBINSON JOE                4,000.00     67.60       .00
+  4.-E0368    NAVARRO SEGUNDO LUIS                    2,053.33     34.70       .00
+  5.-E0380    MONTOYA DIAZ EDUARDO REYNALD            1,500.00     25.35       .00
+  6.-E0385    ROBLES VEGA OSCAR MARTIN                2,800.00     47.32       .00
+  7.-E0387    CARDENAS CABALLERO JORGE                2,900.00     49.01       .00
+  8.-E0389    MORENO QUISPE FERDENAN MARVIN           1,500.00     25.35       .00
+
+CIA. MINERA AGREGADOS CALCAREOS S.A.      MES DE AGOSTO DEL 2013
+TOPE :       8,168.68                                                Pag :    1
+
+CODIGO         NOMBRE                          TOT, INGRESO  S.RIESGO  S.COMPL.
+                                                              SALUD   PENSIONES
+-------------------------------------------------------------------------------
+                                               ------------ --------- ---------
+                                                  34,953.33    590.71     81.69
+02
+
+LABORATORIO
+
+  1.-E0285    PALOMINO BONELLI GLADYS MIRTHA          8,520.00    143.99     81.69
+  2.-E0289    COLLANQUE HUANCA ANA CECILIA            3,800.00     64.22       .00
+                                               ------------ --------- ---------
+                                                  12,320.00    208.21     81.69
+02
+
+LABORATORIO DE PRODUCTOS INDUSTRIALES
+
+  1.-E0023    LIZARRAGA SEGURA WALTER EZEQUIEL        6,110.00    103.26       .00
+                                               ------------ --------- ---------
+                                                   6,110.00    103.26       .00
+02
+
+LABORATORIO MINERO
+
+  1.-E0025    DAMIAN ROJAS DE ROSALE TERESA VILMA     3,810.00     64.39       .00
+  2.-E0221    MARTINEZ RAMOS NINA EDITH               3,330.00     56.28       .00
+  3.-E0315    VENTURA HAYTA JOHANA KAREN              1,900.00     32.11       .00
+  4.-E0352    SANTA CRUZ SANCHEZ JESUS FILEMON        2,520.00     42.59       .00
+                                               ------------ --------- ---------
+                                                  11,560.00    195.37       .00
+02
+
+M I N E R A L E S
+
+  1.-E0003    ARACA CARITA URIEL EDMUNDO             12,860.00    217.33     81.69
+  2.-E0004    GUERRA GUTIERREZ PEDRO ROBERTO         15,570.00    263.13     81.69
+  3.-E0005    SUAREZ MUCHA TEOBALDO ALGEMI            7,210.00    121.85       .00
+  4.-E0007    HUAYTA SARMIENTO DENNIS MILTON          6,508.00    109.99       .00
+  5.-E0013    ROQUE DE LA CRUZ MANUEL JOSE           10,535.00    178.04     81.69
+  6.-E0243    LOPEZ CARDENAS JUAN ANTONIO            11,240.00    189.96     81.69
+  7.-E0291    ZEVALLOS MERMA VICTOR ANTONIO           5,375.00     90.84       .00
+  8.-E0312    ROMERO PACHECO MARCO ANTONIO            4,957.50     83.78       .00
+  9.-E0326    CACERES ARIZA CARLOS AUGUSTO            3,010.00     50.87       .00
+ 10.-E0342    SANDOVAL ALOR FREDDY RODY               3,605.00     60.92       .00
+ 11.-E0346    PEÑALOZA CALLUPE LUIS ENRIQUE           3,580.00     60.50       .00
+ 12.-E0350    ALARCON SANCHEZ MARCO ANTONIO          16,600.00    280.54     81.69
+ 13.-E0364    QUISPE RIOS FRANCKLIN MANUE             3,000.00     50.70       .00
+ 14.-E0383    ARAOZ TARCO RODMAN                      3,000.00     50.70       .00
+                                               ------------ --------- ---------
+                                                 107,050.50  1,809.15    408.45
+02
+
+MANTENIMIENTO DE PLANTA
+
+  1.-E0077    AGAMA MORENO JAVIER JORGE              12,940.00    218.69     81.69
+  2.-E0358    CORAHUA BARRIENTOS CHRISTIAN            3,330.00     56.28       .00
+                                               ------------ --------- ---------
+                                                  16,270.00    274.97     81.69
+
+CIA. MINERA AGREGADOS CALCAREOS S.A.      MES DE AGOSTO DEL 2013
+TOPE :       8,168.68                                                Pag :    1
+
+CODIGO         NOMBRE                          TOT, INGRESO  S.RIESGO  S.COMPL.
+                                                              SALUD   PENSIONES
+-------------------------------------------------------------------------------
+02
+
+PLANTA DE PASTAS CERAMICA
+
+  1.-E0021    VERGARA ORMEÑO CESAR AUGUSTO            4,144.00     70.03       .00
+                                               ------------ --------- ---------
+                                                   4,144.00     70.03       .00
+02
+
+TALLER AUTOMOTRIZ
+
+  1.-E0328    ELESCANO SAENZ ALBERTO CARLOS           2,771.00     46.83       .00
+                                               ------------ --------- ---------
+                                                   2,771.00     46.83       .00
+02
+
+TALLER ELECTRICO
+
+  1.-E0062    GUZMAN GONZALES EDUARDO MARTIN          7,139.16    120.65       .00
+  2.-E0063    GONZALES VEGA CESAR ORLANDO            14,370.00    242.85     81.69
+  3.-E0096    PALACIOS CARO LUIS MANUEL               4,461.58     75.40       .00
+  4.-E0356    ROSALES FLORES GINO SAUL                3,456.80     58.42       .00
+                                               ------------ --------- ---------
+                                                  29,427.54    497.32     81.69
+02
+
+VENTAS DE PRODUCTOS  INDUSTRIALES
+
+  1.-E0203    MENDOZA SILVA JOAQUIN ENRIQUE           3,691.83     62.39       .00
+                                               ------------ --------- ---------
+                                                   3,691.83     62.39       .00
+                                               ------------ --------- ---------
+                                                 290,810.98  4,914.71  1,061.97
+                                               ------------ --------- ---------
+03
+
+ADMINISTRACION OFICINAS DE PRODUCTO MINEROS
+
+  1.-E0103    CAZORLA FRANCO ELBA                     3,360.00     56.78       .00
+  2.-E0109    MENDEZ VASQUEZ DORIS HERMELIND          3,120.00     52.73       .00
+  3.-E0112    ROMERO DIAZ LILIANA                     3,950.00     66.76       .00
+  4.-E0117    RUIZ GUILLEN HIPOLITO                   2,410.00     40.73       .00
+  5.-E0118    MONTORO ARRIOLA MIGUEL OMAR             7,200.00    121.68       .00
+  6.-E0121    ESPINOSA CANCHARI VICTOR RAUL           4,350.00     73.52       .00
+  7.-E0123    QUEIJA ESTEVES LUIS ALEJANDRO          27,800.00    469.82     81.69
+  8.-E0126    ECOS VASQUEZ YRIS TERESA                3,530.00     59.66       .00
+  9.-E0219    SANDOVAL SORIA MARTHA YOLANDA           2,581.00     43.62       .00
+ 10.-E0224    MUÑOZ OLORTEGUI CARLOS ANTONIO          2,458.00     41.54       .00
+ 11.-E0229    DIAZ RAMOS CLAUDIA ISABEL               2,826.75     47.77       .00
+ 12.-E0231    PIMENTEL ATOCHE MARIA ELENA             3,990.00     67.43       .00
+ 13.-E0319    CASAS RODRIGUEZ BENJAMIN HEBERT         2,712.81     45.85       .00
+ 14.-E0348    FRITSCHI ESCOBAR JORGE LUIS            24,000.00    405.60     81.69
+ 15.-E0388    BALLEN ROSSELLO JUAN JOSE              25,500.00    430.95     81.69
+                                               ------------ --------- ---------
+                                                 119,788.56  2,024.44    245.07
+03
+
+ADMINISTRACION OFICINAS PRODUCTO INDUSTRIALES
+
+  1.-E0124    CCANTO VILLAFANE CARMEN ADRIANA         3,360.00     56.78       .00
+  2.-E0131    VERA TORRES HENRY MOISES               11,920.00    201.45     81.69
+
+CIA. MINERA AGREGADOS CALCAREOS S.A.      MES DE AGOSTO DEL 2013
+TOPE :       8,168.68                                                Pag :    1
+
+CODIGO         NOMBRE                          TOT, INGRESO  S.RIESGO  S.COMPL.
+                                                              SALUD   PENSIONES
+-------------------------------------------------------------------------------
+  3.-E0133    CUBAS CAMACHO SERGIO CESAR              3,542.00     59.86       .00
+  4.-E0305    HERRERA ROMAN PABLO CESAR               2,501.10     42.27       .00
+  5.-E0314    PAREJA CELI JORGE MIGUEL                6,500.00    109.85       .00
+  6.-E0343    ALARCON VIGIL SERGIO ALFONSO            4,850.00     81.96       .00
+  7.-E0347    ESPINOZA MEDINA ARMANDO SEBASTIAN       5,450.00     92.10       .00
+  8.-E0374    INFANTES POMAR ANGEL FEDERICO          14,000.00    236.60     81.69
+  9.-E0377    PALOMINO QUIROZ JUAN ARMANDO            3,000.00     50.70       .00
+ 10.-E0384    CCOICCA DAZA KARINA                     1,050.00     17.74       .00
+ 11.-E0386    OTOYA PAREDES CINDY PAULETTE            1,800.00     30.42       .00
+                                               ------------ --------- ---------
+                                                  57,973.10    979.73    163.38
+03
+
+ADMINISTRACION PLANTA INDUSTRIAL
+
+  1.-E0238    GONZALES CUBILLAS MARIA JULIA           3,050.00     51.54       .00
+                                               ------------ --------- ---------
+                                                   3,050.00     51.54       .00
+03
+
+DESARROLLO DE PROYECTO
+
+  1.-E0075    ROJAS ESPINOZA YRMA DONATILA            4,500.00     76.05       .00
+                                               ------------ --------- ---------
+                                                   4,500.00     76.05       .00
+03
+
+INSTALACIONES
+
+  1.-E0078    TRUJILLO JIMENEZ ENRIQUE FERNAND        7,860.00    132.83       .00
+                                               ------------ --------- ---------
+                                                   7,860.00    132.83       .00
+03
+
+INVESTIGACION DE PRODUCTOS
+
+  1.-E0275    RODRIGUEZ CADILLO JOSE ALBERTO          5,200.00     87.88       .00
+                                               ------------ --------- ---------
+                                                   5,200.00     87.88       .00
+03
+
+M I N E R A L E S
+
+  1.-E0249    GARCIA NERIO DANIEL SANTOS              3,000.00     50.70       .00
+                                               ------------ --------- ---------
+                                                   3,000.00     50.70       .00
+03
+
+MANTENIMIENTO DE PLANTA
+
+  1.-E0074    NAVARRO MIRANDA LUIS ANGEL              7,096.55    119.93       .00
+                                               ------------ --------- ---------
+                                                   7,096.55    119.93       .00
+
+CIA. MINERA AGREGADOS CALCAREOS S.A.      MES DE AGOSTO DEL 2013
+TOPE :       8,168.68                                                Pag :    1
+
+CODIGO         NOMBRE                          TOT, INGRESO  S.RIESGO  S.COMPL.
+                                                              SALUD   PENSIONES
+-------------------------------------------------------------------------------
+03
+
+V E N T A S
+
+  1.-E0205    VARGAS MACHUCA SALDARRIAGA MANUEL FERNAN     2,645.00     44.70       .00
+  2.-E0277    SAIRE CCORA GABY ERIKA                  6,000.00    101.40       .00
+  3.-E0278    QUINTANILLA CABALLERO SARA MARIA        3,113.82     52.62       .00
+  4.-E0322    PRINCIPE MENA RUSSBEL SANTOS            6,000.00    101.40       .00
+                                               ------------ --------- ---------
+                                                  17,758.82    300.12       .00
+03
+
+VENTAS DE PRODUCTO MINEROS
+
+  1.-E0202    SAMPERTEGUI QUIROZ ANGEL MANUEL         4,463.00     75.42       .00
+  2.-E0210    BRAVO VICENTE KATHERINE MAYTE           5,280.00     89.23       .00
+  3.-E0211    BELLIDO ZAMBRANO YURI JAVIER            7,950.00    134.36       .00
+  4.-E0233    RODRIGUEZ GOMEZ ROSARIO LILIANA         2,725.00     46.05       .00
+  5.-E0240    HUAMANI QUILCA REYNALDO                 6,225.00    105.20       .00
+  6.-E0241    ROSSELLO PUGA DIEGO VICTOR              9,000.00    152.10     81.69
+  7.-E0300    SAAVEDRA CORRALES CARMEN NOEMI          3,920.00     66.25       .00
+  8.-E0316    VICENTE QUISPE JHON ERICK               5,700.00     96.33       .00
+  9.-E0324    FLORES MALDONADO ISABEL SUSANA          2,060.00     34.81       .00
+ 10.-E0378    ASENCIOS QUINCHO LEYDY YESABELA         1,500.00     25.35       .00
+ 11.-E0381    QUISPE BALANDA ERIKA CARMEN             2,300.00     38.87       .00
+ 12.-E0392    CHAVEZ PINCHI CARLOS ENRIQUE            8,000.00    135.20       .00
+                                               ------------ --------- ---------
+                                                  59,123.00    999.17     81.69
+03
+
+VENTAS DE PRODUCTOS  INDUSTRIALES
+
+  1.-E0257    ALTAMIRANO MONTES NESTOR CESAR          2,200.00     37.18       .00
+  2.-E0363    ARTEAGA CABANA JOSE ELIAS               2,900.00     49.01       .00
+                                               ------------ --------- ---------
+                                                   5,100.00     86.19       .00
+                                               ------------ --------- ---------
+                                                 290,450.03  4,908.58    490.14
+                                               ------------ --------- ---------
+                                               ============ ========= =========
+                                               1,131,710.60 19,125.87  1,552.11
+                                               ============ ========= =========
+
+
+  T.Trabajado                Resumen 
+                             --------------------------
+
+ 365        PERSONAL DE PLANTA                               9,302.58       .00
+  46        PERSONAL ADMINISTRATIVO EN PLANTA                4,914.71  1,061.97
+            PERSONAL ADMINISTRATIVO SOLO OFICINA                  .00       .00
+                                                            ========= =========
+ 411                                                        14,217.29  1,061.97
+                                                            ========= =========

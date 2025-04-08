@@ -1,0 +1,582 @@
+CIA. MINERA AGREGADOS CALCAREOS S.A.                        09/03/2022
+
+                          I N F O R M A C I O N   P A R A   D E S C U E N T O S   A   F A V O R   D E   A. F. P. 
+                                                     PERIODO : FEBRERO - 2022
+-----------------------------------------------------------------------------------------------------------------------------------------
+   CODIGO              NOMBRE                  RESUMEN       FONDO    SOLIDAR.   PRIMA DE    COMISION  COMISION     SUBTOTAL     TOTAL
+                                               ASIGNAC.      PROPIO   I.P.S.S.    SEGURO       FIJA    %SOBRE RA   APORTES AFP   GENERAL
+-----------------------------------------------------------------------------------------------------------------------------------------
+                  (LEY 19990) SISTEMA NACIONAL DE PENS   %    0.000      0.000    0.000   S/.  0.00       0.00
+-----------------------------------------------------------------------------------------------------------------------------------------
+               MARTINEZ RAMOS NINA EDITH      2,186.76         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               HERRERA ROMAN PABLO CESAR      2,810.41         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               CACERES ARIZA CARLOS AUGUST    3,844.80         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               ARTEAGA CABANA JOSE ELIAS      3,897.20         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               ROBLES VEGA OSCAR MARTIN       3,814.12         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               BALBIN VILLANUEVA WILSON       2,660.00         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               CALDERON ZAVALETA RANDY ROG    1,696.00         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               CANCHANYA PROCIL ROBERTO       2,544.00         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               POMA RAMOS WALDIR TAFFAREL     2,438.00         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               MORAN RUIZ ISABEL GUADALUPE    1,984.02         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               AGURTO GUTIERREZ LESLIE ELI    1,894.87         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               MEJIA RODRIGUEZ ANDRES STAL    3,600.00         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               ROSAS MANRIQUE SANTOS RUBEN    2,380.42         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               MAYHUIRE POCCORE BERNABE       3,621.85         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               HUAMANI PEÑA FAUSTINO CRIST    2,312.80         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               TORRES IMAN PABLO              2,274.63         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               CHAUCA ISIDRO JUAN PAULINO       629.67         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               FERNANDEZ VIDARTE ENRIQUE      2,654.34         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               MENDOZA CADILLO HERMINIO TE    3,519.21         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               SALAS RAMOS MARIANO            2,332.36         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               CALDAS VARA ADRIAN ALEJANDR    2,293.76         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               ZAMBRANO TUCNO JULIO           2,272.56         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               AMAO SAYAS VALENTIN            2,219.64         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               SOLANO AZAÑA ESDRAS MATEO      3,688.86         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               RODRIGUEZ ENCISO ANGEL RAFA    2,479.18         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               SAYAS AYALA FLORENCIO          3,475.25         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               AÑORGA VALVERDE LADISLAO EL    2,248.76         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               SONCCO CERVANTES JULIAN        2,325.96         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               CHIPANA ORTIZ CIRO             2,529.72         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               AÑORGA ESTRADA FELIX CATALI    2,598.12         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               DIAZ QUISPE JULIO                774.04         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               MIRANDA PACHECO WILLY          2,180.52         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               PARRA ALVARADO GUIDO EDGARD    2,234.96         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               SOTO CECENARIO SAMUEL BERNA    3,119.13         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               MALLMA MIRANDA ESTEBAN         2,007.40         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               MAQUIN FIGUEROA GABRIEL JUA    2,727.16         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               PUSSE TERRONES SEGUNDO ALEX    2,158.54         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               ORTIZ CORONEL LUIS ALBERTO     2,560.00         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               INOÑAN SANCHEZ ELMER           2,800.28         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               REYES VALDEZ ANGEL WILMER      3,304.23         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               NAJARRO MEDINA FELIX           2,252.66         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               TORRES YAURI WALDO LUIS        2,109.32         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               GAMBOA MEDINA VICTOR           2,269.38         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+506671AEAIN2   ESPIRITU ASENCIOS ALFONSO P    2,588.00         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               FLORES ENRIQUEZ JUAN BAUTIS    2,422.98         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               QUIÑONES QUINTO MAURO EUTIM    2,659.91         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+
+CIA. MINERA AGREGADOS CALCAREOS S.A.                        09/03/2022
+
+                          I N F O R M A C I O N   P A R A   D E S C U E N T O S   A   F A V O R   D E   A. F. P. 
+                                                     PERIODO : FEBRERO - 2022
+-----------------------------------------------------------------------------------------------------------------------------------------
+   CODIGO              NOMBRE                  RESUMEN       FONDO    SOLIDAR.   PRIMA DE    COMISION  COMISION     SUBTOTAL     TOTAL
+                                               ASIGNAC.      PROPIO   I.P.S.S.    SEGURO       FIJA    %SOBRE RA   APORTES AFP   GENERAL
+-----------------------------------------------------------------------------------------------------------------------------------------
+                  (LEY 19990) SISTEMA NACIONAL DE PENS   %    0.000      0.000    0.000   S/.  0.00       0.00
+-----------------------------------------------------------------------------------------------------------------------------------------
+238811AVHAA9   VARA HILARIO ANTIOGENES        2,153.76         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               RAMOS MALLMA FAUSTINO          2,252.84         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               CASTILLO TORRES MOISES SALO    2,064.12         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               NINAQUISPE PAREDES FELIX       2,928.88         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               VILLADEZA RAMIREZ AMANCIO      2,212.23         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               CARRILLO PUMA GABRIEL ANGEL    2,528.54         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               CASTILLO VILLANUEVA FAUSTIN    2,636.95         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               DE LA CRUZ FLORES CRISTOPLE    2,262.42         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               VILCHEZ CERRON ROBERTO         2,257.17         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               BANCES VILLEGAS BALDEMAR       2,991.75         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               YOVERA NIZAMA JOSE PORFIRIO    2,818.91         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               DURAN CORONEL EMILERIO FELI    2,139.76         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               BAUTISTA JARA ASUNCION         2,797.76         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               BAILON PATRICIO ROY ROGER      2,323.92         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               NOLORBE FLORES LUIS HILARIO    1,906.62         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               CHISTAMA MOZOMBITE JAIMITO       960.04         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               SANGAMA RUIZ CLEVER            2,543.31         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               MAYANGA FERNANDEZ CESAR AUG    1,996.58         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               HURTADO TORRES CELSO           2,020.28         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               ESTRADA CANTORIN CRISPEN       2,374.40         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               BERRU CRUZ PALERMO             2,242.23         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               SHUÑA SINTI FAVIO              1,954.84         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               MANANI CARHUAMANTA JOSE MAX    2,728.12         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               VILLADEZA BRAVO DEIVES GUDM    3,146.84         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               SANCHEZ SANCHEZ CARLOS         1,934.01         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               CASTRO GUTIERREZ JUAN          2,249.02         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               AGUILAR GALLARDO EDILBRANDO    1,912.15         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               ESPANTOSO QUISPE CARLOS ALB    2,134.21         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               FLORES CAPILLO WILLY VAYER     1,965.71         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               MILLA TARAZONA LISNER NILO     2,071.38         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               ATENCIA LOPEZ ANDERSON LUCA    3,527.28         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               CASTRO MARQUEZ FERNANDO        2,342.77         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               TEJADA FERNANDEZ ROBERTO CA    1,849.29         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               MANAMA PADILLA LIRIO           1,445.77         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               PAULINO PUJAY ABNEGO HILARI    3,262.96         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               FLORES CHAVARRIA FRANCISCO     2,411.14         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               LAUPA CCACCYA LUIS             2,343.16         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               ASENCIO LOPEZ ANGEL NICODEM    2,231.00         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               VILCA GARCIA JULIO FELIX       2,546.61         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               RODRIGUEZ CERNA FERNANDO AL    2,140.12         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               VILLEGAS PACHERRES JOHNNY A    1,911.89         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               TORBISCO ALVARADO MICHELL C    1,568.20         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               GONZALES PUERTAS GEINER JAV    2,559.18         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               FLORES ZEVALLOS JHON MARLON    2,031.84         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               SANCHEZ PIÑA JHAIR               325.84         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               SOSA QUISPE LUIS ALBERTO       1,758.91         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               BALLENA VALDERA JOSE SANTOS    1,447.36         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               JAUREGUI TORRES JHONATHAN R    1,896.58         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               LUNA CUADRADO JUNNIOR          1,240.16         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               MENDOZA MIRANDA GENARO RICA    2,280.12         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               LOPEZ HERRERA RIVALDO HOLSE    1,376.70         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               MARAPARA VASQUEZ MAX ESTANI    1,110.42         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               LOPEZ SILVA ELVIS                781.94         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               LUPACA CLAROS JULIO CESAR      1,160.32         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               ROMERO SUAREZ MARCO POLO         421.90         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+
+CIA. MINERA AGREGADOS CALCAREOS S.A.                        09/03/2022
+
+                          I N F O R M A C I O N   P A R A   D E S C U E N T O S   A   F A V O R   D E   A. F. P. 
+                                                     PERIODO : FEBRERO - 2022
+-----------------------------------------------------------------------------------------------------------------------------------------
+   CODIGO              NOMBRE                  RESUMEN       FONDO    SOLIDAR.   PRIMA DE    COMISION  COMISION     SUBTOTAL     TOTAL
+                                               ASIGNAC.      PROPIO   I.P.S.S.    SEGURO       FIJA    %SOBRE RA   APORTES AFP   GENERAL
+-----------------------------------------------------------------------------------------------------------------------------------------
+                  (LEY 19990) SISTEMA NACIONAL DE PENS   %    0.000      0.000    0.000   S/.  0.00       0.00
+-----------------------------------------------------------------------------------------------------------------------------------------
+               QUINTO PASTOR ULISES GERARD    2,583.07         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               FERNANDEZ MENDOZA STEWARD G    1,112.47         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               VARGAS CARMELO MICHAEL MILT    1,076.93         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               SANCHEZ AVALOS ALEJANDRO JE    1,153.93         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               GUTIERREZ CASTRO ROBERTO       1,329.95         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               QUISPE VARONA JORGE ARMANDO    1,279.26         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               MESTANZA SORIA JUAN CARLOS     2,271.05         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               IZAGUIRRE VARA MIGUEL ANGEL    1,914.40         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               TELLO MACAHUACHI DINO          1,147.73         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               URIARTE VALLADAREZ PABLO IS    1,328.49         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               MENDOZA TORRES IGOR            1,171.28         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               CARDENAS PAZ JOSE MANUEL       1,041.73         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               POMPA HERNANDEZ WALTER MARI    1,369.09         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               DOMADOR VALENCIA JAVIER        1,079.83         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               RUIZ COTRINA DANY JHON         1,376.00         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               GIBAJA CARRASCO ANIBAL         1,272.51         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               CHURANO CANTARO DINO JERCIN    1,835.41         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               ÑAÑO SANTISTEBAN MARCO ANTO    1,139.57         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               ALVAREZ ICUMINA WILLY AUGUS    1,222.93         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               CASTILLEJO MELGAREJO JASON     1,539.48         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               HUAMAN ZAMBRANO ANTONY ANDY    1,940.40         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               VELASQUEZ CARRASCO DAVID AL      649.70         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               ESTACIO VALDIVIA JUAN HUMBE    1,217.32         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               TORRES ARIMUYA DARWIN ZACAR      956.71         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               ORMEÑO ORMEÑO LEONEL GENS        712.55         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               FIGUEROA TASAYCO JEAN PAUL     1,951.13         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               CASTRO INGA JOSE JAVIER        1,080.00         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               FLORES CORDOVA SEGUNDO PASC      978.28         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               CABANILLAS YGLESIAS ERICK A    1,089.19         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               ESPINOZA HILARION JOSE LUIS      696.92         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               BENITES RAMIREZ JEAN CARLOS      915.41         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               AGUILAR CORDOVA RAFAEL JUNI      327.00         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               SANTILLAN FARFAN GABRIEL AN      894.00         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               ACUÑA HUAMAN HERMES JESUS         29.15         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               VENTURA QUISPE JESUS ENRIQU      249.50         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               GUTIERREZ SULLCARAY ANTONIO       81.50         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               LOZANO SEGURA EDUARDO ENRIQ    3,004.00         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               TOLENTINO HIZO ANIBAL ARMAN    1,956.87         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               SOLORZANO GONZALES JUAN MAR    2,246.73         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               JARAMILLO GONZALES MARISSA     1,000.00         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               HUAMAN AYALA PAUL DECKER       1,000.00         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               MACEDO CABALLERO JERSIL BRA    1,000.00         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               VALVERDE RAMOS JAIME ANTONI    1,000.00         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               MARIANO VASQUEZ DIANA CAROL      966.67         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               MOTTA ROSADA FRANGHOAR ANGE      933.33         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               SOTELO VELASQUEZ ANGELO JHO       35.83         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+               REYES MENDOZA RUBEN              266.67         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+
+T O T A L E S : .........S/.                287,299.96         0.00    0.00        0.00       0.00        0.00         0.00       0.00
+
+No Trabajadores               148.00
+No Trabajadores Empleado       12.00
+No Trabajadores Obrero        136.00
+
+CIA. MINERA AGREGADOS CALCAREOS S.A.                        09/03/2022
+
+                          I N F O R M A C I O N   P A R A   D E S C U E N T O S   A   F A V O R   D E   A. F. P. 
+                                                     PERIODO : FEBRERO - 2022
+-----------------------------------------------------------------------------------------------------------------------------------------
+   CODIGO              NOMBRE                  RESUMEN       FONDO    SOLIDAR.   PRIMA DE    COMISION  COMISION     SUBTOTAL     TOTAL
+                                               ASIGNAC.      PROPIO   I.P.S.S.    SEGURO       FIJA    %SOBRE RA   APORTES AFP   GENERAL
+-----------------------------------------------------------------------------------------------------------------------------------------
+                  PROFUTURO                              %   10.000      0.000    1.740   S/.  0.28       1.69
+-----------------------------------------------------------------------------------------------------------------------------------------
+545541SCCAA3   CUBAS CAMACHO SERGIO CESAR     4,393.15       439.32    0.00       76.44      12.30        0.00        88.74     528.06
+541481VHHLM2   HUALLPA HUAMANI VIDAL          4,795.99       479.60    0.00       83.45       0.00       81.05       164.50     644.10
+262261MGBCA0   GARCIA BELAMADO MARCOS WILL    5,818.70       581.87    0.00      101.25       0.00       98.34       199.59     781.46
+571841JSSTC0   SANTA CRUZ SANCHEZ JESUS FI    2,161.93       216.19    0.00       37.62       0.00       36.54        74.16     290.35
+575821GRFAR1   ROSALES FLORES GINO SAUL       4,983.47       498.35    0.00       86.71       0.00       84.22       170.93     669.28
+579451FPRIO6   PARICAHUA RAMOS FERMIN         4,328.64       432.86    0.00       75.32       0.00       73.15       148.47     581.33
+594910SQCNA0   QUINTANILLA CABALLERO SARA     3,056.05       305.61    0.00       53.18       0.00       51.65       104.83     410.44
+617941RLLAA8   LOZANO LOZANO ROY FERNANDO     5,350.00       535.00    0.00       93.09       0.00       90.42       183.51     718.51
+614460LFAII7   FELICES AGUILAR LEYLA FLOR     1,907.44       190.74    0.00       33.19       0.00       32.24        65.43     256.17
+630011DEAER9   ESTELLA ALARCON DIEGO STEFA    6,342.45       634.25    0.00      110.36      17.76        0.00       128.12     762.37
+596551CPGER2   PEREZ GARRO CESAR VICENTE      6,189.00       618.90    0.00      107.69       0.00      104.59       212.28     831.18
+586811CGCEA5   GOMERO CABANILLAS CRISTIAN     2,273.60       227.36    0.00       39.56       0.00       38.42        77.98     305.34
+564491JCMQA9   COAQUIRA MAMANI JUVENCIO         910.44        91.04    0.00       15.84       0.00       15.39        31.23     122.27
+563681TMEOI0   MUÑOZ ESPINOZA TEOFINES AUR    2,532.12       253.21    0.00       44.06       0.00       42.79        86.85     340.06
+570761ALDEA6   LOPEZ DURAND ALEJANDRO         2,239.96       224.00    0.00       38.98       6.27        0.00        45.25     269.25
+586541MRBAI5   ROSALES BENITES MARCOS           571.27        57.13    0.00        9.94       0.00        9.65        19.59      76.72
+239151MPIAN2   PASACHE YMAN MANUEL ASUNCIO      663.50        66.35    0.00       11.54       0.00       11.21        22.75      89.10
+589071MZTAO9   ZEA TENORIO MIGUEL ANGEL       2,168.12       216.81    0.00       37.73       0.00       36.64        74.37     291.18
+258851FSJAG6   SOCA JORGE FELICIANO              86.85         8.69    0.00        1.51       0.00        1.47         2.98      11.67
+572571GPTEA5   PRIETO TAVARA GUILLERMO DUQ    2,801.34       280.13    0.00       48.74       7.84        0.00        56.58     336.71
+543921AECIE4   ESPINOZA CABELLO ANDRES FEL    2,306.94       230.69    0.00       40.14       6.46        0.00        46.60     277.29
+252441OVSQA7   VASQUEZ SAYAS OSCAR LORENZO    2,370.52       237.05    0.00       41.25       0.00       40.06        81.31     318.36
+599861LACIO3   ALVINO CANO LELIS CLEDI        2,160.16       216.02    0.00       37.59       0.00       36.51        74.10     290.12
+533611JCVZA3   CIEZA VEGA JUAN ESPERANZA      2,380.92       238.09    0.00       41.43       0.00       40.24        81.67     319.76
+565991WJRAR3   JARA RODRIGUEZ WILMER          2,222.66       222.27    0.00       38.67       0.00       37.56        76.23     298.50
+573231HCQDS6   CONDOR QUISPE HUBER PAUL       2,780.40       278.04    0.00       48.38       0.00       46.99        95.37     373.41
+589751VRCOZ7   RAMOS CRUZ VALERIO HIGIDIO     2,345.38       234.54    0.00       40.81       0.00       39.64        80.45     314.99
+239901JZLOE7   ZAMORA LOPEZ HAYA JULIO HUM    2,434.12       243.41    0.00       42.35       0.00       41.14        83.49     326.90
+249931RAJZA5   APAZA JARA RODOLFO ROBERTO     2,956.94       295.69    0.00       51.45       0.00       49.97       101.42     397.11
+557841RSPOA4   SOLORZANO POMA ROSARIO         2,184.70       218.47    0.00       38.01       0.00       36.92        74.93     293.40
+580931FBGMA8   BERMUDEZ GIRALDO FAUSTINO M    2,846.75       284.68    0.00       49.53       0.00       48.11        97.64     382.32
+559351MADRZ3   AMBROCIO DIAZ MARCELINO NEO    2,980.28       298.03    0.00       51.86       0.00       50.37       102.23     400.26
+579831ERCOZ1   RAMOS CRUZ HERMENEGILDO EDU    1,916.81       191.68    0.00       33.35       0.00       32.39        65.74     257.42
+626181CCOSV1   CRISPIN OLIVO CARLOS VIRGIL    2,018.55       201.86    0.00       35.12       0.00       34.11        69.23     271.09
+265641WMCCV0   MORCERA CHAVEZ WILLY ANTONI    2,097.41       209.74    0.00       36.49       0.00       35.45        71.94     281.68
+590321JZAIA9   ZUÑIGA ALCANTARA JUAN CARLO    2,013.32       201.33    0.00       35.03       5.64        0.00        40.67     242.00
+601771VCAMA8   CHAMOCHUMBI ALTAMIRANO VICT    2,761.77       276.18    0.00       48.05       7.73        0.00        55.78     331.96
+559761JMVEA7   MORENO VERAMENDI JAIME RAMI    2,426.77       242.68    0.00       42.23       6.79        0.00        49.02     291.70
+602471DCMTL1   CASTRO MILLAN DEUMERES         1,810.70       181.07    0.00       31.51       5.07        0.00        36.58     217.65
+608121LCZVO0   CHAVEZ ZAMORA LLESY            2,252.12       225.21    0.00       39.19       0.00       38.06        77.25     302.46
+569541PCRIE8   CURILLA RIVERA PEDRO CESAR     2,560.12       256.01    0.00       44.55       0.00       43.27        87.82     343.83
+566271MHTMA2   HUAMAN TANANTA MANUEL          2,190.12       219.01    0.00       38.11       0.00       37.01        75.12     294.13
+579841JADJI0   ALEJOS DAMIAN JILMER OLIMPI    3,716.60       371.66    0.00       64.67       0.00       62.81       127.48     499.14
+565911CDOGR0   DELGADO ODAR CARLOS ALBERTO    2,008.36       200.84    0.00       34.95       0.00       33.94        68.89     269.73
+608301FUHIN5   URBINA HERNANDEZ FELIX IGOR    1,413.12       141.31    0.00       24.59       3.96        0.00        28.55     169.86
+592521BRHAN5   RIVAS HUANCA BRUNO             1,319.48       131.95    0.00       22.96       0.00       22.30        45.26     177.21
+
+CIA. MINERA AGREGADOS CALCAREOS S.A.                        09/03/2022
+
+                          I N F O R M A C I O N   P A R A   D E S C U E N T O S   A   F A V O R   D E   A. F. P. 
+                                                     PERIODO : FEBRERO - 2022
+-----------------------------------------------------------------------------------------------------------------------------------------
+   CODIGO              NOMBRE                  RESUMEN       FONDO    SOLIDAR.   PRIMA DE    COMISION  COMISION     SUBTOTAL     TOTAL
+                                               ASIGNAC.      PROPIO   I.P.S.S.    SEGURO       FIJA    %SOBRE RA   APORTES AFP   GENERAL
+-----------------------------------------------------------------------------------------------------------------------------------------
+                  PROFUTURO                              %   10.000      0.000    1.740   S/.  0.28       1.69
+-----------------------------------------------------------------------------------------------------------------------------------------
+586611HARNA5   ASENCIOS ROJAS HUMBERTO WIL      932.30        93.23    0.00       16.22       0.00       15.76        31.98     125.21
+599131JAMSO1   ACOSTA MURRIETA JONNY IVAN     3,124.62       312.46    0.00       54.37       0.00       52.81       107.18     419.64
+593311MCCTH5   CORTEZ COCHACHI MIGUEL ANGE    1,068.07       106.81    0.00       18.58       2.99        0.00        21.57     128.38
+587221FMADN2   MENDOZA ARANDA FIDEL           1,284.91       128.49    0.00       22.36       3.60        0.00        25.96     154.45
+625931JSMCA6   SANCHEZ MORAN JHONY ANGEL      2,993.77       299.38    0.00       52.09       8.38        0.00        60.47     359.85
+575731THLMR5   HUAMANI LAURA TEOBALDO WALD    1,116.31       111.63    0.00       19.42       3.13        0.00        22.55     134.18
+631781EFSRU0   FLORES SEGURA ERIC FRANK       2,104.53       210.45    0.00       36.62       0.00       35.57        72.19     282.64
+581831HBVOA1   BRIONES VELAZCO HOMERO EDUA    1,245.79       124.58    0.00       21.68       0.00       21.05        42.73     167.31
+341401PHVML0   HUAMAN VALLADARES PAUL ALEX    1,500.42       150.04    0.00       26.11       4.20        0.00        30.31     180.35
+590561RCOQE6   CHOQUEHUANCA OQUEÑA ROGELIO    1,308.39       130.84    0.00       22.77       0.00       22.11        44.88     175.72
+613641FBSBC9   BARBADILLO SANCHEZ FELIX RO      292.87        29.29    0.00        5.10       0.00        4.95        10.05      39.34
+611931AGGCN7   GARCIA GRANDEZ ALEXANDER       1,414.22       141.42    0.00       24.61       0.00       23.90        48.51     189.93
+602291FCRZA5   CRUZ ROSADO FRANKLIN EDUARD      771.35        77.14    0.00       13.42       2.16        0.00        15.58      92.72
+593041JCRZA0   CRUZ ROSADO JORGE ARMANDO      1,070.92       107.09    0.00       18.63       0.00       18.10        36.73     143.82
+632181CGHOR4   GODOY HUARACA CRISTHIAN CIR      955.70        95.57    0.00       16.63       2.68        0.00        19.31     114.88
+613771JRGZZ5   RUIZ GONZALES JULIO RICARDO      774.51        77.45    0.00       13.48       2.17        0.00        15.65      93.10
+
+T O T A L E S : .........S/.                146,007.72    14,600.79    0.00    2,540.56     109.13    1,808.87     4,458.56  19,059.35
+
+No Trabajadores                62.00
+No Trabajadores Empleado       11.00
+No Trabajadores Obrero         51.00
+
+CIA. MINERA AGREGADOS CALCAREOS S.A.                        09/03/2022
+
+                          I N F O R M A C I O N   P A R A   D E S C U E N T O S   A   F A V O R   D E   A. F. P. 
+                                                     PERIODO : FEBRERO - 2022
+-----------------------------------------------------------------------------------------------------------------------------------------
+   CODIGO              NOMBRE                  RESUMEN       FONDO    SOLIDAR.   PRIMA DE    COMISION  COMISION     SUBTOTAL     TOTAL
+                                               ASIGNAC.      PROPIO   I.P.S.S.    SEGURO       FIJA    %SOBRE RA   APORTES AFP   GENERAL
+-----------------------------------------------------------------------------------------------------------------------------------------
+                  INTEGRA                                %   10.000      0.000    1.740   S/.  0.00       1.55
+-----------------------------------------------------------------------------------------------------------------------------------------
+210961UACCI1   ARACA CARITA URIEL EDMUNDO    12,676.71     1,267.67    0.00      183.31       0.00      196.49       379.80   1,647.47
+528901LSLCR6   SANCHEZ LLERENA LIZANDRO BE    4,623.29       462.33    0.00       80.45       0.00        0.00        80.45     542.78
+575890CCVNL3   CCANTO VILLAFANE CARMEN ADR    3,889.02       388.90    0.00       67.67       0.00        0.00        67.67     456.57
+569540KBVVE9   BRAVO VICENTE KATHERINE MAY    6,003.33       600.33    0.00      104.46       0.00       93.05       197.51     797.84
+517251GSGCR6   SAUCEDO GARRIDO GREGORIO       5,138.98       513.90    0.00       89.42       0.00       79.65       169.07     682.97
+575191JLCED0   LOPEZ CARDENAS JUAN ANTONIO    6,876.49       687.65    0.00      119.65       0.00      106.59       226.24     913.89
+578271LVCDU8   VALDERA CAJUSOL LUIS OMAR     13,414.36     1,341.44    0.00      183.31       0.00      207.92       391.23   1,732.67
+568940ACHLN3   COLLANQUE HUANCA ANA CECILI    4,284.32       428.43    0.00       74.55       0.00       66.41       140.96     569.39
+537060IFMRD0   FLORES MALDONADO ISABEL SUS    3,171.00       317.10    0.00       55.18       0.00       49.15       104.33     421.43
+245491AIPAA0   INFANTES POMAR ANGEL FEDERI   16,166.03     1,616.60    0.00      183.31       0.00      250.57       433.88   2,050.48
+593501JPQOR6   PALOMINO QUIROZ JUAN ARMAND    4,700.20       470.02    0.00       81.78       0.00        0.00        81.78     551.80
+622520COPYE3   OTOYA PAREDES CINDY PAULETT    3,562.85       356.29    0.00       61.99       0.00       55.22       117.21     473.50
+619921HRHEN4   RIVEROS HUANAY HIMMY WILLIA    5,405.00       540.50    0.00       94.05       0.00       83.78       177.83     718.33
+637061JPMEO0   PEJE MATOS JOHN FRANCO         2,088.00       208.80    0.00       36.33       0.00        0.00        36.33     245.13
+584691MREUA5   REQUE ESPARZA MANUEL ENRIQU    4,055.76       405.58    0.00       70.57       0.00       62.86       133.43     539.01
+598500YBMNA2   BURNEO MIRANDA YSABEL YOVAN   10,300.00     1,030.00    0.00      179.22       0.00      159.65       338.87   1,368.87
+578071ESAVL4   SAAVEDRA AYALA ENRIQUE RAUL    2,875.00       287.50    0.00       50.03       0.00       44.56        94.59     382.09
+657351JCCMG5   CHAMORRO CONGONA JEAN PIERR    1,801.10       180.11    0.00       31.34       0.00        0.00        31.34     211.45
+621080YTGJC3   TRUJILLO GARCIA YANETT         2,293.90       229.39    0.00       39.91       0.00       35.56        75.47     304.86
+               SOLANO LIBERATO JEAN CUTTER    2,243.50       224.35    0.00       39.04       0.00        0.00        39.04     263.39
+655101VRGAE9   ROJAS GOMEZ VICTOR RODRIGO     2,000.00       200.00    0.00       34.80       0.00        0.00        34.80     234.80
+583551JGHAM3   GARAY HUAMAN JUAN CARLOS       3,995.60       399.56    0.00       69.52       0.00       61.93       131.45     531.01
+646430AGCAZ1   GARAY COZ ARACELY FABIOLA      5,000.00       500.00    0.00       87.00       0.00        0.00        87.00     587.00
+268261CCARU0   CLAROS ARGUELLO CARLOS ALBE    2,778.12       277.81    0.00       48.34       0.00       43.06        91.40     369.21
+567921LSTDR2   SANDOVAL TORRES LUIS ENRIQU    2,967.99       296.80    0.00       51.64       0.00       46.00        97.64     394.44
+530981JAAUZ6   ARGUEDAS APAZA JUAN PASTOR     2,652.52       265.25    0.00       46.15       0.00       41.11        87.26     352.51
+259491MZHAY9   ZUCA HUAYANA MARCELINO         2,603.27       260.33    0.00       45.30       0.00       40.35        85.65     345.98
+240571EACZD0   APAZA CONDORI EUGENIO          2,396.88       239.69    0.00       41.71       0.00       37.15        78.86     318.55
+544911SGVGG5   GONGORA VARGAS SEGUNDO ANAS    3,115.32       311.53    0.00       54.21       0.00       48.29       102.50     414.03
+539071CSZRA6   SUAREZ ZARATE CESAR EMILIO       514.97        51.50    0.00        8.96       0.00        7.98        16.94      68.44
+564761JATAR5   ALVAREZ TORRES JULIO JUAN      2,093.80       209.38    0.00       36.43       0.00       32.45        68.88     278.26
+591701SMCDN6   MENDOZA CORNEJO SERAPIO        2,211.10       221.11    0.00       38.47       0.00        0.00        38.47     259.58
+572511VSAGO4   SOLGORRE ARCOS VICTOR ALEJA    3,454.68       345.47    0.00       60.11       0.00       53.55       113.66     459.13
+583271DBTIA6   BENITES TARAZONA DEIVIN KLE    2,060.44       206.04    0.00       35.85       0.00       31.94        67.79     273.83
+583231IVLLC9   VALLADOLID LLOCYA IGNACIO        583.38        58.34    0.00       10.15       0.00        9.04        19.19      77.53
+603391EMDTA7   MARTINEZ DURAN EVER EDWIN      2,493.59       249.36    0.00       43.39       0.00       38.65        82.04     331.40
+556331RCMDU0   CUADRADO MAÑUECO ROMULO        2,351.98       235.20    0.00       40.92       0.00       36.46        77.38     312.58
+600211DOSSI5   OBESO SALINAS DANIEL CHRIST    2,361.15       236.12    0.00       41.08       0.00       36.60        77.68     313.80
+573501PACRV3   AGURTO CHAVEZ PEDRO ROBERTO    2,168.12       216.81    0.00       37.73       0.00       33.61        71.34     288.15
+604051GMLOA4   MOGOLLON LAZARO GUILLERMO M    2,323.04       232.30    0.00       40.42       0.00       36.01        76.43     308.73
+602271JRRZR9   RUIZ RODRIGUEZ JOSE LUIS       2,547.09       254.71    0.00       44.32       0.00       39.48        83.80     338.51
+603541EBATI7   BARTRA DEL AGUILA EDER MICK    1,960.67       196.07    0.00       34.12       0.00       30.39        64.51     260.58
+238431ASCCQ3   SANCHEZ CULQUICONDOR ALBERT      406.88        40.69    0.00        7.08       0.00        6.31        13.39      54.08
+611131RACAA4   ARIAS CAMACHO RAUL             2,038.40       203.84    0.00       35.47       0.00       31.60        67.07     270.91
+604311OAMRI8   AMARINGO MANIHUARI ORINSON     1,765.42       176.54    0.00       30.72       0.00       27.36        58.08     234.62
+597291EHFNR2   HUINCHO FLORES EMERSON           447.53        44.75    0.00        7.79       0.00        6.94        14.73      59.48
+
+CIA. MINERA AGREGADOS CALCAREOS S.A.                        09/03/2022
+
+                          I N F O R M A C I O N   P A R A   D E S C U E N T O S   A   F A V O R   D E   A. F. P. 
+                                                     PERIODO : FEBRERO - 2022
+-----------------------------------------------------------------------------------------------------------------------------------------
+   CODIGO              NOMBRE                  RESUMEN       FONDO    SOLIDAR.   PRIMA DE    COMISION  COMISION     SUBTOTAL     TOTAL
+                                               ASIGNAC.      PROPIO   I.P.S.S.    SEGURO       FIJA    %SOBRE RA   APORTES AFP   GENERAL
+-----------------------------------------------------------------------------------------------------------------------------------------
+                  INTEGRA                                %   10.000      0.000    1.740   S/.  0.00       1.55
+-----------------------------------------------------------------------------------------------------------------------------------------
+531151JLSAI6   LUNA SALINAS JOSE ALBERTO      2,260.73       226.07    0.00       39.34       0.00       35.04        74.38     300.45
+568901MMMIL4   MEJIA MALLQUI MARCO ANIBAL     2,196.00       219.60    0.00       38.21       0.00       34.04        72.25     291.85
+556981JTMAI5   TANANTA MORI JAMES             2,574.69       257.47    0.00       44.80       0.00        0.00        44.80     302.27
+573041JVMCT3   VILCHEZ MONTENEGRO JOSE ELA    2,235.34       223.53    0.00       38.89       0.00       34.65        73.54     297.07
+539381GOVRQ3   OSORIO VASQUEZ GILBERTO        2,443.07       244.31    0.00       42.51       0.00       37.87        80.38     324.69
+270621ESSCN0   SANCHEZ SAENZ ELI ABNER        3,009.55       300.96    0.00       52.37       0.00       46.65        99.02     399.98
+635381EVQTS7   VENTURA QUISPE ELVIS NEIRO     1,068.81       106.88    0.00       18.60       0.00        0.00        18.60     125.48
+586711FVVLL7   VILLARRUEL VILLARRUEL FREDY    1,884.40       188.44    0.00       32.79       0.00        0.00        32.79     221.23
+594031NVTEL4   VILELA TICLAHUANCA NOE         1,242.24       124.22    0.00       21.61       0.00       19.25        40.86     165.08
+630681LCFDI1   CORDERO FELIPA LUIS ALBERTO      982.73        98.27    0.00       17.10       0.00        0.00        17.10     115.37
+611011JDPGE8   DELGADO PEREZ JOSE             1,830.51       183.05    0.00       31.85       0.00       28.37        60.22     243.27
+675551JTSJA8   TREJO SUSANIBAR JOHAN ANTON    1,123.01       112.30    0.00       19.54       0.00        0.00        19.54     131.84
+655991OÑFUI0   ÑAHUI FELIPE OSCAR ROBERTO     1,407.29       140.73    0.00       24.49       0.00        0.00        24.49     165.22
+664631RASRE6   ACARO SALEZ RENZO SAMUEL       1,335.20       133.52    0.00       23.23       0.00        0.00        23.23     156.75
+653481LYCUU3   YAHUARCANI CAHUAZA LINCER S    1,156.36       115.64    0.00       20.12       0.00        0.00        20.12     135.76
+610651JYAEA9   YEPEZ AHUANARI JESUS MARTIN    1,275.08       127.51    0.00       22.19       0.00        0.00        22.19     149.70
+660771RLEAI5   LUCAS ESPINOZA ROMARIO YOVA    1,153.18       115.32    0.00       20.07       0.00        0.00        20.07     135.39
+               LUCAS AGÜERO AUDENCIO          1,206.49       120.65    0.00       20.99       0.00        0.00        20.99     141.64
+670661APSHV0   PACHERREZ SILVA ALDO SAMIR     1,068.09       106.81    0.00       18.58       0.00        0.00        18.58     125.39
+648581JMFLN7   MALLCCO FERNANDEZ JESUS ALB    2,569.40       256.94    0.00       44.71       0.00        0.00        44.71     301.65
+665761MCLUA0   COQUINCHE LOZANO MARCK ANTO    1,209.51       120.95    0.00       21.05       0.00        0.00        21.05     142.00
+644821SJBAA7   JAVA BAZALAR SET               1,098.56       109.86    0.00       19.11       0.00        0.00        19.11     128.97
+               TORRES SILVA PATRICK ALEXAN    1,743.28       174.33    0.00       30.33       0.00        0.00        30.33     204.66
+673561JECOV2   ESCOBAR CUEVA JESUS ALBERTO      934.70        93.47    0.00       16.26       0.00        0.00        16.26     109.73
+659971EHRNA6   HERNANDEZ RIVAS EDISSON CRI    1,293.87       129.39    0.00       22.51       0.00        0.00        22.51     151.90
+               RUESTA FORTUN PAUL ANTONIO     1,953.32       195.33    0.00       33.99       0.00        0.00        33.99     229.32
+646121ADANJ9   DIONICIO ALEJANDRO ANDRES      1,369.02       136.90    0.00       23.82       0.00        0.00        23.82     160.72
+663471JSCVN8   SILVERA CHINCHAY JOEL FERNA    1,331.28       133.13    0.00       23.16       0.00        0.00        23.16     156.29
+               ROJAS DIAZ JOSELITO            1,037.04       103.70    0.00       18.04       0.00        0.00        18.04     121.74
+652501RHORO6   HUARCAYA OCHOA RONNIE ALBER    1,035.20       103.52    0.00       18.01       0.00        0.00        18.01     121.53
+269501EJTTP0   JUSTANO TORPOCO EVERARDO       1,856.40       185.64    0.00       32.30       0.00        0.00        32.30     217.94
+650081JLGAI3   LOZANO GUTIERREZ JESUS CESA      771.54        77.15    0.00       13.42       0.00        0.00        13.42      90.57
+638441DCGNR5   CISNEROS GUERRA DOUGLAS          959.49        95.95    0.00       16.70       0.00        0.00        16.70     112.65
+               LUNA CIPRIANO ANGHELO MOISE    1,031.05       103.11    0.00       17.94       0.00        0.00        17.94     121.05
+633571IHGAL8   HILARES GALLARDO ISAAC ALEX    1,091.16       109.12    0.00       18.99       0.00        0.00        18.99     128.11
+668601WVPAC1   VELASQUEZ PAICO WANDERLEE R    2,344.27       234.43    0.00       40.79       0.00        0.00        40.79     275.22
+609121AACRI4   ARIRAMA CURITIMA AUGUSTO       1,108.99       110.90    0.00       19.30       0.00       17.19        36.49     147.39
+603301PRASA5   RIOS ALVA PIERO FOREMAN        1,133.34       113.33    0.00       19.72       0.00        0.00        19.72     133.05
+               ALTAMIRANO HUAMAN MIGUEL AL      108.30        10.83    0.00        1.88       0.00        0.00         1.88      12.71
+618451JMTDJ2   MENDOZA TRUJILLO JERSON SAL    1,146.91       114.69    0.00       19.96       0.00        0.00        19.96     134.65
+               YUPANQUI CUICAPUZA YORDAN I    1,680.00       168.00    0.00       29.23       0.00        0.00        29.23     197.23
+               PUENTE ROJAS ENNYZ YOFRAN      1,003.52       100.35    0.00       17.46       0.00        0.00        17.46     117.81
+650441JRSNU8   REYNA SEGURA JAVIER DANIEL       894.29        89.43    0.00       15.56       0.00        0.00        15.56     104.99
+671771KBMTO3   BAUTISTA MOGOLLON KELVIN DE      972.50        97.25    0.00       16.92       0.00        0.00        16.92     114.17
+666431JBHTM1   BARTOLO HUAMAN JAIR PIERO      1,010.96       101.10    0.00       17.59       0.00        0.00        17.59     118.69
+580591OCHLY5   CALLATA HUAYCHA OSWALDO NIL    1,054.43       105.44    0.00       18.35       0.00        0.00        18.35     123.79
+675991GTGUN4   TAPULLIMA GRANDEZ GINETON H    1,035.69       103.57    0.00       18.02       0.00        0.00        18.02     121.59
+631941SSBCO0   SANCHEZ BULOS SAUL NADIN         241.70        24.17    0.00        4.21       0.00        0.00         4.21      28.38
+597371VGDMA2   GRIMALDO DONAYRE VICTOR JAV      999.48        99.95    0.00       17.39       0.00        0.00        17.39     117.34
+611931JMLDE6   MENDOZA LOPEZ JAVIER LEONCI      935.14        93.51    0.00       16.27       0.00        0.00        16.27     109.78
+661271CRAEI9   RIVERA ANTICONA CRISTIAN         146.63        14.66    0.00        2.55       0.00        0.00         2.55      17.21
+670131JDGZZ3   DIAZ GONZALES JEFFERSON ANT    1,022.30       102.23    0.00       17.79       0.00        0.00        17.79     120.02
+663221ARCAC5   ROMAN CAUCHA ALEX ISIDRO         821.22        82.12    0.00       14.29       0.00        0.00        14.29      96.41
+677691JZCAC0   ZEVALLOS CONCHA JOSE AARON       348.04        34.80    0.00        6.06       0.00        0.00         6.06      40.86
+658361LVNAR4   VARAS NEYRA LUIS RONAL           862.01        86.20    0.00       15.00       0.00        0.00        15.00     101.20
+
+CIA. MINERA AGREGADOS CALCAREOS S.A.                        09/03/2022
+
+                          I N F O R M A C I O N   P A R A   D E S C U E N T O S   A   F A V O R   D E   A. F. P. 
+                                                     PERIODO : FEBRERO - 2022
+-----------------------------------------------------------------------------------------------------------------------------------------
+   CODIGO              NOMBRE                  RESUMEN       FONDO    SOLIDAR.   PRIMA DE    COMISION  COMISION     SUBTOTAL     TOTAL
+                                               ASIGNAC.      PROPIO   I.P.S.S.    SEGURO       FIJA    %SOBRE RA   APORTES AFP   GENERAL
+-----------------------------------------------------------------------------------------------------------------------------------------
+                  INTEGRA                                %   10.000      0.000    1.740   S/.  0.00       1.55
+-----------------------------------------------------------------------------------------------------------------------------------------
+666271JBCAC4   BAZAN CHOCTALIN JUAN ALBERT      746.56        74.66    0.00       12.99       0.00        0.00        12.99      87.65
+329961DRZSA8   RIOS ZEVALLOS DEYVIS             729.55        72.96    0.00       12.69       0.00        0.00        12.69      85.65
+671971PRCRO3   RODRIGUEZ CERON PAUL PERCY       603.83        60.38    0.00       10.51       0.00        0.00        10.51      70.89
+665481JMSIC3   MEDINA SULCA JULIO CESAR         670.82        67.08    0.00       11.67       0.00        0.00        11.67      78.75
+663241FASYA0   AMAYA SALAZAR FRANKLIN ANIB      281.41        28.14    0.00        4.90       0.00        0.00         4.90      33.04
+658611JCTVR9   CHAVEZ TORRES JHON WESLER        443.26        44.33    0.00        7.71       0.00        0.00         7.71      52.04
+637571GNPAC2   NINA PERCA GERMAN ANIBAL         123.55        12.36    0.00        2.15       0.00        0.00         2.15      14.51
+
+T O T A L E S : .........S/.                250,067.07    25,006.73    0.00    4,165.83       0.00    2,520.78     6,686.61  31,693.34
+
+No Trabajadores               108.00
+No Trabajadores Empleado       23.00
+No Trabajadores Obrero         85.00
+
+CIA. MINERA AGREGADOS CALCAREOS S.A.                        09/03/2022
+
+                          I N F O R M A C I O N   P A R A   D E S C U E N T O S   A   F A V O R   D E   A. F. P. 
+                                                     PERIODO : FEBRERO - 2022
+-----------------------------------------------------------------------------------------------------------------------------------------
+   CODIGO              NOMBRE                  RESUMEN       FONDO    SOLIDAR.   PRIMA DE    COMISION  COMISION     SUBTOTAL     TOTAL
+                                               ASIGNAC.      PROPIO   I.P.S.S.    SEGURO       FIJA    %SOBRE RA   APORTES AFP   GENERAL
+-----------------------------------------------------------------------------------------------------------------------------------------
+                  PRIMA-AFP                              %   10.000      0.000    1.740   S/.  0.18       1.60
+-----------------------------------------------------------------------------------------------------------------------------------------
+236771LNMAA1   NAVARRO MIRANDA LUIS ANGEL     6,515.30       651.53    0.00      113.37       0.00      104.24       217.61     869.14
+231140YREAI4   ROJAS ESPINOZA YRMA DONATIL    5,183.44       518.34    0.00       90.19       0.00       82.94       173.13     691.47
+542761LPCAO2   PALACIOS CARO LUIS MANUEL      2,216.04       221.60    0.00       38.56       3.99        0.00        42.55     264.15
+222520LRDEZ4   ROMERO DIAZ LILIANA            6,952.34       698.54    0.00      121.55       0.00      111.77       233.32     931.86
+510911JMSDV7   MENDOZA SILVA JOAQUIN ENRIQ    1,088.00       108.80    0.00       18.93       0.00       17.41        36.34     145.14
+209291MVSGD2   VARGAS MACHUCA SALDARRIAGA     2,954.59       295.46    0.00       51.41       5.32        0.00        56.73     352.19
+560530MPAEC3   PIMENTEL ATOCHE MARIA ELENA    5,303.73       530.37    0.00       92.28       0.00       84.86       177.14     707.51
+262411EAMEO8   ARCE MIO EVERALDO              6,816.15       681.62    0.00      118.60       0.00      109.06       227.66     909.28
+255141HLCAA6   LIZANO CUBA HENRY              4,174.18       417.42    0.00       72.63       0.00       66.79       139.42     556.84
+576780GSCRR8   SAIRE CCORA GABY ERIKA         6,908.51       690.85    0.00      120.21       0.00      110.54       230.75     921.60
+282531VZMAM0   ZEVALLOS MERMA VICTOR ANTON    6,030.56       603.06    0.00      104.93      10.86        0.00       115.79     718.85
+569191VCVLL8   CARLIN VILLARREAL VICTOR MA   15,997.57     1,599.76    0.00      183.31       0.00      255.96       439.27   2,039.03
+614041JPCEI7   PAREJA CELI JORGE MIGUEL       9,908.64     1,038.80    0.00      180.75       0.00      166.21       346.96   1,385.76
+571771BCRAR2   CASAS RODRIGUEZ BENJAMIN HE    2,049.11       204.91    0.00       35.65       0.00       32.79        68.44     273.35
+584721RPMNA0   PRINCIPE MENA RUSSBEL SANTO   19,222.87     1,922.29    0.00      183.31      34.60        0.00       217.91   2,140.20
+557661AESSN2   ELESCANO SAENZ ALBERTO CARL    3,614.00       361.40    0.00       62.88       0.00       57.82       120.70     482.10
+236091JGVME2   GUZMAN VARELA JESUS GERARDO    4,598.28       459.83    0.00       80.01       0.00       73.57       153.58     613.41
+581571AEMII0   ESPINOZA MEDINA ARMANDO SEB    7,448.52       744.85    0.00      129.60      13.41        0.00       143.01     887.86
+294711CCBAR3   CORAHUA BARRIENTOS CHRISTIA    7,035.00       703.50    0.00      122.41      12.66        0.00       135.07     838.57
+594590VJCEO6   JIMENEZ CORONADO VIOLETA AN    7,768.59       776.86    0.00      135.17       0.00      124.30       259.47   1,036.33
+539891JRCIN6   RAMIREZ CHUNGA JULIO CESAR     1,176.45       117.65    0.00       20.47       0.00       18.82        39.29     156.94
+620601FCPQI0   COAQUIRA PARI FREDY ALBERTO    5,488.00       548.80    0.00       95.49       9.88        0.00       105.37     654.17
+573551BLPRE4   LAURA PAREDES BILLY JOHN       5,966.05       596.61    0.00      103.81       0.00       95.46       199.27     795.88
+643700GATTP9   AROTINCO TAIPE GLORIA STEFA    3,504.39       350.44    0.00       60.98       6.31        0.00        67.29     417.73
+590221LRVRD1   RODRIGUEZ VALDERRAMA LUIS E   21,477.44     2,147.74    0.00      183.31       0.00      343.64       526.95   2,674.69
+334640MSTIR3   SOVIA TORRES MARLENE           7,113.00       711.30    0.00      123.77      12.80        0.00       136.57     847.87
+271411JMAIA6   MESIA ALVARADO JOSE JESUS      6,895.00       689.50    0.00      119.97       0.00      110.32       230.29     919.79
+308000ERSRC4   RODRIGUEZ SICCHA EVILIN NEI    5,075.00       507.50    0.00       88.31       0.00       81.20       169.51     677.01
+588511RGLMA1   GUZMAN LAZARO RICHARD ENRIQ    1,794.58       179.46    0.00       31.23       0.00       28.71        59.94     239.40
+578811OHCNL1   HUANCAYA CALLIRGOS ORLANDO     8,333.57       862.08    0.00      150.00      15.52        0.00       165.52   1,027.60
+311690EVCCT1   VILCHEZ CANTARO ERIKA JANET    3,593.52       359.35    0.00       62.53       6.47        0.00        69.00     428.35
+641780MAODE9   ABAD OBREGON MONICA YAJAIRA    2,000.00       200.00    0.00       34.80       3.60        0.00        38.40     238.40
+647461NCPUA4   CAHUANA PERALTA NESTOR         1,800.00       180.00    0.00       31.32       3.24        0.00        34.56     214.56
+650390BHEPI6   HUAPAYA ENCISO BRUNELLA LUC    5,000.00       500.00    0.00       87.00       9.00        0.00        96.00     596.00
+632020CMBHD0   MACHUCA BARDALES CYNTHIA MA    2,400.00       240.00    0.00       41.76       4.32        0.00        46.08     286.08
+601511EAEAR8   ALCANTARA ESTRADA EDGAR        2,623.60       262.36    0.00       45.65       4.72        0.00        50.37     312.73
+554291JRMEI7   RIVERA MOLINA JORGE WILFRED      604.74        60.47    0.00       10.52       0.00        9.68        20.20      80.67
+545601PJJUA7   JAQUE JARAMILLO PABLO MARTI    2,769.57       276.96    0.00       48.19       4.99        0.00        53.18     330.14
+270591APMTD0   PANTA MONDRAGON ALEX RUBEN     2,297.66       229.77    0.00       39.98       4.14        0.00        44.12     273.89
+568281AASRN0   ALARCON SERNAQUE AGUSTIN         709.99        71.00    0.00       12.35       0.00       11.36        23.71      94.71
+228031DCCDN9   CERDA CISNEROS DONATO          2,483.16       248.32    0.00       43.21       0.00       39.73        82.94     331.26
+604211CVBLJ3   VILLAR BORJAS CESAR HUMBERT    6,008.58       600.86    0.00      104.55       0.00       96.14       200.69     801.55
+503381ZSSCV4   SANCHEZ SALVATIERRA ZENON I    2,361.98       236.20    0.00        0.00       0.00       37.79        37.79     273.99
+536021JCPTE6   CASTILLO PINEDO JORGE MIGUE    2,654.52       265.45    0.00       46.19       0.00       42.47        88.66     354.11
+589911ULANE5   LEON ARCE ULISES GERARDO       2,221.86       222.19    0.00       38.66       0.00       35.55        74.21     296.40
+587561GPMTD0   PORTOCARRERO MENDOZA GABRIE    2,233.69       223.37    0.00       38.87       4.02        0.00        42.89     266.26
+
+CIA. MINERA AGREGADOS CALCAREOS S.A.                        09/03/2022
+
+                          I N F O R M A C I O N   P A R A   D E S C U E N T O S   A   F A V O R   D E   A. F. P. 
+                                                     PERIODO : FEBRERO - 2022
+-----------------------------------------------------------------------------------------------------------------------------------------
+   CODIGO              NOMBRE                  RESUMEN       FONDO    SOLIDAR.   PRIMA DE    COMISION  COMISION     SUBTOTAL     TOTAL
+                                               ASIGNAC.      PROPIO   I.P.S.S.    SEGURO       FIJA    %SOBRE RA   APORTES AFP   GENERAL
+-----------------------------------------------------------------------------------------------------------------------------------------
+                  PRIMA-AFP                              %   10.000      0.000    1.740   S/.  0.18       1.60
+-----------------------------------------------------------------------------------------------------------------------------------------
+583941GMMSS1   MAS MAS GEREMIAS               2,341.79       234.18    0.00       40.75       0.00       37.47        78.22     312.40
+607901JRAON9   RAMOS ASENCIO JUAN CARLOS V    2,458.97       245.90    0.00       42.79       4.43        0.00        47.22     293.12
+579561ECARI9   CAPRISTAN AGUILAR EVER PERC      414.55        41.46    0.00        7.21       0.00        6.63        13.84      55.30
+607041RMEAR5   MIRANDA ESTRADA RONALD CARL    2,325.44       232.54    0.00       40.46       0.00       37.21        77.67     310.21
+576421GHTTR0   HURTADO TORRES GILBERT         2,136.43       213.64    0.00       37.17       0.00       34.18        71.35     284.99
+285711ECTQE0   CONQUE TOLENTINO EUSEBIO TE    3,949.09       394.91    0.00       68.71       7.11        0.00        75.82     470.73
+606561RRCEJ9   RIVERA CHUJUTALLI ROYER        3,041.11       304.11    0.00       52.92       0.00       48.66       101.58     405.69
+602101WCMPE0   CAMPOMANES MORENO WILFREDO     2,685.53       268.55    0.00       46.73       0.00       42.97        89.70     358.25
+322771CCOLE0   CALLOAPAZA ORTEGA CESAR RAF    3,396.99       339.70    0.00       59.11       6.11        0.00        65.22     404.92
+614031JRAOC4   RAMOS ALLCCA JUAN              2,806.46       280.65    0.00       48.83       0.00       44.90        93.73     374.38
+600651WMVAL4   MEZA VILLANUEVA WILSON         2,456.34       245.63    0.00       42.74       0.00       39.30        82.04     327.67
+604341HCPDZ9   CORDOVA PAZ HENRRY             1,410.43       141.04    0.00       24.54       0.00       22.57        47.11     188.15
+614271JOUMU5   OCAMPO ULCUHUANGO JACK         1,179.61       117.96    0.00       20.53       2.12        0.00        22.65     140.61
+318021DMGDA9   MALDONADO GALARZA DIEGO ARM    1,359.88       135.99    0.00       23.66       0.00       21.76        45.42     181.41
+602141VVCGM0   VARGAS CHAMBI VICTOR AURELI    1,375.22       137.52    0.00       23.93       2.48        0.00        26.41     163.93
+344421JGSAH4   GAMA SHAHUANO JACK SANDER      1,292.80       129.28    0.00       22.49       2.33        0.00        24.82     154.10
+327361JVMEA9   VICENTE MACALUPU JEYTSON       2,039.67       203.97    0.00       35.49       3.67        0.00        39.16     243.13
+611711LLCAA1   LINARES CATASHUNGA LIONEL      2,098.52       209.85    0.00       36.51       3.78        0.00        40.29     250.14
+648721RICIA0   ISUIZA CUMAPA ROMARIO          1,843.08       184.31    0.00       32.07       3.32        0.00        35.39     219.70
+657551JLCOD2   LAZO CARDENAS JUAN JOSE        1,412.51       141.25    0.00       24.58       2.54        0.00        27.12     168.37
+331031CBGNZ1   BLANCO GONZALES CESAR CARLO    1,397.12       139.71    0.00       24.31       2.51        0.00        26.82     166.53
+664801JTNAH7   TAMANI NASHNATE JOSUE          1,077.84       107.78    0.00       18.75       1.94        0.00        20.69     128.47
+325821JCCRA3   CARRASCO CUYA JUAN JOSE          920.11        92.01    0.00       16.01       1.66        0.00        17.67     109.68
+657091DMTCJ2   MARCOS TRUJILLO DARWIN LEYD    1,477.55       147.76    0.00       25.71       2.66        0.00        28.37     176.13
+612501AHVNL3   HUANAQUIRI VILLACORTA ALBER    1,782.51       178.25    0.00       31.02       3.21        0.00        34.23     212.48
+328851CCLPN5   CUMPA LEON CESAR ANTONIO         564.71        56.47    0.00        9.83       1.02        0.00        10.85      67.32
+667141JCSDC0   CARDENAS SANCHEZ JUAN PABLO    1,456.44       145.64    0.00       25.34       2.62        0.00        27.96     173.60
+618241RCCVC0   CHAVEZ CANCHUMANTA RONY          498.47        49.85    0.00        8.67       0.00        7.98        16.65      66.50
+619471AACCT8   ALCCA CASTILLO ALEX ANTONIO      804.66        80.47    0.00       14.00       1.45        0.00        15.45      95.92
+622041JPLTU1   PANTALEON LUPUCHE JAIME EDU    1,766.80       176.68    0.00       30.74       3.18        0.00        33.92     210.60
+632901JCPCI0   CANCHAN PADILLA JORDAN ALEJ    1,097.81       109.78    0.00       19.10       1.98        0.00        21.08     130.86
+650401MATMA1   AHUMADA TENAZOA MARIO HAZUR      415.82        41.58    0.00        7.24       0.75        0.00         7.99      49.57
+319331COBII6   OBLITAS BENITES CARLOS CESA       64.47         6.45    0.00        1.12       0.00        1.03         2.15       8.60
+632221RAORR6   ATARAMA OPORTO ROBERTO JUNI      593.23        59.32    0.00       10.32       1.07        0.00        11.39      70.71
+662501LCRLS4   CALLE ROSSI LUIS ELVIO            39.65         3.97    0.00        0.69       0.07        0.00         0.76       4.73
+611701HAGCP4   ALLCCAHUAMAN GASPAR HECTOR     2,838.72       283.87    0.00       49.39       5.11        0.00        54.50     338.37
+586461MOGIZ3   OCMIN GONZALES MIGUEL ANGEL    2,456.96       245.70    0.00       42.75       0.00       39.31        82.06     327.76
+
+T O T A L E S : .........S/.                301,649.06    30,244.90    0.00    4,784.88     236.97    2,733.10     7,754.95  37,999.85
+
+No Trabajadores                83.00
+No Trabajadores Empleado       35.00
+No Trabajadores Obrero         48.00
+
+CIA. MINERA AGREGADOS CALCAREOS S.A.                        09/03/2022
+
+                          I N F O R M A C I O N   P A R A   D E S C U E N T O S   A   F A V O R   D E   A. F. P. 
+                                                     PERIODO : FEBRERO - 2022
+-----------------------------------------------------------------------------------------------------------------------------------------
+   CODIGO              NOMBRE                  RESUMEN       FONDO    SOLIDAR.   PRIMA DE    COMISION  COMISION     SUBTOTAL     TOTAL
+                                               ASIGNAC.      PROPIO   I.P.S.S.    SEGURO       FIJA    %SOBRE RA   APORTES AFP   GENERAL
+-----------------------------------------------------------------------------------------------------------------------------------------
+                  HABITAT                                %   10.000      0.000    1.740   S/.  0.23       1.47
+-----------------------------------------------------------------------------------------------------------------------------------------
+245971CGVZA5   GONZALES VEGA CESAR ORLANDO   15,893.06     1,589.31    0.00      180.18       0.00      233.63       413.81   2,003.12
+234251ZMCEV0   MORENO CHAVEZ ZENOBIO DENNE   19,668.55     1,966.86    0.00      183.31       0.00      289.13       472.44   2,439.30
+224501JAMME3   AGAMA MORENO JAVIER JORGE     17,742.73     1,774.27    0.00      183.31       0.00      260.82       444.13   2,218.40
+571120MGCZI0   GONZALES CUBILLAS MARIA JUL    5,289.18       528.92    0.00       92.03       0.00       77.75       169.78     698.70
+270871MRPEH9   ROMERO PACHECO MARCO ANTONI    5,047.80       504.78    0.00       87.83      11.61        0.00        99.44     604.22
+219041JFETO7   FRITSCHI ESCOBAR JORGE LUIS   35,514.00     3,551.40    0.00      183.31       0.00      522.06       705.37   4,256.77
+576901JBRLS1   BALLEN ROSSELLO JUAN JOSE     45,114.00     4,511.40    0.00      183.31       0.00      663.18       846.49   5,357.89
+311020KMAEN7   MORENO ABAN KELY KATHERINE     3,088.12       308.81    0.00       53.73       7.10        0.00        60.83     369.64
+303571JOAIA1   ORTIZ ALVARES JHONATAN AMER    3,286.00       328.60    0.00       57.18       7.56        0.00        64.74     393.34
+596391BBRTE5   BERTOLOTTI RIVERA BRUNO JES   18,633.00     1,863.30    0.00      183.31       0.00      273.91       457.22   2,320.52
+335530KTPLA7   TELLO PASACHE KERLY CAROLIN    4,286.96       428.70    0.00       74.59       9.86        0.00        84.45     513.15
+341181AAVIE2   ALVITES VALENCIA ALFONSO CA    4,255.00       425.50    0.00       74.04       9.79        0.00        83.83     509.33
+599201OEAIA1   ESPINOZA ANCALLE OBER YONY    24,096.00     2,409.60    0.00      183.31      55.42        0.00       238.73   2,648.33
+596541DCZEA0   CACERES ZEVALLOS DIEGO ALON   18,400.00     1,840.00    0.00      183.31       0.00      270.48       453.79   2,293.79
+646841JATZR3   ARIZAGA TORRES JHONATAN JAV    4,970.22       497.02    0.00       86.48      11.43        0.00        97.91     594.93
+330061VCCPI7   CHAPILLIQUEN CELIS VICTOR R    4,000.00       400.00    0.00       69.60       9.20        0.00        78.80     478.80
+338470JRTLR6   ROBLES TORRES JOSSELINE MER   15,900.00     1,590.00    0.00      183.31      36.57        0.00       219.88   1,809.88
+658541GLMAT8   LIZARRAGA MONTEJO GUILLERMO    1,799.40       179.94    0.00       31.31       4.14        0.00        35.45     215.39
+610431DMVAA9   MORALES VEGA DAVID             2,208.78       220.88    0.00       38.43       0.00       32.47        70.90     291.78
+650701LAABP1   AZABACHE AGAPITO LUIS JHONA    1,686.98       168.70    0.00       29.35       3.88        0.00        33.23     201.93
+645641jvmce9   VILCA MORENO JHONATAN          1,306.19       130.62    0.00       22.73       3.00        0.00        25.73     156.35
+351241LBMRA0   BARRIOS MORAN LUIS AARON       1,353.85       135.39    0.00       23.56       3.11        0.00        26.67     162.06
+323981JMCTD0   MESTANZA CALDERON JOSE ELME    1,301.05       130.11    0.00       22.64       2.99        0.00        25.63     155.74
+640521LGQCS2   GARCIA QUISPE LUIS MIGUEL        890.63        89.06    0.00       15.50       2.05        0.00        17.55     106.61
+616821LPEOE0   PALOMINO ESPEJO LENER MAXIM    2,779.21       277.92    0.00       48.36       6.39        0.00        54.75     332.67
+639831JAINN4   AVENDAÑO IPANAQUE JUNIOR VI    2,158.17       215.82    0.00       37.55       4.96        0.00        42.51     258.33
+316911JBVCL3   BANCES VILLEGAS JHONNY ALAN    1,211.07       121.11    0.00       21.07       2.79        0.00        23.86     144.97
+645481JCMRA3   CAIRA MAMANI JOHANN EDSON      1,118.09       111.81    0.00       19.45       2.57        0.00        22.02     133.83
+325711JIVOT0   IDROGO VENTURA JHON DANY       1,480.70       148.07    0.00       25.76       3.41        0.00        29.17     177.24
+656511JQCSI3   QUISPE CADILLO JULIO CESAR       796.04        79.60    0.00       13.85       1.83        0.00        15.68      95.28
+602061CBPAA7   BACA PALADINES CESAR           1,893.84       189.38    0.00       32.95       4.36        0.00        37.31     226.69
+
+T O T A L E S : .........S/.                267,168.62    26,716.88    0.00    2,624.65     204.02    2,623.43     5,452.10  32,168.98
+
+No Trabajadores                31.00
+No Trabajadores Empleado       18.00
+No Trabajadores Obrero         13.00

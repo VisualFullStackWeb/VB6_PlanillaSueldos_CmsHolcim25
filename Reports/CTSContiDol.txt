@@ -1,0 +1,4 @@
+61000110686000100006805USD000000000155008F20210510DDEPOSITO CTS             000003S                                                                    
+002L10576846    P00110501000708619085FERNANDEZ VIDARTE ENRIQUE               000000000040879DEPOSITO CTS                                                                                                                                    000000001072800PEN                  
+002L06877111    P00110501000708232245SAUCEDO GARRIDO GREGORIO                000000000076373DEPOSITO CTS                                                                                                                                    000000002017192PEN                  
+002L21261914    P00110183110710073267CUADRADO MAÑUECO ROMULO                 000000000037756DEPOSITO CTS                                                                                                                                    000000001009080PEN                  
